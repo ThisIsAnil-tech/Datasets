@@ -1,0 +1,11 @@
+ID, Review ,Sentiment
+1,"""The food was absolutely wonderful""",'Positive'
+2,"""Terrible service and cold food""",'Negative'
+3,"""I loved the burger, it was juicy""",'Positive'
+4,"""Waiters were rude and slow""",'Negative'
+5,"""Best pizza in town, highly recommend""",'Positive'
+6,"""Not worth the money, very expensive""",'Negative'
+7,"""Delicious dessert and coffee""",'Positive'
+8,"""The place was dirty and smelled bad""",'Negative'
+9,"""Great atmosphere and friendly staff""",'Positive'
+10,"""Food arrived late and was tasteless""",'Negative'

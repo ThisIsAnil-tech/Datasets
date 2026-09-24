@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,email,city,product_name,category,unit_price,quantity,total_price,order_date,last_updated,payment_method,status,is_returned,discount_percent
+1001,525,William Jones,william.jones79@example.com,Mumbai,Sports Item 27,Sports,331.26,1,331.26,2022-11-19,2022-11-19 08:00:00,Bank Transfer,Pending,0,5.9
+1002,598,James Martinez,james.martinez97@example.com,Paris,Clothing Item 33,Clothing,156.33,4,625.32,2023-04-20,2023-04-20 16:14:00,Credit Card,Cancelled,0,10.3
+1003,524,John Johnson,john.johnson25@example.com,London,Clothing Item 47,Clothing,15.86,3,47.58,2022-06-14,2022-06-14 03:30:00,PayPal,Delivered,0,23.6
+1004,539,Jennifer Davis,jennifer.davis22@example.com,Tokyo,Clothing Item 17,Clothing,481.13,1,481.13,2022-05-16,2022-05-16 05:20:00,PayPal,Shipped,0,
+1005,574,Mary Martinez,mary.martinez25@example.com,New York,Beauty Item 29,Beauty,206.77,5,1033.85,2023-06-03,2023-06-04 15:42:00,Credit Card,Shipped,0,7.4
+1006,517,Jennifer Johnson,jennifer.johnson91@example.com,Berlin,Clothing Item 25,Clothing,149.2,1,149.2,2022-06-14,2022-06-15 04:39:00,Debit Card,Shipped,0,6.8
+1007,514,Mary Johnson,mary.johnson21@example.com,New York,Clothing Item 16,Clothing,254.02,4,1016.08,2022-02-23,2022-02-24 17:59:00,PayPal,Cancelled,0,20.7
+1008,550,Linda Williams,linda.williams28@example.com,Sydney,Clothing Item 36,Clothing,371.03,2,742.06,2022-11-14,2022-11-16 00:38:00,Crypto,Pending,0,17.5
+1009,514,Elizabeth Rodriguez,elizabeth.rodriguez22@example.com,Mumbai,Sports Item 33,Sports,75.26,5,376.3,2022-05-18,2022-05-19 11:16:00,PayPal,Shipped,0,13.1
+1010,520,Mary Smith,mary.smith68@example.com,Toronto,Clothing Item 29,Clothing,478.87,1,478.87,2022-04-01,2022-04-02 18:20:00,Bank Transfer,Cancelled,0,
+1011,551,Michael Johnson,michael.johnson41@example.com,New York,Sports Item 29,Sports,415.66,1,415.66,2023-07-23,2023-07-24 06:43:00,Crypto,Shipped,0,18.5
+1012,517,Jennifer Brown,jennifer.brown19@example.com,London,Home & Kitchen Item 47,Home & Kitchen,266.13,4,1064.52,2022-05-18,2022-05-19 13:58:00,Debit Card,Shipped,0,20.5
+1013,534,Jennifer Brown,jennifer.brown39@example.com,Mumbai,Electronics Item 42,Electronics,354.91,3,1064.73,2023-08-12,2023-08-13 21:28:00,Crypto,Cancelled,0,7.4
+1014,568,Patricia Smith,patricia.smith83@example.com,Sydney,Clothing Item 46,Clothing,47.76,2,95.52,2023-10-21,2023-10-22 16:15:00,PayPal,Shipped,0,6.8
+1015,579,Linda Miller,linda.miller98@example.com,New York,Clothing Item 12,Clothing,248.61,2,497.22,2022-05-25,2022-05-25 23:02:00,Credit Card,Shipped,0,8.2
+1016,559,William Brown,william.brown41@example.com,Sydney,Clothing Item 35,Clothing,396.84,3,1190.52,2022-07-11,2022-07-11 18:43:00,PayPal,Pending,0,9.0
+1017,549,Robert Jones,robert.jones18@example.com,London,Books Item 29,Books,380.29,3,1140.87,2023-05-30,2023-06-01 00:52:00,PayPal,Cancelled,0,11.2
+1018,586,James Martinez,james.martinez95@example.com,London,Books Item 16,Books,447.82,1,447.82,2022-09-04,2022-09-04 10:17:00,Crypto,Delivered,0,8.4
+1019,550,Patricia Brown,patricia.brown41@example.com,Toronto,Sports Item 8,Sports,17.18,3,51.54,2023-07-28,2023-07-29 02:57:00,PayPal,Cancelled,0,8.9
+1020,546,Patricia Smith,patricia.smith97@example.com,Berlin,Electronics Item 43,Electronics,491.7,3,1475.1,2022-05-18,2022-05-19 05:21:00,Debit Card,Delivered,0,12.2
+1021,584,Linda Davis,linda.davis15@example.com,Mumbai,Beauty Item 11,Beauty,144.57,4,578.28,2022-02-20,2022-02-20 23:47:00,Crypto,Shipped,0,5.5
+1022,579,John Williams,john.williams17@example.com,Berlin,Beauty Item 7,Beauty,291.1,5,1455.5,2023-01-17,2023-01-17 08:57:00,Debit Card,Delivered,0,
+1023,539,Elizabeth Garcia,elizabeth.garcia80@example.com,Tokyo,Electronics Item 12,Electronics,128.99,2,257.98,2023-05-17,2023-05-17 06:05:00,Credit Card,Shipped,0,
+1024,516,William Jones,william.jones86@example.com,New York,Books Item 27,Books,272.54,5,1362.7,2023-11-27,2023-11-27 09:55:00,Bank Transfer,Cancelled,0,
+1025,542,Linda Smith,linda.smith85@example.com,New York,Books Item 20,Books,59.72,1,59.72,2024-02-03,2024-02-04 02:31:00,Credit Card,Pending,0,18.2
+1026,560,Mary Johnson,mary.johnson59@example.com,Tokyo,Home & Kitchen Item 42,Home & Kitchen,171.52,2,343.04,2022-01-10,2022-01-10 04:55:00,Bank Transfer,Cancelled,1,24.1
+1027,596,Patricia Brown,patricia.brown13@example.com,New York,Books Item 29,Books,239.31,1,239.31,2022-11-26,2022-11-26 11:38:00,Crypto,Delivered,0,13.0
+1028,563,John Smith,john.smith10@example.com,New York,Beauty Item 30,Beauty,316.3,1,316.3,2023-10-18,2023-10-18 16:50:00,Credit Card,Delivered,0,20.9
+1029,505,Robert Martinez,robert.martinez13@example.com,Tokyo,Beauty Item 23,Beauty,128.76,2,257.52,2023-10-03,2023-10-04 14:35:00,Debit Card,Cancelled,0,
+1030,563,James Smith,james.smith92@example.com,Paris,Books Item 25,Books,117.32,3,351.96,2022-03-11,2022-03-12 15:07:00,Debit Card,Cancelled,0,5.8
+1031,533,Jennifer Williams,jennifer.williams88@example.com,Sydney,Electronics Item 38,Electronics,98.88,3,296.64,2022-07-10,2022-07-10 19:27:00,PayPal,Shipped,0,18.0
+1032,600,Robert Smith,robert.smith34@example.com,Tokyo,Books Item 39,Books,342.21,4,1368.84,2023-11-25,2023-11-25 21:58:00,Bank Transfer,Pending,0,12.9
+1033,543,Linda Brown,linda.brown40@example.com,London,Sports Item 40,Sports,137.7,2,275.4,2023-08-01,2023-08-01 01:46:00,Crypto,Cancelled,0,
+1034,578,Robert Miller,robert.miller65@example.com,Berlin,Beauty Item 27,Beauty,268.21,3,804.63,2022-12-14,2022-12-14 16:25:00,Credit Card,Delivered,0,11.6
+1035,537,William Garcia,william.garcia88@example.com,Sydney,Home & Kitchen Item 12,Home & Kitchen,275.55,5,1377.75,2023-09-09,2023-09-10 15:30:00,Credit Card,Pending,0,17.2
+1036,589,Patricia Williams,patricia.williams55@example.com,Tokyo,Electronics Item 39,Electronics,96.53,5,482.65,2022-07-29,2022-07-30 09:56:00,Credit Card,Pending,0,7.6
+1037,552,Patricia Rodriguez,patricia.rodriguez39@example.com,Paris,Clothing Item 9,Clothing,176.16,2,352.32,2022-12-02,2022-12-03 00:52:00,Debit Card,Shipped,0,
+1038,569,William Martinez,william.martinez21@example.com,Sydney,Clothing Item 9,Clothing,349.6,3,1048.8,2024-01-09,2024-01-09 15:30:00,Bank Transfer,Cancelled,0,21.9
+1039,532,Patricia Brown,patricia.brown66@example.com,Tokyo,Beauty Item 36,Beauty,165.17,1,165.17,2023-04-06,2023-04-07 01:34:00,Debit Card,Pending,1,17.2
+1040,556,John Williams,john.williams78@example.com,Mumbai,Sports Item 48,Sports,115.38,5,576.9,2022-11-18,2022-11-19 17:11:00,Bank Transfer,Cancelled,0,20.1
+1041,566,Mary Brown,mary.brown82@example.com,Toronto,Clothing Item 16,Clothing,140.84,4,563.36,2022-04-22,2022-04-22 22:22:00,Crypto,Cancelled,0,19.1
+1042,559,John Jones,john.jones94@example.com,Paris,Beauty Item 5,Beauty,421.27,4,1685.08,2024-02-28,2024-02-28 08:16:00,Bank Transfer,Pending,0,24.1
+1043,527,James Davis,james.davis29@example.com,Sydney,Sports Item 26,Sports,340.25,5,1701.25,2022-06-25,2022-06-25 20:07:00,Credit Card,Delivered,0,9.9
+1044,524,Jennifer Smith,jennifer.smith90@example.com,London,Home & Kitchen Item 17,Home & Kitchen,68.32,4,273.28,2022-08-29,2022-08-29 17:18:00,Credit Card,Pending,0,
+1045,583,Robert Martinez,robert.martinez53@example.com,Tokyo,Sports Item 31,Sports,134.73,4,538.92,2022-11-21,2022-11-21 14:59:00,Bank Transfer,Shipped,0,
+1046,539,Robert Garcia,robert.garcia29@example.com,Berlin,Sports Item 15,Sports,213.67,5,1068.35,2022-11-22,2022-11-22 09:29:00,PayPal,Cancelled,0,
+1047,509,Jennifer Brown,jennifer.brown97@example.com,London,Clothing Item 25,Clothing,108.95,2,217.9,2023-01-27,2023-01-27 10:42:00,Debit Card,Pending,0,15.7
+1048,542,Michael Johnson,michael.johnson89@example.com,Paris,Books Item 47,Books,475.33,3,1425.99,2022-08-26,2022-08-26 18:10:00,Crypto,Cancelled,0,
+1049,582,Patricia Jones,patricia.jones10@example.com,Paris,Sports Item 21,Sports,450.68,4,1802.72,2022-03-03,2022-03-03 04:02:00,Credit Card,Delivered,0,18.7
+1050,554,Jennifer Jones,jennifer.jones31@example.com,Paris,Sports Item 14,Sports,443.21,5,2216.05,2023-01-19,2023-01-20 01:42:00,Credit Card,Shipped,0,21.7
+1051,539,Patricia Brown,patricia.brown49@example.com,Paris,Electronics Item 32,Electronics,353.63,1,353.63,2022-01-28,2022-01-29 08:52:00,Crypto,Cancelled,0,24.4
+1052,506,Robert Johnson,robert.johnson80@example.com,Mumbai,Books Item 28,Books,350.85,1,350.85,2022-03-16,2022-03-16 21:25:00,PayPal,Pending,0,12.4
+1053,576,Patricia Martinez,patricia.martinez22@example.com,Sydney,Electronics Item 48,Electronics,78.47,1,78.47,2023-10-30,2023-10-31 20:29:00,PayPal,Pending,0,14.8
+1054,599,Jennifer Garcia,jennifer.garcia81@example.com,London,Books Item 7,Books,248.49,5,1242.45,2023-07-20,2023-07-20 23:38:00,Bank Transfer,Shipped,0,11.8
+1055,591,Robert Rodriguez,robert.rodriguez99@example.com,Sydney,Clothing Item 48,Clothing,394.56,4,1578.24,2023-02-08,2023-02-08 23:45:00,Crypto,Shipped,0,21.5
+1056,542,Robert Brown,robert.brown10@example.com,New York,Electronics Item 32,Electronics,369.18,2,738.36,2022-02-17,2022-02-18 02:50:00,Credit Card,Cancelled,0,14.5
+1057,528,Robert Davis,robert.davis68@example.com,New York,Electronics Item 30,Electronics,144.59,2,289.18,2022-02-25,2022-02-25 12:17:00,Crypto,Shipped,0,5.2
+1058,597,Robert Williams,robert.williams69@example.com,Toronto,Sports Item 49,Sports,429.93,4,1719.72,2023-01-11,2023-01-11 03:12:00,Crypto,Shipped,0,9.1
+1059,560,Patricia Davis,patricia.davis36@example.com,Toronto,Electronics Item 39,Electronics,43.56,4,174.24,2023-07-22,2023-07-22 07:20:00,Bank Transfer,Cancelled,0,17.5
+1060,549,Linda Rodriguez,linda.rodriguez19@example.com,Mumbai,Beauty Item 46,Beauty,96.85,5,484.25,2023-06-11,2023-06-12 21:35:00,PayPal,Pending,0,
+1061,563,Mary Davis,mary.davis58@example.com,Mumbai,Books Item 34,Books,459.72,1,459.72,2023-06-20,2023-06-21 02:25:00,Credit Card,Cancelled,0,22.5
+1062,589,Michael Garcia,michael.garcia47@example.com,Toronto,Beauty Item 48,Beauty,168.05,2,336.1,2024-03-08,2024-03-09 01:23:00,PayPal,Shipped,0,
+1063,500,Elizabeth Brown,elizabeth.brown74@example.com,New York,Beauty Item 14,Beauty,225.35,3,676.05,2023-01-05,2023-01-06 01:02:00,Crypto,Delivered,0,9.7
+1064,500,Linda Rodriguez,linda.rodriguez99@example.com,London,Home & Kitchen Item 29,Home & Kitchen,302.13,4,1208.52,2022-07-13,2022-07-14 19:27:00,Debit Card,Shipped,0,18.0
+1065,561,Patricia Martinez,patricia.martinez97@example.com,Mumbai,Electronics Item 10,Electronics,231.16,5,1155.8,2022-01-02,2022-01-02 15:22:00,Debit Card,Cancelled,1,14.6
+1066,543,Elizabeth Martinez,elizabeth.martinez16@example.com,Paris,Electronics Item 25,Electronics,58.89,4,235.56,2023-12-08,2023-12-09 06:12:00,Crypto,Shipped,0,10.5
+1067,579,James Johnson,james.johnson82@example.com,Paris,Home & Kitchen Item 34,Home & Kitchen,297.75,2,595.5,2023-09-16,2023-09-16 17:36:00,Crypto,Pending,0,21.4
+1068,518,Robert Johnson,robert.johnson47@example.com,Tokyo,Beauty Item 47,Beauty,353.58,2,707.16,2022-07-13,2022-07-14 04:30:00,Credit Card,Cancelled,0,
+1069,558,James Jones,james.jones76@example.com,London,Electronics Item 39,Electronics,60.9,5,304.5,2022-07-18,2022-07-19 08:13:00,PayPal,Cancelled,0,
+1070,514,John Miller,john.miller41@example.com,Mumbai,Electronics Item 28,Electronics,475.25,3,1425.75,2022-10-16,2022-10-17 07:44:00,Bank Transfer,Cancelled,0,10.2
+1071,553,William Rodriguez,william.rodriguez58@example.com,Paris,Home & Kitchen Item 24,Home & Kitchen,86.3,1,86.3,2023-02-08,2023-02-09 04:01:00,Debit Card,Shipped,0,
+1072,534,Elizabeth Williams,elizabeth.williams80@example.com,Tokyo,Sports Item 25,Sports,331.49,1,331.49,2024-03-05,2024-03-05 19:32:00,PayPal,Cancelled,0,11.3
+1073,559,Jennifer Smith,jennifer.smith34@example.com,Berlin,Electronics Item 26,Electronics,284.83,3,854.49,2022-07-10,2022-07-11 04:43:00,Credit Card,Shipped,0,
+1074,575,Elizabeth Miller,elizabeth.miller21@example.com,Sydney,Sports Item 50,Sports,405.12,4,1620.48,2023-12-09,2023-12-10 03:12:00,Crypto,Cancelled,0,
+1075,525,Robert Davis,robert.davis15@example.com,Toronto,Sports Item 2,Sports,61.97,2,123.94,2022-06-06,2022-06-07 09:28:00,Debit Card,Cancelled,0,
+1076,548,Robert Davis,robert.davis32@example.com,Paris,Beauty Item 13,Beauty,110.74,3,332.22,2023-02-25,2023-02-26 02:09:00,Credit Card,Delivered,0,20.2
+1077,594,Elizabeth Garcia,elizabeth.garcia99@example.com,Mumbai,Sports Item 36,Sports,226.78,3,680.34,2022-04-30,2022-04-30 02:57:00,Debit Card,Pending,0,
+1078,595,Elizabeth Martinez,elizabeth.martinez61@example.com,Paris,Electronics Item 39,Electronics,95.76,1,95.76,2022-11-18,2022-11-19 01:33:00,Credit Card,Delivered,0,14.7
+1079,600,Patricia Garcia,patricia.garcia56@example.com,Paris,Sports Item 11,Sports,256.1,1,256.1,2023-12-11,2023-12-11 05:55:00,Crypto,Pending,0,18.7
+1080,528,William Jones,william.jones53@example.com,Tokyo,Sports Item 31,Sports,436.89,4,1747.56,2023-07-17,2023-07-18 05:30:00,Debit Card,Cancelled,0,
+1081,526,Mary Martinez,mary.martinez43@example.com,Paris,Books Item 11,Books,12.46,2,24.92,2023-10-28,2023-10-29 13:00:00,Debit Card,Pending,0,13.5
+1082,542,John Jones,john.jones11@example.com,Paris,Home & Kitchen Item 35,Home & Kitchen,381.55,4,1526.2,2022-07-20,2022-07-20 22:49:00,Debit Card,Pending,0,12.5
+1083,561,William Johnson,william.johnson13@example.com,Tokyo,Books Item 44,Books,38.06,5,190.3,2023-10-19,2023-10-20 00:46:00,Crypto,Shipped,0,7.1
+1084,559,James Rodriguez,james.rodriguez23@example.com,London,Books Item 46,Books,468.26,2,936.52,2022-10-21,2022-10-21 01:03:00,Credit Card,Cancelled,0,14.2
+1085,519,Linda Jones,linda.jones48@example.com,New York,Home & Kitchen Item 26,Home & Kitchen,371.86,3,1115.58,2023-06-25,2023-06-26 01:44:00,PayPal,Cancelled,0,8.9
+1086,594,Linda Martinez,linda.martinez69@example.com,New York,Books Item 43,Books,142.09,3,426.27,2022-12-28,2022-12-29 21:06:00,Crypto,Cancelled,0,19.4
+1087,518,Linda Smith,linda.smith18@example.com,New York,Electronics Item 7,Electronics,162.24,4,648.96,2022-03-22,2022-03-22 12:10:00,Credit Card,Delivered,0,10.6
+1088,587,William Garcia,william.garcia91@example.com,Paris,Beauty Item 24,Beauty,258.48,2,516.96,2022-04-06,2022-04-07 08:49:00,Bank Transfer,Delivered,0,15.2
+1089,587,Mary Garcia,mary.garcia18@example.com,Paris,Clothing Item 11,Clothing,417.11,5,2085.55,2024-01-09,2024-01-09 05:32:00,Bank Transfer,Pending,0,10.5
+1090,551,William Brown,william.brown20@example.com,Paris,Beauty Item 24,Beauty,192.06,2,384.12,2023-05-23,2023-05-23 19:42:00,Bank Transfer,Delivered,0,
+1091,530,Elizabeth Davis,elizabeth.davis39@example.com,Mumbai,Clothing Item 3,Clothing,450.4,5,2252.0,2023-01-17,2023-01-18 07:33:00,Debit Card,Shipped,0,9.6
+1092,599,Jennifer Rodriguez,jennifer.rodriguez57@example.com,Berlin,Books Item 41,Books,135.03,2,270.06,2023-06-11,2023-06-11 09:20:00,Crypto,Cancelled,0,18.7
+1093,583,James Martinez,james.martinez10@example.com,Paris,Electronics Item 35,Electronics,155.15,5,775.75,2023-01-31,2023-01-31 07:18:00,Bank Transfer,Pending,0,
+1094,508,Michael Williams,michael.williams60@example.com,Tokyo,Beauty Item 27,Beauty,97.07,2,194.14,2022-04-15,2022-04-15 10:03:00,Bank Transfer,Shipped,0,21.5
+1095,581,Patricia Garcia,patricia.garcia80@example.com,Berlin,Electronics Item 49,Electronics,427.25,3,1281.75,2023-12-11,2023-12-11 16:09:00,Crypto,Delivered,0,
+1096,555,Elizabeth Smith,elizabeth.smith38@example.com,New York,Sports Item 26,Sports,129.42,4,517.68,2023-05-30,2023-05-31 12:16:00,Crypto,Shipped,0,10.8
+1097,590,Patricia Williams,patricia.williams48@example.com,Toronto,Sports Item 46,Sports,399.33,5,1996.65,2024-02-19,2024-02-19 04:39:00,Credit Card,Cancelled,0,23.5
+1098,585,John Jones,john.jones70@example.com,Sydney,Beauty Item 28,Beauty,119.8,4,479.2,2022-03-01,2022-03-01 08:12:00,Debit Card,Delivered,0,22.4
+1099,550,Elizabeth Smith,elizabeth.smith62@example.com,Sydney,Clothing Item 2,Clothing,145.1,3,435.3,2024-02-20,2024-02-20 06:45:00,Debit Card,Pending,0,
+1100,562,Patricia Jones,patricia.jones95@example.com,Tokyo,Beauty Item 21,Beauty,272.06,4,1088.24,2023-06-09,2023-06-09 04:09:00,Debit Card,Pending,0,
+1101,555,Elizabeth Davis,elizabeth.davis34@example.com,Tokyo,Home & Kitchen Item 42,Home & Kitchen,479.45,2,958.9,2023-07-15,2023-07-15 23:47:00,PayPal,Delivered,0,15.7
+1102,518,Jennifer Johnson,jennifer.johnson22@example.com,Toronto,Sports Item 29,Sports,442.49,3,1327.47,2022-01-06,2022-01-06 02:08:00,PayPal,Pending,0,11.4
+1103,523,Elizabeth Garcia,elizabeth.garcia85@example.com,Toronto,Home & Kitchen Item 35,Home & Kitchen,402.05,1,402.05,2023-07-30,2023-07-30 20:27:00,PayPal,Pending,0,12.2
+1104,516,Linda Jones,linda.jones23@example.com,Sydney,Beauty Item 26,Beauty,480.28,1,480.28,2022-09-15,2022-09-16 16:48:00,Crypto,Cancelled,0,21.4
+1105,565,Elizabeth Brown,elizabeth.brown77@example.com,Paris,Clothing Item 47,Clothing,30.97,2,61.94,2022-02-13,2022-02-13 02:32:00,Debit Card,Pending,0,21.0
+1106,515,James Brown,james.brown99@example.com,Paris,Sports Item 28,Sports,188.51,2,377.02,2023-01-16,2023-01-16 02:47:00,Debit Card,Delivered,0,
+1107,571,Robert Johnson,robert.johnson19@example.com,Paris,Home & Kitchen Item 45,Home & Kitchen,456.76,4,1827.04,2022-01-26,2022-01-26 08:04:00,Credit Card,Shipped,0,17.5
+1108,528,John Johnson,john.johnson21@example.com,Berlin,Books Item 6,Books,266.38,5,1331.9,2023-01-29,2023-01-29 10:23:00,Credit Card,Pending,0,24.6
+1109,522,Jennifer Davis,jennifer.davis45@example.com,Toronto,Electronics Item 32,Electronics,239.33,1,239.33,2024-02-17,2024-02-17 18:15:00,Debit Card,Delivered,0,14.4
+1110,559,Patricia Johnson,patricia.johnson91@example.com,Berlin,Clothing Item 11,Clothing,287.76,5,1438.8,2023-08-03,2023-08-03 15:15:00,Bank Transfer,Shipped,0,5.2
+1111,534,Mary Brown,mary.brown69@example.com,Sydney,Beauty Item 1,Beauty,110.35,3,331.05,2023-05-18,2023-05-19 12:15:00,Crypto,Delivered,0,
+1112,526,Elizabeth Jones,elizabeth.jones75@example.com,London,Books Item 46,Books,160.52,3,481.56,2022-03-24,2022-03-25 03:38:00,Bank Transfer,Cancelled,0,21.4
+1113,527,Robert Garcia,robert.garcia58@example.com,New York,Home & Kitchen Item 39,Home & Kitchen,433.45,4,1733.8,2022-10-16,2022-10-16 04:11:00,PayPal,Shipped,0,
+1114,553,John Johnson,john.johnson31@example.com,Mumbai,Books Item 35,Books,431.37,2,862.74,2022-03-22,2022-03-23 05:13:00,Credit Card,Shipped,0,
+1115,544,Mary Miller,mary.miller26@example.com,Berlin,Clothing Item 11,Clothing,474.95,3,1424.85,2022-08-17,2022-08-17 23:30:00,Credit Card,Delivered,0,23.1
+1116,588,Linda Johnson,linda.johnson96@example.com,Berlin,Electronics Item 46,Electronics,359.63,5,1798.15,2023-09-11,2023-09-11 19:07:00,PayPal,Pending,0,
+1117,507,Patricia Smith,patricia.smith38@example.com,Paris,Electronics Item 42,Electronics,308.95,3,926.85,2023-06-02,2023-06-02 07:59:00,PayPal,Delivered,0,
+1118,520,Patricia Martinez,patricia.martinez32@example.com,London,Electronics Item 6,Electronics,53.83,1,53.83,2022-03-15,2022-03-16 19:39:00,PayPal,Cancelled,0,5.2
+1119,542,Jennifer Davis,jennifer.davis65@example.com,Sydney,Clothing Item 38,Clothing,371.55,2,743.1,2023-01-05,2023-01-05 07:27:00,PayPal,Delivered,0,
+1120,509,Elizabeth Garcia,elizabeth.garcia70@example.com,Toronto,Clothing Item 41,Clothing,384.38,3,1153.14,2022-04-16,2022-04-17 21:43:00,Debit Card,Shipped,0,
+1121,523,Michael Williams,michael.williams78@example.com,Mumbai,Clothing Item 43,Clothing,108.71,5,543.55,2023-10-25,2023-10-25 08:11:00,Credit Card,Delivered,0,21.9
+1122,536,William Brown,william.brown27@example.com,London,Sports Item 38,Sports,270.25,3,810.75,2022-12-22,2022-12-22 10:54:00,Bank Transfer,Cancelled,0,6.3
+1123,511,William Brown,william.brown54@example.com,Tokyo,Home & Kitchen Item 23,Home & Kitchen,21.38,5,106.9,2023-09-01,2023-09-01 22:46:00,Crypto,Shipped,0,
+1124,526,Michael Smith,michael.smith68@example.com,Berlin,Books Item 8,Books,32.68,1,32.68,2024-01-10,2024-01-10 21:53:00,Credit Card,Cancelled,0,7.6
+1125,591,Mary Johnson,mary.johnson56@example.com,London,Electronics Item 3,Electronics,149.45,2,298.9,2023-08-18,2023-08-18 18:10:00,PayPal,Pending,0,24.1
+1126,596,Elizabeth Martinez,elizabeth.martinez23@example.com,Mumbai,Beauty Item 43,Beauty,468.86,3,1406.58,2023-05-17,2023-05-18 00:56:00,Credit Card,Shipped,0,23.5
+1127,589,Robert Miller,robert.miller57@example.com,London,Clothing Item 33,Clothing,267.67,5,1338.35,2023-12-09,2023-12-09 23:37:00,Crypto,Delivered,0,21.8
+1128,592,Michael Williams,michael.williams66@example.com,Berlin,Electronics Item 44,Electronics,280.33,1,280.33,2023-03-10,2023-03-11 20:43:00,Credit Card,Delivered,0,14.2
+1129,569,John Brown,john.brown20@example.com,New York,Books Item 21,Books,26.03,1,26.03,2023-09-29,2023-09-30 08:24:00,Debit Card,Cancelled,0,11.3
+1130,549,Mary Davis,mary.davis37@example.com,Paris,Beauty Item 3,Beauty,410.86,2,821.72,2022-06-29,2022-06-29 06:10:00,PayPal,Delivered,0,21.5
+1131,552,Michael Garcia,michael.garcia61@example.com,New York,Books Item 40,Books,306.17,5,1530.85,2023-06-06,2023-06-06 17:47:00,Bank Transfer,Cancelled,0,8.0
+1132,595,William Martinez,william.martinez51@example.com,Berlin,Electronics Item 28,Electronics,464.86,4,1859.44,2022-01-18,2022-01-18 20:13:00,Crypto,Cancelled,0,13.9
+1133,523,Elizabeth Rodriguez,elizabeth.rodriguez40@example.com,Tokyo,Clothing Item 42,Clothing,50.31,1,50.31,2023-08-14,2023-08-14 20:27:00,Debit Card,Cancelled,0,8.0
+1134,555,John Miller,john.miller99@example.com,Paris,Beauty Item 31,Beauty,471.29,4,1885.16,2022-09-14,2022-09-15 09:48:00,Credit Card,Cancelled,0,21.6
+1135,562,John Martinez,john.martinez56@example.com,Mumbai,Beauty Item 33,Beauty,491.0,2,982.0,2023-05-08,2023-05-08 10:55:00,PayPal,Shipped,0,22.3
+1136,568,Patricia Johnson,patricia.johnson52@example.com,Mumbai,Electronics Item 11,Electronics,403.52,4,1614.08,2022-09-14,2022-09-14 20:16:00,PayPal,Shipped,0,8.2
+1137,560,William Miller,william.miller68@example.com,Toronto,Beauty Item 20,Beauty,286.41,1,286.41,2023-08-17,2023-08-17 21:42:00,Debit Card,Cancelled,0,5.7
+1138,538,Jennifer Williams,jennifer.williams63@example.com,New York,Home & Kitchen Item 22,Home & Kitchen,91.82,3,275.46,2023-09-22,2023-09-22 11:42:00,Credit Card,Pending,0,
+1139,553,John Williams,john.williams79@example.com,Tokyo,Beauty Item 28,Beauty,110.28,4,441.12,2023-03-09,2023-03-10 10:23:00,Crypto,Pending,1,9.3
+1140,563,James Brown,james.brown85@example.com,Berlin,Books Item 41,Books,291.23,1,291.23,2024-01-09,2024-01-09 07:43:00,Bank Transfer,Delivered,0,
+1141,514,Michael Smith,michael.smith59@example.com,New York,Home & Kitchen Item 16,Home & Kitchen,322.25,5,1611.25,2023-06-02,2023-06-02 21:10:00,Credit Card,Cancelled,0,
+1142,526,Robert Rodriguez,robert.rodriguez83@example.com,Toronto,Books Item 49,Books,451.92,3,1355.76,2023-05-22,2023-05-23 04:03:00,Crypto,Shipped,0,
+1143,548,Elizabeth Rodriguez,elizabeth.rodriguez89@example.com,Tokyo,Electronics Item 29,Electronics,241.19,5,1205.95,2022-07-30,2022-07-31 03:56:00,Crypto,Delivered,0,18.2
+1144,535,Elizabeth Martinez,elizabeth.martinez50@example.com,Paris,Sports Item 40,Sports,152.28,2,304.56,2024-02-16,2024-02-17 21:31:00,Crypto,Shipped,0,14.8
+1145,552,Elizabeth Rodriguez,elizabeth.rodriguez68@example.com,New York,Books Item 35,Books,499.07,4,1996.28,2023-01-09,2023-01-10 12:48:00,Bank Transfer,Delivered,0,18.8
+1146,538,Mary Brown,mary.brown15@example.com,Toronto,Beauty Item 36,Beauty,225.96,1,225.96,2022-06-19,2022-06-19 14:36:00,Crypto,Delivered,0,6.3
+1147,574,Michael Williams,michael.williams18@example.com,Paris,Home & Kitchen Item 49,Home & Kitchen,323.13,3,969.39,2022-12-27,2022-12-28 23:41:00,PayPal,Pending,0,
+1148,575,John Garcia,john.garcia26@example.com,Berlin,Books Item 11,Books,471.89,1,471.89,2023-10-09,2023-10-10 04:36:00,Debit Card,Cancelled,0,
+1149,519,Elizabeth Johnson,elizabeth.johnson92@example.com,Toronto,Sports Item 24,Sports,413.13,1,413.13,2022-07-31,2022-07-31 09:26:00,Bank Transfer,Cancelled,0,15.4
+1150,519,James Jones,james.jones47@example.com,London,Books Item 18,Books,125.04,3,375.12,2022-05-12,2022-05-13 18:52:00,Crypto,Shipped,0,
+1151,591,Mary Johnson,mary.johnson52@example.com,Sydney,Beauty Item 19,Beauty,17.69,3,53.07,2022-08-28,2022-08-28 01:58:00,Bank Transfer,Shipped,0,
+1152,546,Elizabeth Davis,elizabeth.davis68@example.com,Sydney,Beauty Item 28,Beauty,159.03,4,636.12,2022-04-07,2022-04-08 07:44:00,Bank Transfer,Shipped,0,
+1153,586,Linda Brown,linda.brown68@example.com,Mumbai,Home & Kitchen Item 46,Home & Kitchen,316.51,3,949.53,2024-01-04,2024-01-04 05:09:00,PayPal,Delivered,0,12.2
+1154,560,John Miller,john.miller97@example.com,Mumbai,Electronics Item 2,Electronics,368.3,1,368.3,2023-04-18,2023-04-19 02:31:00,Credit Card,Cancelled,0,17.9
+1155,540,Linda Garcia,linda.garcia26@example.com,Sydney,Home & Kitchen Item 27,Home & Kitchen,150.7,5,753.5,2022-09-05,2022-09-06 05:59:00,Bank Transfer,Shipped,0,20.3
+1156,510,Patricia Rodriguez,patricia.rodriguez64@example.com,Tokyo,Home & Kitchen Item 26,Home & Kitchen,127.53,3,382.59,2022-07-16,2022-07-16 05:14:00,Credit Card,Cancelled,0,
+1157,543,John Smith,john.smith86@example.com,Tokyo,Clothing Item 1,Clothing,205.33,2,410.66,2023-10-22,2023-10-23 18:07:00,Bank Transfer,Cancelled,0,10.0
+1158,546,John Jones,john.jones62@example.com,Mumbai,Electronics Item 41,Electronics,413.14,4,1652.56,2022-05-11,2022-05-12 00:03:00,Crypto,Pending,0,21.1
+1159,508,Jennifer Johnson,jennifer.johnson91@example.com,Sydney,Sports Item 40,Sports,69.89,2,139.78,2022-10-12,2022-10-12 14:51:00,Bank Transfer,Delivered,0,13.5
+1160,523,William Brown,william.brown87@example.com,London,Clothing Item 21,Clothing,441.93,2,883.86,2022-11-28,2022-11-28 06:27:00,Debit Card,Pending,0,
+1161,557,Mary Martinez,mary.martinez36@example.com,Tokyo,Sports Item 18,Sports,332.03,5,1660.15,2022-11-19,2022-11-21 00:07:00,Debit Card,Cancelled,0,22.8
+1162,523,Robert Williams,robert.williams35@example.com,Sydney,Clothing Item 20,Clothing,114.72,4,458.88,2022-06-15,2022-06-16 07:18:00,Debit Card,Pending,0,18.1
+1163,594,William Davis,william.davis59@example.com,Toronto,Home & Kitchen Item 10,Home & Kitchen,211.54,2,423.08,2022-08-18,2022-08-19 05:08:00,Debit Card,Shipped,0,11.7
+1164,535,William Martinez,william.martinez35@example.com,Sydney,Home & Kitchen Item 40,Home & Kitchen,320.89,2,641.78,2022-09-03,2022-09-03 20:20:00,Crypto,Cancelled,1,12.7
+1165,594,James Garcia,james.garcia81@example.com,Berlin,Electronics Item 37,Electronics,309.11,2,618.22,2022-07-11,2022-07-11 02:22:00,Debit Card,Cancelled,0,9.1
+1166,583,John Williams,john.williams95@example.com,Tokyo,Books Item 36,Books,27.92,2,55.84,2022-05-02,2022-05-03 22:48:00,Credit Card,Delivered,0,16.6
+1167,550,Elizabeth Martinez,elizabeth.martinez76@example.com,London,Beauty Item 44,Beauty,69.06,1,69.06,2022-01-15,2022-01-15 23:32:00,PayPal,Cancelled,0,
+1168,563,Elizabeth Smith,elizabeth.smith63@example.com,Sydney,Beauty Item 35,Beauty,440.08,2,880.16,2022-12-04,2022-12-04 15:30:00,Credit Card,Pending,0,24.2
+1169,535,William Jones,william.jones41@example.com,Paris,Home & Kitchen Item 42,Home & Kitchen,138.63,4,554.52,2022-08-03,2022-08-03 03:53:00,Credit Card,Shipped,0,
+1170,501,Mary Brown,mary.brown48@example.com,London,Books Item 6,Books,468.72,2,937.44,2023-08-14,2023-08-14 08:19:00,PayPal,Cancelled,0,21.8
+1171,564,William Johnson,william.johnson27@example.com,Mumbai,Books Item 29,Books,92.39,3,277.17,2022-05-30,2022-05-31 11:13:00,Debit Card,Shipped,0,23.1
+1172,594,Michael Davis,michael.davis23@example.com,Paris,Electronics Item 39,Electronics,79.11,3,237.33,2023-06-05,2023-06-06 22:00:00,PayPal,Cancelled,0,23.7
+1173,598,Jennifer Brown,jennifer.brown87@example.com,Berlin,Clothing Item 48,Clothing,277.95,5,1389.75,2023-01-29,2023-01-30 07:40:00,Credit Card,Shipped,1,8.5
+1174,525,James Williams,james.williams92@example.com,Tokyo,Books Item 27,Books,321.69,1,321.69,2023-02-27,2023-02-27 19:59:00,PayPal,Delivered,0,11.8
+1175,588,James Jones,james.jones74@example.com,Paris,Home & Kitchen Item 49,Home & Kitchen,136.61,3,409.83,2023-06-02,2023-06-03 22:46:00,PayPal,Delivered,0,
+1176,552,Linda Williams,linda.williams91@example.com,Paris,Books Item 25,Books,469.46,1,469.46,2022-05-01,2022-05-02 05:09:00,PayPal,Shipped,0,
+1177,560,Linda Martinez,linda.martinez73@example.com,Sydney,Sports Item 6,Sports,245.05,4,980.2,2023-12-06,2023-12-07 00:23:00,Debit Card,Shipped,0,21.0
+1178,564,Michael Rodriguez,michael.rodriguez72@example.com,Toronto,Clothing Item 30,Clothing,76.35,4,305.4,2024-02-07,2024-02-09 00:58:00,Crypto,Shipped,0,11.6
+1179,534,Michael Miller,michael.miller47@example.com,Tokyo,Books Item 24,Books,250.6,5,1253.0,2022-02-20,2022-02-20 22:38:00,Crypto,Delivered,0,11.6
+1180,559,John Garcia,john.garcia33@example.com,Berlin,Beauty Item 27,Beauty,373.62,5,1868.1,2023-04-09,2023-04-09 19:57:00,Bank Transfer,Shipped,0,
+1181,588,Michael Johnson,michael.johnson98@example.com,Toronto,Electronics Item 43,Electronics,55.08,1,55.08,2023-12-22,2023-12-23 12:24:00,Credit Card,Cancelled,0,9.0
+1182,520,Michael Miller,michael.miller80@example.com,Tokyo,Beauty Item 35,Beauty,319.32,1,319.32,2023-02-17,2023-02-17 06:40:00,Bank Transfer,Cancelled,0,8.5
+1183,507,Linda Martinez,linda.martinez33@example.com,Mumbai,Home & Kitchen Item 4,Home & Kitchen,132.76,4,531.04,2023-11-14,2023-11-15 07:19:00,Debit Card,Pending,0,23.0
+1184,564,Elizabeth Johnson,elizabeth.johnson78@example.com,Mumbai,Clothing Item 40,Clothing,406.1,3,1218.3,2023-03-17,2023-03-17 20:53:00,Crypto,Pending,0,16.4
+1185,537,Patricia Jones,patricia.jones85@example.com,New York,Books Item 10,Books,395.23,2,790.46,2023-05-30,2023-05-30 11:55:00,Bank Transfer,Shipped,0,
+1186,506,Linda Davis,linda.davis79@example.com,Mumbai,Beauty Item 25,Beauty,65.95,2,131.9,2022-01-16,2022-01-17 18:29:00,Bank Transfer,Cancelled,0,
+1187,570,Linda Smith,linda.smith64@example.com,Berlin,Beauty Item 12,Beauty,160.45,2,320.9,2023-04-03,2023-04-04 06:52:00,Debit Card,Shipped,0,
+1188,548,Mary Jones,mary.jones61@example.com,Paris,Books Item 8,Books,110.94,4,443.76,2023-10-08,2023-10-09 04:33:00,Credit Card,Shipped,0,22.9
+1189,565,Linda Miller,linda.miller77@example.com,Tokyo,Beauty Item 39,Beauty,162.37,3,487.11,2022-11-08,2022-11-08 10:26:00,Credit Card,Cancelled,0,17.6
+1190,538,Michael Davis,michael.davis95@example.com,Toronto,Books Item 12,Books,322.9,4,1291.6,2023-04-30,2023-05-01 15:47:00,Debit Card,Pending,0,23.8
+1191,556,Patricia Williams,patricia.williams30@example.com,Berlin,Beauty Item 6,Beauty,319.59,4,1278.36,2024-01-09,2024-01-09 21:19:00,Crypto,Pending,0,16.3
+1192,502,William Rodriguez,william.rodriguez40@example.com,Toronto,Books Item 10,Books,26.83,2,53.66,2022-08-05,2022-08-06 02:33:00,Crypto,Delivered,0,
+1193,573,Elizabeth Miller,elizabeth.miller78@example.com,Toronto,Clothing Item 37,Clothing,165.24,4,660.96,2022-01-25,2022-01-25 11:35:00,Crypto,Delivered,0,20.8
+1194,576,Mary Brown,mary.brown27@example.com,Mumbai,Electronics Item 30,Electronics,175.41,1,175.41,2022-09-19,2022-09-20 15:41:00,Bank Transfer,Cancelled,0,23.4
+1195,516,William Williams,william.williams33@example.com,Berlin,Beauty Item 23,Beauty,427.54,2,855.08,2023-02-24,2023-02-24 18:20:00,Crypto,Shipped,0,9.9
+1196,596,Patricia Smith,patricia.smith91@example.com,Mumbai,Sports Item 16,Sports,301.95,5,1509.75,2022-12-14,2022-12-15 04:43:00,Bank Transfer,Shipped,0,
+1197,559,Mary Garcia,mary.garcia68@example.com,Sydney,Sports Item 44,Sports,39.77,2,79.54,2023-10-11,2023-10-11 07:34:00,PayPal,Cancelled,0,23.2
+1198,590,John Johnson,john.johnson83@example.com,Berlin,Electronics Item 26,Electronics,271.33,3,813.99,2023-11-04,2023-11-05 15:53:00,Debit Card,Shipped,0,
+1199,523,Patricia Johnson,patricia.johnson39@example.com,Berlin,Beauty Item 37,Beauty,434.04,1,434.04,2022-09-14,2022-09-14 08:31:00,Bank Transfer,Shipped,0,5.4
+1200,550,Linda Jones,linda.jones35@example.com,New York,Beauty Item 7,Beauty,221.96,5,1109.8,2022-09-10,2022-09-11 18:47:00,Debit Card,Delivered,0,
+1201,586,Robert Johnson,robert.johnson93@example.com,Berlin,Beauty Item 5,Beauty,474.63,3,1423.89,2022-05-17,2022-05-18 06:15:00,Bank Transfer,Pending,0,10.2
+1202,571,Mary Garcia,mary.garcia93@example.com,Berlin,Books Item 12,Books,34.64,2,69.28,2023-03-28,2023-03-29 12:26:00,PayPal,Shipped,0,20.5
+1203,504,Patricia Davis,patricia.davis52@example.com,Paris,Beauty Item 6,Beauty,420.64,1,420.64,2023-11-05,2023-11-06 07:06:00,Crypto,Cancelled,0,
+1204,500,Linda Martinez,linda.martinez33@example.com,Paris,Beauty Item 34,Beauty,274.14,2,548.28,2022-07-07,2022-07-07 14:59:00,Crypto,Delivered,0,12.8
+1205,501,John Brown,john.brown53@example.com,Paris,Clothing Item 24,Clothing,228.36,4,913.44,2022-06-17,2022-06-18 21:43:00,Credit Card,Cancelled,0,
+1206,552,Elizabeth Miller,elizabeth.miller10@example.com,Toronto,Electronics Item 8,Electronics,426.99,1,426.99,2022-12-05,2022-12-05 06:21:00,Bank Transfer,Delivered,0,6.2
+1207,570,Elizabeth Davis,elizabeth.davis83@example.com,London,Beauty Item 12,Beauty,406.41,5,2032.05,2023-01-15,2023-01-16 15:22:00,Crypto,Shipped,0,7.8
+1208,560,Linda Johnson,linda.johnson60@example.com,New York,Sports Item 35,Sports,85.87,4,343.48,2023-11-28,2023-11-29 09:53:00,PayPal,Shipped,0,
+1209,588,Jennifer Smith,jennifer.smith76@example.com,New York,Electronics Item 5,Electronics,285.82,2,571.64,2022-12-18,2022-12-18 07:58:00,Debit Card,Cancelled,0,22.4
+1210,517,Linda Williams,linda.williams50@example.com,Berlin,Clothing Item 18,Clothing,322.5,5,1612.5,2022-11-29,2022-11-30 12:27:00,Credit Card,Shipped,0,17.4
+1211,586,James Johnson,james.johnson78@example.com,London,Electronics Item 42,Electronics,316.73,1,316.73,2023-09-11,2023-09-12 13:30:00,PayPal,Shipped,0,5.2
+1212,572,Patricia Jones,patricia.jones48@example.com,Toronto,Electronics Item 43,Electronics,90.41,1,90.41,2024-01-15,2024-01-15 12:27:00,Crypto,Pending,0,23.4
+1213,527,Patricia Williams,patricia.williams54@example.com,Toronto,Sports Item 28,Sports,240.13,4,960.52,2024-02-13,2024-02-13 19:55:00,Crypto,Delivered,0,7.9
+1214,579,Linda Martinez,linda.martinez79@example.com,Tokyo,Sports Item 17,Sports,65.92,5,329.6,2023-07-09,2023-07-09 20:22:00,PayPal,Pending,1,6.8
+1215,597,Michael Miller,michael.miller39@example.com,Mumbai,Books Item 8,Books,181.66,3,544.98,2023-04-28,2023-04-28 10:35:00,Bank Transfer,Delivered,0,
+1216,517,Patricia Brown,patricia.brown48@example.com,London,Home & Kitchen Item 13,Home & Kitchen,95.7,4,382.8,2023-08-30,2023-08-30 04:28:00,Crypto,Cancelled,0,20.8
+1217,513,Jennifer Martinez,jennifer.martinez40@example.com,London,Books Item 16,Books,198.28,2,396.56,2023-10-15,2023-10-15 06:04:00,Credit Card,Cancelled,0,22.1
+1218,550,James Miller,james.miller75@example.com,Sydney,Sports Item 35,Sports,436.58,4,1746.32,2023-03-25,2023-03-25 08:59:00,Debit Card,Delivered,0,18.5
+1219,546,Michael Martinez,michael.martinez44@example.com,Sydney,Sports Item 32,Sports,467.07,2,934.14,2022-06-17,2022-06-18 22:56:00,PayPal,Shipped,0,20.8
+1220,537,Jennifer Davis,jennifer.davis45@example.com,Tokyo,Books Item 22,Books,250.09,4,1000.36,2023-07-20,2023-07-20 22:28:00,Debit Card,Shipped,0,5.2
+1221,535,Patricia Williams,patricia.williams13@example.com,Tokyo,Home & Kitchen Item 11,Home & Kitchen,247.54,2,495.08,2023-11-27,2023-11-27 14:21:00,Bank Transfer,Delivered,0,10.1
+1222,526,Linda Jones,linda.jones93@example.com,Toronto,Books Item 32,Books,38.7,3,116.1,2023-01-18,2023-01-18 03:36:00,PayPal,Cancelled,0,20.7
+1223,515,William Johnson,william.johnson49@example.com,Berlin,Electronics Item 3,Electronics,307.1,3,921.3,2024-02-29,2024-03-01 07:55:00,Bank Transfer,Delivered,0,23.1
+1224,585,James Brown,james.brown50@example.com,Toronto,Electronics Item 7,Electronics,213.35,5,1066.75,2022-03-29,2022-03-31 00:27:00,Bank Transfer,Pending,0,
+1225,515,Linda Garcia,linda.garcia77@example.com,Toronto,Books Item 14,Books,44.98,4,179.92,2023-08-30,2023-08-30 01:36:00,Credit Card,Delivered,0,9.5
+1226,578,Mary Davis,mary.davis66@example.com,Tokyo,Sports Item 8,Sports,174.49,3,523.47,2023-03-01,2023-03-01 18:16:00,Debit Card,Cancelled,1,21.3
+1227,513,John Johnson,john.johnson46@example.com,London,Books Item 17,Books,39.97,1,39.97,2022-12-26,2022-12-27 06:46:00,Bank Transfer,Shipped,0,16.8
+1228,584,James Johnson,james.johnson15@example.com,London,Clothing Item 38,Clothing,418.19,3,1254.57,2022-07-01,2022-07-02 12:31:00,PayPal,Delivered,1,8.7
+1229,537,Patricia Johnson,patricia.johnson57@example.com,London,Electronics Item 31,Electronics,153.95,4,615.8,2023-08-28,2023-08-29 13:03:00,Credit Card,Pending,0,
+1230,551,John Rodriguez,john.rodriguez76@example.com,Mumbai,Sports Item 13,Sports,238.96,5,1194.8,2023-10-22,2023-10-23 18:39:00,Credit Card,Pending,0,
+1231,580,James Jones,james.jones33@example.com,Sydney,Electronics Item 32,Electronics,404.66,4,1618.64,2022-01-13,2022-01-13 18:15:00,Crypto,Pending,0,
+1232,536,Patricia Williams,patricia.williams74@example.com,Mumbai,Clothing Item 17,Clothing,186.1,4,744.4,2023-12-17,2023-12-18 11:51:00,Bank Transfer,Shipped,0,
+1233,598,Robert Rodriguez,robert.rodriguez25@example.com,Berlin,Beauty Item 9,Beauty,425.46,1,425.46,2023-05-16,2023-05-16 05:34:00,PayPal,Shipped,0,
+1234,595,Linda Garcia,linda.garcia22@example.com,Tokyo,Beauty Item 7,Beauty,228.68,1,228.68,2023-02-17,2023-02-18 01:57:00,Bank Transfer,Delivered,0,8.7
+1235,594,William Rodriguez,william.rodriguez30@example.com,Paris,Clothing Item 12,Clothing,340.84,1,340.84,2023-02-05,2023-02-05 07:15:00,Debit Card,Cancelled,0,18.5
+1236,520,Mary Williams,mary.williams42@example.com,Berlin,Sports Item 18,Sports,178.87,3,536.61,2023-02-05,2023-02-05 04:41:00,Credit Card,Pending,0,
+1237,584,John Brown,john.brown88@example.com,London,Clothing Item 26,Clothing,132.73,4,530.92,2023-10-07,2023-10-07 02:50:00,Debit Card,Pending,0,15.6
+1238,514,Mary Smith,mary.smith20@example.com,Tokyo,Electronics Item 17,Electronics,420.97,5,2104.85,2022-11-14,2022-11-15 14:48:00,Credit Card,Shipped,0,10.2
+1239,522,Michael Jones,michael.jones63@example.com,Sydney,Home & Kitchen Item 38,Home & Kitchen,249.23,3,747.69,2022-06-02,2022-06-02 07:11:00,Debit Card,Cancelled,0,11.9
+1240,541,Michael Rodriguez,michael.rodriguez66@example.com,New York,Sports Item 37,Sports,178.72,3,536.16,2022-11-16,2022-11-17 20:16:00,Bank Transfer,Shipped,0,9.4
+1241,513,William Martinez,william.martinez97@example.com,Toronto,Home & Kitchen Item 46,Home & Kitchen,334.95,2,669.9,2022-12-21,2022-12-21 08:31:00,PayPal,Shipped,0,
+1242,544,Robert Rodriguez,robert.rodriguez61@example.com,Berlin,Sports Item 14,Sports,261.65,4,1046.6,2023-10-11,2023-10-12 17:53:00,Bank Transfer,Delivered,0,9.9
+1243,525,William Martinez,william.martinez75@example.com,Tokyo,Beauty Item 6,Beauty,140.26,2,280.52,2024-01-29,2024-01-29 17:39:00,Credit Card,Shipped,0,
+1244,593,Robert Rodriguez,robert.rodriguez43@example.com,Sydney,Clothing Item 43,Clothing,437.15,1,437.15,2022-07-18,2022-07-19 19:20:00,Bank Transfer,Pending,0,12.7
+1245,566,William Davis,william.davis23@example.com,Sydney,Books Item 10,Books,422.89,1,422.89,2022-10-09,2022-10-10 14:42:00,Credit Card,Pending,0,7.6
+1246,583,Elizabeth Williams,elizabeth.williams47@example.com,Berlin,Electronics Item 32,Electronics,452.18,2,904.36,2024-01-26,2024-01-27 15:19:00,Debit Card,Delivered,0,11.1
+1247,511,Linda Williams,linda.williams95@example.com,Paris,Clothing Item 15,Clothing,176.53,2,353.06,2022-10-03,2022-10-03 16:27:00,Bank Transfer,Shipped,0,21.3
+1248,521,Patricia Martinez,patricia.martinez41@example.com,Berlin,Home & Kitchen Item 26,Home & Kitchen,225.07,3,675.21,2022-08-01,2022-08-01 13:56:00,Credit Card,Cancelled,0,20.8
+1249,567,Mary Williams,mary.williams38@example.com,London,Sports Item 9,Sports,120.62,5,603.1,2023-06-22,2023-06-23 11:14:00,Credit Card,Cancelled,0,5.9
+1250,592,Robert Smith,robert.smith14@example.com,London,Books Item 30,Books,482.93,3,1448.79,2022-07-20,2022-07-21 14:19:00,Debit Card,Cancelled,0,
+1251,507,Mary Garcia,mary.garcia16@example.com,London,Books Item 22,Books,260.29,2,520.58,2023-10-24,2023-10-24 23:12:00,Crypto,Pending,0,21.0
+1252,541,Mary Martinez,mary.martinez60@example.com,New York,Home & Kitchen Item 42,Home & Kitchen,21.55,2,43.1,2023-05-07,2023-05-07 09:29:00,Debit Card,Shipped,0,5.1
+1253,541,Patricia Davis,patricia.davis13@example.com,Berlin,Books Item 14,Books,173.71,1,173.71,2022-02-28,2022-02-28 17:15:00,Crypto,Shipped,0,
+1254,548,Robert Martinez,robert.martinez21@example.com,Sydney,Beauty Item 45,Beauty,442.27,5,2211.35,2024-01-02,2024-01-02 02:48:00,Bank Transfer,Pending,0,24.7
+1255,526,Elizabeth Rodriguez,elizabeth.rodriguez19@example.com,New York,Books Item 10,Books,154.36,4,617.44,2023-07-04,2023-07-04 18:38:00,Debit Card,Cancelled,0,
+1256,541,James Williams,james.williams66@example.com,Paris,Home & Kitchen Item 45,Home & Kitchen,496.3,4,1985.2,2022-05-11,2022-05-11 04:58:00,PayPal,Delivered,0,
+1257,546,John Smith,john.smith80@example.com,London,Books Item 39,Books,52.5,1,52.5,2023-10-19,2023-10-19 18:50:00,Debit Card,Shipped,0,16.6
+1258,569,Elizabeth Williams,elizabeth.williams81@example.com,Sydney,Clothing Item 26,Clothing,248.7,3,746.1,2022-11-28,2022-11-29 16:35:00,Credit Card,Shipped,0,19.4
+1259,573,William Smith,william.smith85@example.com,Sydney,Clothing Item 3,Clothing,235.95,2,471.9,2022-05-12,2022-05-13 12:54:00,PayPal,Delivered,0,13.2
+1260,600,James Smith,james.smith28@example.com,Berlin,Clothing Item 7,Clothing,141.65,5,708.25,2022-08-28,2022-08-30 00:05:00,Bank Transfer,Cancelled,0,12.8
+1261,509,Mary Davis,mary.davis37@example.com,New York,Clothing Item 9,Clothing,203.23,2,406.46,2022-09-15,2022-09-15 18:53:00,Debit Card,Cancelled,0,
+1262,546,James Miller,james.miller58@example.com,Tokyo,Electronics Item 32,Electronics,466.77,1,466.77,2022-01-02,2022-01-03 01:02:00,Credit Card,Pending,0,14.8
+1263,580,Linda Garcia,linda.garcia44@example.com,Mumbai,Books Item 6,Books,74.03,3,222.09,2023-06-10,2023-06-10 23:08:00,Debit Card,Delivered,0,
+1264,581,James Brown,james.brown69@example.com,Toronto,Electronics Item 44,Electronics,204.17,5,1020.85,2023-01-11,2023-01-11 10:42:00,Credit Card,Delivered,0,12.3
+1265,545,Mary Brown,mary.brown16@example.com,Toronto,Sports Item 49,Sports,279.67,5,1398.35,2023-07-27,2023-07-28 21:57:00,Crypto,Pending,0,17.8
+1266,542,William Rodriguez,william.rodriguez96@example.com,Berlin,Books Item 28,Books,472.98,4,1891.92,2022-04-28,2022-04-29 15:58:00,Crypto,Pending,0,
+1267,545,Jennifer Rodriguez,jennifer.rodriguez34@example.com,Paris,Electronics Item 26,Electronics,345.31,2,690.62,2022-07-10,2022-07-10 06:17:00,PayPal,Shipped,0,21.1
+1268,584,William Davis,william.davis28@example.com,Mumbai,Books Item 2,Books,223.02,4,892.08,2022-07-05,2022-07-05 04:09:00,Bank Transfer,Shipped,0,6.3
+1269,526,William Johnson,william.johnson93@example.com,Mumbai,Beauty Item 24,Beauty,302.44,4,1209.76,2023-07-04,2023-07-04 04:33:00,PayPal,Delivered,0,14.5
+1270,592,Patricia Miller,patricia.miller80@example.com,Tokyo,Home & Kitchen Item 35,Home & Kitchen,408.7,3,1226.1,2023-06-27,2023-06-28 06:37:00,Credit Card,Cancelled,0,14.6
+1271,587,John Garcia,john.garcia82@example.com,New York,Books Item 30,Books,36.01,5,180.05,2023-06-13,2023-06-13 20:05:00,PayPal,Cancelled,0,12.3
+1272,503,Linda Jones,linda.jones62@example.com,Sydney,Clothing Item 21,Clothing,345.29,3,1035.87,2023-02-04,2023-02-04 12:02:00,PayPal,Pending,0,23.9
+1273,516,William Brown,william.brown23@example.com,Paris,Books Item 48,Books,279.32,5,1396.6,2024-01-25,2024-01-26 08:13:00,PayPal,Pending,0,14.9
+1274,534,William Brown,william.brown79@example.com,London,Clothing Item 21,Clothing,228.28,2,456.56,2022-05-31,2022-05-31 22:46:00,Crypto,Pending,0,
+1275,594,Linda Johnson,linda.johnson51@example.com,Mumbai,Home & Kitchen Item 31,Home & Kitchen,372.87,3,1118.61,2023-05-02,2023-05-03 10:51:00,Debit Card,Delivered,0,10.6
+1276,560,Linda Johnson,linda.johnson10@example.com,Mumbai,Sports Item 37,Sports,406.43,1,406.43,2022-08-27,2022-08-27 08:36:00,Bank Transfer,Shipped,0,
+1277,593,William Garcia,william.garcia48@example.com,Mumbai,Home & Kitchen Item 10,Home & Kitchen,271.32,5,1356.6,2023-05-14,2023-05-14 20:43:00,PayPal,Cancelled,0,
+1278,543,Jennifer Rodriguez,jennifer.rodriguez53@example.com,Tokyo,Home & Kitchen Item 46,Home & Kitchen,56.56,5,282.8,2022-04-30,2022-05-01 02:21:00,Bank Transfer,Delivered,0,
+1279,553,James Martinez,james.martinez76@example.com,New York,Electronics Item 33,Electronics,152.42,2,304.84,2024-02-08,2024-02-08 14:04:00,Credit Card,Shipped,0,21.3
+1280,532,Linda Smith,linda.smith72@example.com,Berlin,Books Item 24,Books,35.62,5,178.1,2023-03-22,2023-03-22 17:45:00,Debit Card,Cancelled,0,23.0
+1281,503,Robert Johnson,robert.johnson73@example.com,Sydney,Home & Kitchen Item 5,Home & Kitchen,354.39,2,708.78,2023-08-12,2023-08-13 23:37:00,Debit Card,Shipped,0,5.0
+1282,590,Jennifer Rodriguez,jennifer.rodriguez86@example.com,Sydney,Home & Kitchen Item 25,Home & Kitchen,167.08,4,668.32,2022-01-28,2022-01-29 05:39:00,Debit Card,Cancelled,0,
+1283,533,Elizabeth Brown,elizabeth.brown82@example.com,Sydney,Books Item 43,Books,458.68,3,1376.04,2023-01-19,2023-01-20 05:15:00,Bank Transfer,Delivered,0,17.4
+1284,594,Linda Garcia,linda.garcia56@example.com,Toronto,Clothing Item 23,Clothing,300.76,2,601.52,2024-02-27,2024-02-28 16:08:00,Crypto,Shipped,0,15.8
+1285,573,Linda Smith,linda.smith60@example.com,New York,Beauty Item 27,Beauty,363.52,2,727.04,2023-07-27,2023-07-27 12:47:00,Crypto,Shipped,0,6.2
+1286,516,John Johnson,john.johnson52@example.com,Tokyo,Clothing Item 37,Clothing,74.52,3,223.56,2022-09-04,2022-09-04 11:33:00,Credit Card,Pending,0,15.2
+1287,522,James Williams,james.williams68@example.com,Paris,Electronics Item 40,Electronics,25.04,4,100.16,2022-05-10,2022-05-11 23:40:00,Crypto,Shipped,0,12.4
+1288,522,Robert Brown,robert.brown95@example.com,Paris,Home & Kitchen Item 3,Home & Kitchen,272.64,4,1090.56,2024-01-31,2024-01-31 09:31:00,Bank Transfer,Pending,0,
+1289,567,Patricia Martinez,patricia.martinez73@example.com,New York,Sports Item 46,Sports,134.32,2,268.64,2023-07-04,2023-07-04 21:23:00,Debit Card,Shipped,0,23.7
+1290,565,Michael Rodriguez,michael.rodriguez16@example.com,Paris,Clothing Item 48,Clothing,316.83,1,316.83,2023-10-07,2023-10-07 18:49:00,PayPal,Shipped,0,18.9
+1291,549,Elizabeth Johnson,elizabeth.johnson14@example.com,Toronto,Books Item 16,Books,197.65,5,988.25,2022-03-15,2022-03-15 11:54:00,Credit Card,Pending,0,13.5
+1292,581,Patricia Davis,patricia.davis97@example.com,Berlin,Beauty Item 23,Beauty,257.3,3,771.9,2022-02-17,2022-02-18 12:23:00,Debit Card,Pending,0,14.0
+1293,597,Mary Smith,mary.smith45@example.com,London,Books Item 14,Books,484.63,5,2423.15,2023-09-12,2023-09-13 05:33:00,Credit Card,Delivered,0,17.0
+1294,500,Mary Rodriguez,mary.rodriguez81@example.com,Sydney,Books Item 39,Books,439.05,1,439.05,2022-12-18,2022-12-19 22:46:00,Crypto,Delivered,0,15.0
+1295,514,James Johnson,james.johnson83@example.com,Toronto,Books Item 49,Books,409.48,2,818.96,2023-09-13,2023-09-15 00:25:00,Crypto,Cancelled,0,8.0
+1296,501,Robert Rodriguez,robert.rodriguez84@example.com,Tokyo,Home & Kitchen Item 22,Home & Kitchen,439.19,1,439.19,2023-08-06,2023-08-08 00:21:00,PayPal,Shipped,0,
+1297,547,James Smith,james.smith46@example.com,Sydney,Electronics Item 21,Electronics,227.76,5,1138.8,2023-12-28,2023-12-28 17:55:00,Crypto,Delivered,1,
+1298,529,Elizabeth Garcia,elizabeth.garcia11@example.com,Tokyo,Home & Kitchen Item 27,Home & Kitchen,469.45,3,1408.35,2023-01-26,2023-01-26 09:14:00,Debit Card,Cancelled,0,
+1299,534,Linda Brown,linda.brown38@example.com,New York,Books Item 38,Books,492.93,2,985.86,2022-06-14,2022-06-14 22:09:00,PayPal,Shipped,0,
+1300,598,William Rodriguez,william.rodriguez11@example.com,Toronto,Clothing Item 34,Clothing,156.32,2,312.64,2022-02-25,2022-02-25 19:47:00,Crypto,Pending,0,16.6
+1301,542,Michael Miller,michael.miller88@example.com,Toronto,Electronics Item 46,Electronics,239.43,4,957.72,2023-02-19,2023-02-20 01:52:00,Debit Card,Cancelled,0,
+1302,510,Elizabeth Jones,elizabeth.jones92@example.com,Toronto,Electronics Item 40,Electronics,69.06,2,138.12,2023-03-03,2023-03-04 18:08:00,Debit Card,Shipped,0,14.6
+1303,543,Linda Rodriguez,linda.rodriguez52@example.com,Berlin,Home & Kitchen Item 13,Home & Kitchen,189.95,2,379.9,2023-08-07,2023-08-08 07:11:00,Bank Transfer,Pending,0,
+1304,598,Michael Davis,michael.davis76@example.com,Tokyo,Sports Item 30,Sports,411.33,2,822.66,2022-08-03,2022-08-04 14:05:00,Credit Card,Cancelled,0,8.6
+1305,536,Michael Martinez,michael.martinez81@example.com,Mumbai,Books Item 41,Books,130.88,5,654.4,2022-12-06,2022-12-06 22:00:00,Bank Transfer,Cancelled,1,8.0
+1306,599,Jennifer Brown,jennifer.brown28@example.com,New York,Electronics Item 47,Electronics,114.5,5,572.5,2023-02-15,2023-02-15 06:01:00,Debit Card,Pending,0,14.5
+1307,586,Linda Smith,linda.smith61@example.com,Toronto,Beauty Item 45,Beauty,60.37,2,120.74,2022-09-28,2022-09-28 06:14:00,PayPal,Delivered,0,19.3
+1308,586,Robert Smith,robert.smith72@example.com,Paris,Beauty Item 13,Beauty,420.47,3,1261.41,2023-12-05,2023-12-05 04:07:00,PayPal,Delivered,0,13.2
+1309,598,Michael Smith,michael.smith78@example.com,Paris,Clothing Item 1,Clothing,60.46,5,302.3,2023-07-17,2023-07-18 19:57:00,Credit Card,Cancelled,0,8.7
+1310,598,Linda Smith,linda.smith86@example.com,Toronto,Clothing Item 27,Clothing,461.03,3,1383.09,2023-06-04,2023-06-04 14:10:00,Bank Transfer,Delivered,0,
+1311,513,Linda Jones,linda.jones35@example.com,London,Beauty Item 32,Beauty,249.7,2,499.4,2022-09-25,2022-09-26 21:41:00,Crypto,Delivered,0,
+1312,529,William Miller,william.miller71@example.com,Toronto,Home & Kitchen Item 48,Home & Kitchen,483.51,1,483.51,2022-10-28,2022-10-28 08:42:00,Credit Card,Shipped,0,
+1313,594,Robert Johnson,robert.johnson17@example.com,Berlin,Sports Item 24,Sports,294.23,3,882.69,2024-02-05,2024-02-06 04:55:00,PayPal,Cancelled,0,7.9
+1314,598,Michael Jones,michael.jones53@example.com,Paris,Electronics Item 46,Electronics,258.62,2,517.24,2022-04-20,2022-04-20 10:43:00,Bank Transfer,Cancelled,0,13.9
+1315,556,John Williams,john.williams34@example.com,Mumbai,Home & Kitchen Item 4,Home & Kitchen,318.32,1,318.32,2023-08-19,2023-08-20 12:22:00,Credit Card,Cancelled,0,23.4
+1316,581,Robert Davis,robert.davis83@example.com,New York,Home & Kitchen Item 17,Home & Kitchen,36.31,1,36.31,2022-08-27,2022-08-27 01:14:00,Bank Transfer,Cancelled,0,18.0
+1317,540,Robert Garcia,robert.garcia12@example.com,London,Beauty Item 24,Beauty,401.83,2,803.66,2022-02-01,2022-02-01 19:42:00,PayPal,Pending,0,22.2
+1318,543,James Davis,james.davis51@example.com,Mumbai,Electronics Item 49,Electronics,231.01,5,1155.05,2023-02-26,2023-02-27 09:59:00,PayPal,Pending,0,16.6
+1319,549,Linda Rodriguez,linda.rodriguez24@example.com,London,Beauty Item 27,Beauty,199.46,3,598.38,2023-08-20,2023-08-21 01:16:00,Bank Transfer,Delivered,0,10.4
+1320,541,Patricia Rodriguez,patricia.rodriguez22@example.com,Berlin,Electronics Item 50,Electronics,499.39,5,2496.95,2023-08-20,2023-08-21 16:10:00,PayPal,Shipped,0,
+1321,579,Elizabeth Johnson,elizabeth.johnson64@example.com,Tokyo,Home & Kitchen Item 36,Home & Kitchen,429.71,1,429.71,2023-06-10,2023-06-10 13:06:00,Bank Transfer,Cancelled,0,19.2
+1322,567,Elizabeth Rodriguez,elizabeth.rodriguez61@example.com,Berlin,Sports Item 20,Sports,46.6,2,93.2,2023-02-19,2023-02-20 05:37:00,Crypto,Delivered,0,5.6
+1323,526,Elizabeth Brown,elizabeth.brown30@example.com,Sydney,Books Item 2,Books,158.57,3,475.71,2023-02-23,2023-02-24 07:41:00,Debit Card,Cancelled,0,
+1324,533,Linda Davis,linda.davis29@example.com,London,Beauty Item 7,Beauty,360.86,4,1443.44,2023-09-19,2023-09-19 18:12:00,PayPal,Delivered,0,11.7
+1325,578,William Rodriguez,william.rodriguez32@example.com,Sydney,Clothing Item 45,Clothing,347.3,4,1389.2,2022-09-13,2022-09-13 17:36:00,Crypto,Cancelled,0,
+1326,583,Elizabeth Garcia,elizabeth.garcia85@example.com,Berlin,Books Item 11,Books,454.87,5,2274.35,2023-05-07,2023-05-08 21:39:00,PayPal,Pending,0,24.5
+1327,562,Patricia Jones,patricia.jones99@example.com,New York,Clothing Item 5,Clothing,387.43,2,774.86,2023-11-18,2023-11-19 22:30:00,Bank Transfer,Delivered,0,9.2
+1328,574,Robert Williams,robert.williams12@example.com,New York,Home & Kitchen Item 17,Home & Kitchen,31.15,1,31.15,2023-05-20,2023-05-20 06:52:00,Credit Card,Cancelled,0,20.5
+1329,589,Elizabeth Brown,elizabeth.brown56@example.com,Tokyo,Electronics Item 30,Electronics,247.28,2,494.56,2022-06-08,2022-06-09 13:56:00,Debit Card,Delivered,0,23.7
+1330,509,Jennifer Rodriguez,jennifer.rodriguez61@example.com,Tokyo,Electronics Item 43,Electronics,172.6,5,863.0,2023-08-14,2023-08-15 09:06:00,Crypto,Cancelled,0,6.3
+1331,581,Linda Martinez,linda.martinez51@example.com,Paris,Clothing Item 38,Clothing,102.55,3,307.65,2022-01-18,2022-01-18 21:22:00,PayPal,Cancelled,0,23.3
+1332,502,Patricia Garcia,patricia.garcia66@example.com,London,Electronics Item 33,Electronics,172.92,2,345.84,2023-08-16,2023-08-16 21:17:00,Debit Card,Shipped,0,
+1333,581,Elizabeth Smith,elizabeth.smith12@example.com,Toronto,Electronics Item 39,Electronics,280.09,3,840.27,2023-10-02,2023-10-02 08:45:00,Credit Card,Delivered,0,6.3
+1334,502,Robert Garcia,robert.garcia12@example.com,Tokyo,Sports Item 4,Sports,95.04,1,95.04,2022-05-07,2022-05-07 07:08:00,PayPal,Delivered,0,7.3
+1335,550,Robert Garcia,robert.garcia59@example.com,Mumbai,Books Item 40,Books,350.92,5,1754.6,2022-08-10,2022-08-11 20:06:00,Crypto,Shipped,0,21.1
+1336,545,Robert Johnson,robert.johnson63@example.com,Paris,Books Item 25,Books,364.67,1,364.67,2022-07-29,2022-07-30 20:20:00,Bank Transfer,Pending,0,12.4
+1337,507,John Jones,john.jones24@example.com,Mumbai,Clothing Item 34,Clothing,205.16,2,410.32,2024-02-01,2024-02-02 01:25:00,Bank Transfer,Delivered,0,
+1338,578,Mary Davis,mary.davis25@example.com,Tokyo,Beauty Item 39,Beauty,306.22,2,612.44,2023-03-27,2023-03-27 10:22:00,Bank Transfer,Pending,0,21.2
+1339,578,Michael Davis,michael.davis94@example.com,Toronto,Beauty Item 15,Beauty,339.91,1,339.91,2023-04-02,2023-04-02 21:23:00,PayPal,Delivered,0,16.4
+1340,511,Jennifer Garcia,jennifer.garcia34@example.com,Paris,Beauty Item 36,Beauty,398.06,5,1990.3,2023-08-06,2023-08-06 23:43:00,Credit Card,Shipped,0,13.7
+1341,555,Mary Garcia,mary.garcia89@example.com,Berlin,Books Item 19,Books,213.55,1,213.55,2024-02-27,2024-02-27 08:34:00,PayPal,Pending,0,14.2
+1342,568,Michael Rodriguez,michael.rodriguez65@example.com,Paris,Electronics Item 26,Electronics,191.94,2,383.88,2022-07-18,2022-07-19 22:52:00,PayPal,Shipped,0,
+1343,513,Elizabeth Garcia,elizabeth.garcia49@example.com,Mumbai,Electronics Item 39,Electronics,169.47,2,338.94,2022-01-09,2022-01-10 18:24:00,Bank Transfer,Shipped,0,
+1344,579,James Jones,james.jones69@example.com,London,Electronics Item 24,Electronics,74.33,1,74.33,2022-07-11,2022-07-11 10:18:00,PayPal,Pending,0,12.4
+1345,577,Elizabeth Williams,elizabeth.williams72@example.com,Paris,Electronics Item 25,Electronics,109.16,3,327.48,2022-04-06,2022-04-07 22:05:00,PayPal,Delivered,0,14.1
+1346,598,Robert Jones,robert.jones20@example.com,Toronto,Electronics Item 33,Electronics,301.7,1,301.7,2023-07-12,2023-07-13 14:56:00,Crypto,Delivered,0,
+1347,526,Linda Smith,linda.smith10@example.com,Berlin,Beauty Item 18,Beauty,465.6,1,465.6,2022-05-01,2022-05-02 03:35:00,Bank Transfer,Cancelled,0,15.6
+1348,507,John Johnson,john.johnson34@example.com,Tokyo,Books Item 46,Books,258.68,2,517.36,2023-05-22,2023-05-23 07:30:00,Credit Card,Pending,0,15.3
+1349,505,William Martinez,william.martinez50@example.com,Mumbai,Sports Item 28,Sports,442.97,5,2214.85,2023-09-26,2023-09-26 23:40:00,Crypto,Pending,0,21.2
+1350,516,Patricia Garcia,patricia.garcia29@example.com,Mumbai,Clothing Item 30,Clothing,221.53,5,1107.65,2022-01-07,2022-01-08 09:30:00,Debit Card,Pending,0,11.5
+1351,595,Jennifer Rodriguez,jennifer.rodriguez62@example.com,New York,Home & Kitchen Item 16,Home & Kitchen,479.81,3,1439.43,2024-02-29,2024-03-01 01:53:00,Bank Transfer,Delivered,0,10.9
+1352,571,John Brown,john.brown22@example.com,New York,Electronics Item 16,Electronics,181.36,1,181.36,2023-07-21,2023-07-22 07:21:00,PayPal,Delivered,0,16.7
+1353,507,Jennifer Smith,jennifer.smith79@example.com,New York,Electronics Item 34,Electronics,482.84,3,1448.52,2023-11-25,2023-11-25 21:24:00,PayPal,Pending,0,14.1
+1354,547,John Jones,john.jones42@example.com,Paris,Electronics Item 16,Electronics,94.06,4,376.24,2022-12-03,2022-12-04 15:31:00,Credit Card,Cancelled,0,10.8
+1355,561,James Garcia,james.garcia29@example.com,Berlin,Sports Item 45,Sports,377.97,3,1133.91,2023-11-12,2023-11-12 10:10:00,Bank Transfer,Shipped,0,
+1356,570,Michael Miller,michael.miller54@example.com,Sydney,Clothing Item 28,Clothing,278.19,3,834.57,2023-02-21,2023-02-22 08:15:00,Crypto,Shipped,1,20.0
+1357,569,Michael Miller,michael.miller83@example.com,London,Clothing Item 44,Clothing,180.61,2,361.22,2023-09-15,2023-09-15 12:19:00,Bank Transfer,Pending,0,23.7
+1358,545,James Jones,james.jones19@example.com,Paris,Electronics Item 46,Electronics,43.27,2,86.54,2023-04-09,2023-04-10 17:34:00,Bank Transfer,Cancelled,0,
+1359,530,Elizabeth Miller,elizabeth.miller94@example.com,Sydney,Electronics Item 30,Electronics,85.87,1,85.87,2022-02-08,2022-02-09 19:20:00,Credit Card,Cancelled,0,6.9
+1360,550,Jennifer Miller,jennifer.miller18@example.com,London,Clothing Item 3,Clothing,84.48,5,422.4,2022-03-15,2022-03-16 15:56:00,Crypto,Shipped,0,
+1361,530,Mary Smith,mary.smith42@example.com,Paris,Books Item 26,Books,241.82,2,483.64,2022-06-06,2022-06-07 19:10:00,Credit Card,Shipped,0,
+1362,526,Elizabeth Davis,elizabeth.davis65@example.com,Mumbai,Clothing Item 40,Clothing,262.01,5,1310.05,2023-10-04,2023-10-04 14:30:00,Credit Card,Delivered,0,14.9
+1363,563,Mary Brown,mary.brown93@example.com,Sydney,Sports Item 5,Sports,119.38,2,238.76,2022-05-18,2022-05-19 03:10:00,PayPal,Shipped,0,6.1
+1364,593,Elizabeth Davis,elizabeth.davis96@example.com,Paris,Beauty Item 11,Beauty,406.1,4,1624.4,2022-06-04,2022-06-04 09:27:00,Credit Card,Pending,0,14.8
+1365,557,Jennifer Rodriguez,jennifer.rodriguez69@example.com,London,Electronics Item 37,Electronics,419.28,1,419.28,2023-11-25,2023-11-26 06:43:00,Crypto,Pending,0,20.3
+1366,596,Jennifer Martinez,jennifer.martinez21@example.com,London,Clothing Item 24,Clothing,26.83,5,134.15,2022-04-21,2022-04-22 13:23:00,Crypto,Shipped,0,23.9
+1367,541,Jennifer Rodriguez,jennifer.rodriguez30@example.com,London,Home & Kitchen Item 27,Home & Kitchen,401.43,3,1204.29,2022-08-08,2022-08-09 21:09:00,Crypto,Delivered,0,23.2
+1368,563,William Smith,william.smith51@example.com,Sydney,Home & Kitchen Item 5,Home & Kitchen,435.13,3,1305.39,2023-02-07,2023-02-08 14:27:00,Debit Card,Shipped,0,22.7
+1369,509,Jennifer Jones,jennifer.jones90@example.com,Berlin,Clothing Item 11,Clothing,374.57,2,749.14,2023-12-14,2023-12-14 13:42:00,Debit Card,Shipped,0,24.9
+1370,597,Jennifer Davis,jennifer.davis84@example.com,Toronto,Books Item 39,Books,312.83,2,625.66,2022-10-01,2022-10-02 20:07:00,Credit Card,Cancelled,0,23.1
+1371,543,Elizabeth Johnson,elizabeth.johnson85@example.com,Paris,Sports Item 26,Sports,419.53,5,2097.65,2023-07-12,2023-07-13 10:54:00,Crypto,Pending,0,
+1372,587,Jennifer Williams,jennifer.williams52@example.com,Mumbai,Sports Item 26,Sports,79.51,5,397.55,2022-01-11,2022-01-12 02:58:00,Debit Card,Shipped,0,22.3
+1373,530,William Johnson,william.johnson62@example.com,Tokyo,Books Item 14,Books,95.35,1,95.35,2023-09-11,2023-09-11 03:12:00,PayPal,Delivered,0,24.4
+1374,546,Mary Smith,mary.smith42@example.com,New York,Sports Item 16,Sports,393.62,5,1968.1,2023-06-09,2023-06-09 22:36:00,Crypto,Pending,0,15.7
+1375,577,Elizabeth Miller,elizabeth.miller72@example.com,Mumbai,Clothing Item 48,Clothing,78.77,5,393.85,2022-03-02,2022-03-03 16:46:00,PayPal,Shipped,0,14.3
+1376,537,William Williams,william.williams48@example.com,Mumbai,Electronics Item 14,Electronics,419.52,1,419.52,2024-01-07,2024-01-08 15:37:00,Credit Card,Delivered,0,19.1
+1377,514,Michael Garcia,michael.garcia47@example.com,Mumbai,Books Item 33,Books,443.56,1,443.56,2022-06-08,2022-06-08 20:42:00,Credit Card,Shipped,0,23.5
+1378,575,Mary Rodriguez,mary.rodriguez56@example.com,Paris,Clothing Item 48,Clothing,424.08,3,1272.24,2022-03-26,2022-03-26 10:50:00,Debit Card,Shipped,0,17.4
+1379,513,William Martinez,william.martinez82@example.com,Toronto,Home & Kitchen Item 36,Home & Kitchen,347.39,4,1389.56,2024-02-28,2024-02-29 11:37:00,Debit Card,Cancelled,0,
+1380,503,John Miller,john.miller62@example.com,London,Clothing Item 33,Clothing,187.42,5,937.1,2023-08-29,2023-08-29 02:34:00,Debit Card,Shipped,0,
+1381,591,John Miller,john.miller62@example.com,New York,Clothing Item 2,Clothing,394.47,5,1972.35,2023-08-20,2023-08-21 21:21:00,Bank Transfer,Delivered,0,5.7
+1382,545,Jennifer Rodriguez,jennifer.rodriguez63@example.com,Berlin,Beauty Item 36,Beauty,30.89,5,154.45,2024-02-14,2024-02-15 01:04:00,Bank Transfer,Delivered,0,15.2
+1383,506,Michael Jones,michael.jones83@example.com,Tokyo,Beauty Item 37,Beauty,52.92,3,158.76,2023-03-12,2023-03-12 10:13:00,Crypto,Delivered,1,12.7
+1384,550,John Miller,john.miller32@example.com,Sydney,Books Item 26,Books,460.65,2,921.3,2023-12-22,2023-12-22 11:24:00,Credit Card,Delivered,0,13.4
+1385,523,Patricia Martinez,patricia.martinez38@example.com,Berlin,Books Item 11,Books,477.6,5,2388.0,2023-12-29,2023-12-30 09:17:00,Crypto,Cancelled,0,22.2
+1386,520,Jennifer Johnson,jennifer.johnson42@example.com,Paris,Beauty Item 38,Beauty,499.15,3,1497.45,2023-02-26,2023-02-26 10:10:00,Bank Transfer,Delivered,1,8.9
+1387,539,Elizabeth Williams,elizabeth.williams84@example.com,London,Sports Item 35,Sports,399.17,2,798.34,2022-03-21,2022-03-22 06:42:00,PayPal,Cancelled,0,
+1388,582,Robert Williams,robert.williams75@example.com,Paris,Home & Kitchen Item 22,Home & Kitchen,319.82,1,319.82,2022-05-09,2022-05-09 12:00:00,PayPal,Pending,0,7.3
+1389,595,John Johnson,john.johnson18@example.com,Paris,Sports Item 42,Sports,333.78,3,1001.34,2022-10-21,2022-10-22 18:04:00,Bank Transfer,Cancelled,0,
+1390,537,Patricia Rodriguez,patricia.rodriguez13@example.com,New York,Clothing Item 7,Clothing,355.86,5,1779.3,2023-11-16,2023-11-16 07:38:00,Credit Card,Delivered,0,8.6
+1391,538,John Rodriguez,john.rodriguez21@example.com,London,Sports Item 27,Sports,63.87,4,255.48,2022-07-21,2022-07-22 11:16:00,PayPal,Cancelled,0,
+1392,514,William Brown,william.brown36@example.com,Mumbai,Clothing Item 41,Clothing,190.49,2,380.98,2022-10-20,2022-10-20 10:03:00,Bank Transfer,Cancelled,0,17.7
+1393,576,Linda Johnson,linda.johnson91@example.com,Berlin,Electronics Item 3,Electronics,233.42,5,1167.1,2022-12-14,2022-12-14 05:13:00,Crypto,Delivered,0,14.0
+1394,581,Patricia Williams,patricia.williams71@example.com,Tokyo,Beauty Item 7,Beauty,93.37,1,93.37,2023-08-21,2023-08-21 04:06:00,PayPal,Pending,1,5.7
+1395,519,Mary Jones,mary.jones14@example.com,Berlin,Electronics Item 30,Electronics,412.68,4,1650.72,2022-06-25,2022-06-25 04:11:00,Crypto,Delivered,0,
+1396,545,James Rodriguez,james.rodriguez75@example.com,New York,Electronics Item 19,Electronics,329.68,3,989.04,2022-02-27,2022-02-28 01:49:00,PayPal,Shipped,1,8.1
+1397,511,Patricia Smith,patricia.smith33@example.com,Berlin,Sports Item 14,Sports,103.21,4,412.84,2022-12-19,2022-12-20 01:10:00,PayPal,Shipped,0,
+1398,563,William Brown,william.brown99@example.com,Mumbai,Clothing Item 43,Clothing,52.54,3,157.62,2023-10-25,2023-10-26 20:35:00,Bank Transfer,Pending,0,18.3
+1399,533,Elizabeth Brown,elizabeth.brown23@example.com,Tokyo,Beauty Item 18,Beauty,276.21,4,1104.84,2023-01-30,2023-01-30 09:07:00,Debit Card,Shipped,1,5.5
+1400,514,James Brown,james.brown55@example.com,Sydney,Books Item 46,Books,283.63,4,1134.52,2022-03-29,2022-03-29 20:03:00,Crypto,Pending,1,20.5
+1401,515,Michael Davis,michael.davis98@example.com,Berlin,Beauty Item 7,Beauty,241.6,2,483.2,2023-11-08,2023-11-09 11:29:00,Debit Card,Delivered,0,12.0
+1402,553,Jennifer Martinez,jennifer.martinez86@example.com,Tokyo,Beauty Item 24,Beauty,286.86,2,573.72,2023-10-26,2023-10-26 18:53:00,Debit Card,Shipped,0,
+1403,525,John Jones,john.jones88@example.com,Berlin,Sports Item 22,Sports,342.75,2,685.5,2022-05-24,2022-05-24 18:33:00,Crypto,Pending,0,
+1404,585,James Johnson,james.johnson86@example.com,Sydney,Electronics Item 14,Electronics,227.47,4,909.88,2022-02-15,2022-02-16 17:10:00,Credit Card,Pending,0,
+1405,530,William Jones,william.jones92@example.com,Tokyo,Beauty Item 45,Beauty,63.28,2,126.56,2022-10-31,2022-10-31 14:46:00,Crypto,Delivered,0,14.7
+1406,585,Mary Davis,mary.davis16@example.com,New York,Electronics Item 44,Electronics,450.35,4,1801.4,2022-12-28,2022-12-29 09:54:00,Credit Card,Cancelled,0,
+1407,527,Robert Jones,robert.jones34@example.com,Sydney,Sports Item 43,Sports,277.66,2,555.32,2024-02-23,2024-02-23 11:09:00,Debit Card,Cancelled,0,7.5
+1408,535,Patricia Jones,patricia.jones42@example.com,Tokyo,Beauty Item 41,Beauty,237.59,5,1187.95,2023-07-12,2023-07-13 17:28:00,Credit Card,Delivered,0,5.8
+1409,567,Robert Garcia,robert.garcia35@example.com,Berlin,Sports Item 2,Sports,358.95,5,1794.75,2022-07-31,2022-08-01 10:48:00,Bank Transfer,Delivered,0,
+1410,592,William Brown,william.brown41@example.com,Toronto,Clothing Item 26,Clothing,139.53,2,279.06,2022-08-03,2022-08-04 15:50:00,Credit Card,Cancelled,0,
+1411,581,James Johnson,james.johnson22@example.com,Sydney,Sports Item 47,Sports,206.77,4,827.08,2023-09-15,2023-09-15 19:05:00,Bank Transfer,Delivered,0,5.7
+1412,532,William Davis,william.davis19@example.com,New York,Beauty Item 16,Beauty,381.32,2,762.64,2023-05-12,2023-05-12 11:45:00,Crypto,Cancelled,0,21.7
+1413,554,James Williams,james.williams81@example.com,Mumbai,Books Item 18,Books,470.04,2,940.08,2022-11-08,2022-11-09 00:35:00,Credit Card,Shipped,0,14.2
+1414,533,William Martinez,william.martinez24@example.com,Toronto,Home & Kitchen Item 33,Home & Kitchen,499.55,1,499.55,2022-05-07,2022-05-07 06:22:00,Crypto,Pending,0,7.4
+1415,519,Elizabeth Johnson,elizabeth.johnson69@example.com,Tokyo,Home & Kitchen Item 23,Home & Kitchen,439.32,4,1757.28,2023-01-03,2023-01-03 23:19:00,PayPal,Delivered,0,
+1416,572,James Smith,james.smith41@example.com,Toronto,Beauty Item 20,Beauty,134.41,2,268.82,2022-02-08,2022-02-08 17:37:00,Debit Card,Delivered,0,
+1417,550,Mary Johnson,mary.johnson89@example.com,Toronto,Beauty Item 24,Beauty,486.5,5,2432.5,2023-06-24,2023-06-24 08:21:00,Bank Transfer,Pending,0,
+1418,598,Jennifer Brown,jennifer.brown75@example.com,Paris,Beauty Item 33,Beauty,43.04,1,43.04,2023-12-23,2023-12-24 01:53:00,PayPal,Delivered,0,22.5
+1419,550,Mary Davis,mary.davis92@example.com,Tokyo,Electronics Item 43,Electronics,481.75,5,2408.75,2022-10-02,2022-10-03 11:51:00,PayPal,Shipped,0,15.9
+1420,598,Jennifer Garcia,jennifer.garcia90@example.com,Paris,Home & Kitchen Item 18,Home & Kitchen,462.75,4,1851.0,2023-01-14,2023-01-14 16:00:00,Credit Card,Cancelled,0,
+1421,535,Jennifer Johnson,jennifer.johnson20@example.com,Tokyo,Beauty Item 18,Beauty,150.78,3,452.34,2022-02-18,2022-02-19 08:44:00,Crypto,Pending,0,11.6
+1422,534,Michael Smith,michael.smith34@example.com,Toronto,Books Item 35,Books,425.41,1,425.41,2022-07-22,2022-07-23 06:57:00,PayPal,Shipped,0,
+1423,500,Jennifer Davis,jennifer.davis63@example.com,Mumbai,Beauty Item 7,Beauty,228.67,2,457.34,2022-04-07,2022-04-08 13:10:00,Credit Card,Shipped,0,16.3
+1424,562,Robert Johnson,robert.johnson29@example.com,Tokyo,Home & Kitchen Item 45,Home & Kitchen,422.33,1,422.33,2023-04-20,2023-04-20 01:48:00,Bank Transfer,Cancelled,0,17.0
+1425,502,Patricia Johnson,patricia.johnson46@example.com,Paris,Books Item 7,Books,382.66,4,1530.64,2024-01-29,2024-01-30 09:26:00,Credit Card,Delivered,0,19.8
+1426,572,John Brown,john.brown63@example.com,Toronto,Books Item 46,Books,221.76,2,443.52,2022-09-18,2022-09-19 02:42:00,Bank Transfer,Cancelled,0,15.9
+1427,577,John Jones,john.jones68@example.com,Sydney,Books Item 24,Books,191.2,2,382.4,2023-08-27,2023-08-28 12:25:00,Bank Transfer,Delivered,0,21.5
+1428,579,James Miller,james.miller45@example.com,London,Beauty Item 13,Beauty,414.11,3,1242.33,2023-09-10,2023-09-11 05:51:00,Debit Card,Delivered,0,8.2
+1429,537,Jennifer Brown,jennifer.brown61@example.com,Paris,Electronics Item 50,Electronics,474.01,3,1422.03,2022-06-22,2022-06-22 03:46:00,Debit Card,Pending,0,
+1430,525,Elizabeth Davis,elizabeth.davis89@example.com,London,Books Item 10,Books,13.12,5,65.6,2023-04-29,2023-04-29 23:44:00,Bank Transfer,Cancelled,0,6.5
+1431,504,John Davis,john.davis34@example.com,Berlin,Books Item 11,Books,220.97,4,883.88,2022-12-23,2022-12-24 05:16:00,Credit Card,Delivered,0,
+1432,511,Patricia Williams,patricia.williams48@example.com,Toronto,Clothing Item 43,Clothing,246.63,3,739.89,2022-03-02,2022-03-03 07:00:00,Crypto,Shipped,0,12.5
+1433,581,John Williams,john.williams24@example.com,Berlin,Books Item 48,Books,239.29,5,1196.45,2022-12-15,2022-12-16 03:24:00,Debit Card,Shipped,0,
+1434,582,Jennifer Jones,jennifer.jones81@example.com,New York,Books Item 37,Books,288.99,3,866.97,2022-02-08,2022-02-08 04:36:00,Debit Card,Cancelled,0,19.7
+1435,512,Michael Rodriguez,michael.rodriguez23@example.com,Tokyo,Home & Kitchen Item 9,Home & Kitchen,92.03,2,184.06,2022-01-10,2022-01-10 16:37:00,Crypto,Delivered,0,
+1436,551,Mary Garcia,mary.garcia67@example.com,Berlin,Sports Item 7,Sports,65.5,1,65.5,2023-07-23,2023-07-24 03:01:00,Bank Transfer,Pending,0,
+1437,547,Linda Martinez,linda.martinez57@example.com,Mumbai,Beauty Item 9,Beauty,334.06,2,668.12,2023-06-12,2023-06-13 13:49:00,Crypto,Cancelled,0,19.0
+1438,528,Mary Miller,mary.miller94@example.com,Paris,Home & Kitchen Item 1,Home & Kitchen,390.51,2,781.02,2022-01-14,2022-01-15 18:05:00,Bank Transfer,Delivered,0,
+1439,571,Jennifer Rodriguez,jennifer.rodriguez13@example.com,London,Books Item 6,Books,305.35,3,916.05,2023-02-08,2023-02-09 21:15:00,PayPal,Cancelled,0,7.2
+1440,508,William Smith,william.smith77@example.com,New York,Books Item 50,Books,252.86,5,1264.3,2022-05-08,2022-05-08 08:35:00,Bank Transfer,Delivered,0,
+1441,524,Linda Martinez,linda.martinez74@example.com,Sydney,Electronics Item 27,Electronics,272.52,4,1090.08,2022-01-06,2022-01-06 04:46:00,Debit Card,Shipped,0,22.8
+1442,558,Jennifer Rodriguez,jennifer.rodriguez67@example.com,Berlin,Clothing Item 23,Clothing,181.8,3,545.4,2023-02-22,2023-02-23 12:06:00,Crypto,Cancelled,0,6.1
+1443,524,James Miller,james.miller90@example.com,London,Books Item 39,Books,35.3,2,70.6,2023-06-01,2023-06-02 13:58:00,Debit Card,Cancelled,1,
+1444,590,John Jones,john.jones98@example.com,Toronto,Sports Item 39,Sports,44.41,4,177.64,2023-07-16,2023-07-17 13:38:00,Crypto,Pending,0,9.5
+1445,568,Robert Davis,robert.davis91@example.com,New York,Clothing Item 13,Clothing,250.61,1,250.61,2023-10-24,2023-10-25 10:34:00,Debit Card,Cancelled,0,
+1446,524,Robert Brown,robert.brown13@example.com,Tokyo,Home & Kitchen Item 15,Home & Kitchen,286.41,1,286.41,2023-03-03,2023-03-04 23:58:00,Debit Card,Pending,0,22.9
+1447,559,Linda Martinez,linda.martinez96@example.com,London,Electronics Item 22,Electronics,444.07,5,2220.35,2023-10-26,2023-10-26 12:29:00,Credit Card,Pending,0,10.0
+1448,567,Michael Davis,michael.davis26@example.com,Paris,Sports Item 3,Sports,338.27,5,1691.35,2022-07-18,2022-07-18 23:52:00,Bank Transfer,Pending,0,10.0
+1449,506,Elizabeth Rodriguez,elizabeth.rodriguez11@example.com,New York,Beauty Item 41,Beauty,240.59,1,240.59,2023-03-08,2023-03-08 18:16:00,Bank Transfer,Pending,0,
+1450,508,John Garcia,john.garcia80@example.com,New York,Clothing Item 26,Clothing,26.32,2,52.64,2023-04-23,2023-04-23 13:16:00,Crypto,Cancelled,1,15.9
+1451,552,James Smith,james.smith65@example.com,Sydney,Clothing Item 33,Clothing,82.7,2,165.4,2022-11-27,2022-11-27 08:19:00,PayPal,Delivered,0,10.5
+1452,508,Patricia Rodriguez,patricia.rodriguez84@example.com,London,Home & Kitchen Item 22,Home & Kitchen,387.44,5,1937.2,2023-07-14,2023-07-15 14:21:00,PayPal,Delivered,0,13.4
+1453,526,Jennifer Williams,jennifer.williams62@example.com,Paris,Electronics Item 6,Electronics,409.93,1,409.93,2022-02-05,2022-02-05 19:31:00,PayPal,Cancelled,0,16.0
+1454,556,Mary Davis,mary.davis54@example.com,Paris,Beauty Item 37,Beauty,75.25,4,301.0,2022-09-10,2022-09-10 05:49:00,Debit Card,Pending,0,16.9
+1455,568,Michael Davis,michael.davis79@example.com,Paris,Clothing Item 34,Clothing,285.04,3,855.12,2024-03-11,2024-03-11 06:00:00,Credit Card,Delivered,0,7.3
+1456,516,James Brown,james.brown90@example.com,Berlin,Books Item 32,Books,337.15,3,1011.45,2022-04-05,2022-04-06 11:29:00,PayPal,Cancelled,0,5.8
+1457,580,Mary Brown,mary.brown95@example.com,Paris,Beauty Item 11,Beauty,157.24,1,157.24,2022-06-25,2022-06-26 17:07:00,Bank Transfer,Cancelled,0,21.3
+1458,557,Linda Garcia,linda.garcia19@example.com,Sydney,Beauty Item 15,Beauty,429.43,3,1288.29,2023-07-21,2023-07-22 23:44:00,PayPal,Delivered,0,19.3
+1459,536,Robert Miller,robert.miller79@example.com,Berlin,Clothing Item 29,Clothing,262.76,3,788.28,2022-07-09,2022-07-09 12:50:00,Credit Card,Delivered,1,23.1
+1460,578,Patricia Jones,patricia.jones23@example.com,Tokyo,Sports Item 49,Sports,352.23,2,704.46,2022-10-11,2022-10-11 07:39:00,PayPal,Pending,0,21.0
+1461,562,Robert Smith,robert.smith86@example.com,London,Electronics Item 39,Electronics,62.9,5,314.5,2022-03-17,2022-03-17 04:15:00,PayPal,Cancelled,0,6.2
+1462,519,William Brown,william.brown46@example.com,Berlin,Sports Item 41,Sports,247.8,4,991.2,2022-09-23,2022-09-23 17:34:00,Bank Transfer,Pending,0,21.2
+1463,585,John Davis,john.davis69@example.com,Paris,Beauty Item 43,Beauty,215.52,3,646.56,2024-01-01,2024-01-02 17:17:00,Credit Card,Pending,0,
+1464,501,Mary Williams,mary.williams19@example.com,Toronto,Beauty Item 14,Beauty,61.62,4,246.48,2022-06-20,2022-06-21 11:22:00,PayPal,Pending,0,21.4
+1465,566,Patricia Jones,patricia.jones41@example.com,London,Home & Kitchen Item 31,Home & Kitchen,439.36,2,878.72,2023-09-10,2023-09-11 03:38:00,Bank Transfer,Delivered,0,5.7
+1466,553,James Johnson,james.johnson96@example.com,Berlin,Books Item 29,Books,134.34,1,134.34,2023-11-04,2023-11-04 09:40:00,Debit Card,Cancelled,0,7.8
+1467,539,James Davis,james.davis46@example.com,Toronto,Electronics Item 23,Electronics,95.01,2,190.02,2022-03-28,2022-03-29 20:35:00,Bank Transfer,Pending,0,
+1468,576,Linda Miller,linda.miller89@example.com,London,Sports Item 25,Sports,129.11,4,516.44,2023-08-17,2023-08-18 03:21:00,PayPal,Delivered,0,5.8
+1469,597,Mary Garcia,mary.garcia23@example.com,Sydney,Books Item 23,Books,413.27,4,1653.08,2023-03-13,2023-03-15 00:30:00,Credit Card,Pending,0,
+1470,521,Michael Rodriguez,michael.rodriguez15@example.com,Paris,Sports Item 3,Sports,482.75,3,1448.25,2022-06-28,2022-06-28 23:44:00,Credit Card,Shipped,0,10.3
+1471,578,Robert Jones,robert.jones47@example.com,New York,Home & Kitchen Item 36,Home & Kitchen,198.23,2,396.46,2023-12-26,2023-12-27 14:24:00,Credit Card,Delivered,0,21.8
+1472,565,Michael Rodriguez,michael.rodriguez70@example.com,London,Beauty Item 48,Beauty,316.23,5,1581.15,2022-10-13,2022-10-13 22:15:00,Bank Transfer,Pending,0,
+1473,594,Jennifer Brown,jennifer.brown64@example.com,Paris,Beauty Item 8,Beauty,31.54,5,157.7,2023-04-10,2023-04-10 14:36:00,Crypto,Delivered,0,15.1
+1474,505,William Brown,william.brown95@example.com,Sydney,Sports Item 29,Sports,385.72,5,1928.6,2022-04-13,2022-04-14 00:49:00,Crypto,Shipped,0,24.6
+1475,521,Mary Williams,mary.williams18@example.com,Toronto,Home & Kitchen Item 34,Home & Kitchen,432.74,1,432.74,2023-10-08,2023-10-09 17:10:00,Bank Transfer,Delivered,0,13.6
+1476,564,Michael Jones,michael.jones96@example.com,Paris,Electronics Item 18,Electronics,205.69,4,822.76,2023-04-06,2023-04-07 02:09:00,Credit Card,Shipped,0,21.9
+1477,569,Robert Brown,robert.brown84@example.com,Sydney,Sports Item 37,Sports,405.59,4,1622.36,2023-11-18,2023-11-19 08:24:00,Bank Transfer,Cancelled,0,
+1478,553,Robert Martinez,robert.martinez61@example.com,Toronto,Electronics Item 25,Electronics,482.01,2,964.02,2024-01-17,2024-01-17 08:15:00,Debit Card,Cancelled,1,10.2
+1479,546,Robert Garcia,robert.garcia91@example.com,Sydney,Clothing Item 39,Clothing,341.87,2,683.74,2023-05-03,2023-05-04 21:24:00,Credit Card,Shipped,0,
+1480,513,Patricia Rodriguez,patricia.rodriguez32@example.com,Mumbai,Home & Kitchen Item 30,Home & Kitchen,66.68,5,333.4,2024-02-27,2024-02-27 21:33:00,Credit Card,Delivered,0,22.8
+1481,501,Robert Johnson,robert.johnson58@example.com,Toronto,Electronics Item 12,Electronics,360.26,5,1801.3,2023-03-05,2023-03-07 00:38:00,PayPal,Delivered,0,21.1
+1482,596,Linda Miller,linda.miller69@example.com,Mumbai,Books Item 3,Books,468.66,2,937.32,2022-04-16,2022-04-17 13:27:00,Crypto,Delivered,0,16.2
+1483,518,Linda Smith,linda.smith41@example.com,New York,Sports Item 27,Sports,477.43,4,1909.72,2023-12-09,2023-12-09 22:06:00,Credit Card,Shipped,0,17.0
+1484,504,Michael Jones,michael.jones24@example.com,New York,Clothing Item 11,Clothing,204.09,2,408.18,2023-03-06,2023-03-06 23:29:00,Debit Card,Pending,0,8.7
+1485,539,John Brown,john.brown58@example.com,New York,Clothing Item 23,Clothing,430.65,5,2153.25,2023-08-24,2023-08-25 13:48:00,Crypto,Cancelled,0,23.2
+1486,536,Mary Jones,mary.jones93@example.com,Sydney,Beauty Item 27,Beauty,333.72,5,1668.6,2022-06-01,2022-06-02 12:59:00,Crypto,Cancelled,0,17.2
+1487,517,William Johnson,william.johnson71@example.com,Paris,Books Item 26,Books,127.98,2,255.96,2023-09-09,2023-09-10 03:06:00,PayPal,Delivered,0,
+1488,505,Patricia Jones,patricia.jones34@example.com,London,Books Item 23,Books,455.8,5,2279.0,2022-07-27,2022-07-28 11:29:00,PayPal,Cancelled,0,8.2
+1489,519,William Smith,william.smith43@example.com,Sydney,Electronics Item 19,Electronics,372.47,1,372.47,2023-02-11,2023-02-11 16:44:00,Bank Transfer,Delivered,1,22.4
+1490,519,William Brown,william.brown46@example.com,Tokyo,Sports Item 13,Sports,347.32,2,694.64,2023-10-21,2023-10-22 09:25:00,Debit Card,Cancelled,0,16.6
+1491,583,Linda Smith,linda.smith22@example.com,Paris,Sports Item 12,Sports,400.33,3,1200.99,2022-07-14,2022-07-15 06:59:00,Debit Card,Shipped,0,25.0
+1492,542,James Smith,james.smith78@example.com,Tokyo,Sports Item 28,Sports,414.36,4,1657.44,2023-04-24,2023-04-25 02:28:00,Crypto,Cancelled,0,19.6
+1493,547,Elizabeth Garcia,elizabeth.garcia48@example.com,Toronto,Sports Item 33,Sports,260.78,5,1303.9,2023-11-26,2023-11-27 09:25:00,Crypto,Pending,0,
+1494,573,Mary Rodriguez,mary.rodriguez29@example.com,Toronto,Sports Item 44,Sports,354.42,2,708.84,2022-02-17,2022-02-18 04:18:00,PayPal,Cancelled,0,5.1
+1495,514,Michael Williams,michael.williams55@example.com,London,Clothing Item 2,Clothing,497.11,5,2485.55,2024-02-28,2024-02-28 15:58:00,Crypto,Shipped,0,9.6
+1496,503,Patricia Rodriguez,patricia.rodriguez32@example.com,Sydney,Sports Item 29,Sports,398.98,4,1595.92,2023-02-11,2023-02-11 01:35:00,Credit Card,Shipped,0,10.2
+1497,577,William Jones,william.jones77@example.com,New York,Books Item 31,Books,87.13,2,174.26,2022-09-16,2022-09-17 03:31:00,PayPal,Pending,0,10.7
+1498,532,Patricia Miller,patricia.miller78@example.com,Tokyo,Electronics Item 24,Electronics,205.77,1,205.77,2023-05-05,2023-05-05 17:46:00,Debit Card,Shipped,0,
+1499,568,Michael Brown,michael.brown97@example.com,Sydney,Home & Kitchen Item 20,Home & Kitchen,410.9,3,1232.7,2022-07-19,2022-07-19 19:46:00,Bank Transfer,Delivered,0,
+1500,552,James Davis,james.davis22@example.com,Paris,Sports Item 45,Sports,445.98,5,2229.9,2022-11-02,2022-11-02 05:55:00,Crypto,Delivered,0,11.0
+1501,503,James Williams,james.williams36@example.com,Toronto,Books Item 22,Books,434.08,1,434.08,2023-02-06,2023-02-07 21:15:00,Debit Card,Delivered,0,16.0
+1502,517,Jennifer Johnson,jennifer.johnson76@example.com,Paris,Clothing Item 23,Clothing,58.71,1,58.71,2023-01-27,2023-01-28 04:53:00,Debit Card,Shipped,1,16.9
+1503,549,James Brown,james.brown47@example.com,Tokyo,Clothing Item 21,Clothing,197.36,5,986.8,2023-08-11,2023-08-12 07:17:00,Credit Card,Delivered,0,9.2
+1504,500,Elizabeth Rodriguez,elizabeth.rodriguez49@example.com,Berlin,Home & Kitchen Item 2,Home & Kitchen,83.55,4,334.2,2023-09-29,2023-09-29 06:46:00,Bank Transfer,Pending,0,17.3
+1505,561,Jennifer Smith,jennifer.smith71@example.com,Tokyo,Clothing Item 9,Clothing,360.6,2,721.2,2023-03-19,2023-03-20 06:13:00,Bank Transfer,Shipped,0,
+1506,594,Linda Smith,linda.smith57@example.com,Paris,Beauty Item 19,Beauty,450.67,3,1352.01,2022-05-10,2022-05-10 04:31:00,Crypto,Shipped,1,16.3
+1507,521,Linda Rodriguez,linda.rodriguez49@example.com,Paris,Beauty Item 39,Beauty,412.45,3,1237.35,2023-06-29,2023-06-30 05:23:00,Crypto,Cancelled,0,23.2
+1508,564,Patricia Smith,patricia.smith53@example.com,Mumbai,Sports Item 42,Sports,450.93,4,1803.72,2022-09-15,2022-09-16 13:31:00,Debit Card,Shipped,0,22.9
+1509,579,Michael Brown,michael.brown41@example.com,Mumbai,Electronics Item 12,Electronics,434.0,2,868.0,2022-12-18,2022-12-19 03:47:00,Bank Transfer,Cancelled,0,20.7
+1510,510,Jennifer Williams,jennifer.williams69@example.com,Toronto,Home & Kitchen Item 41,Home & Kitchen,138.27,4,553.08,2023-11-27,2023-11-28 08:58:00,PayPal,Pending,0,
+1511,592,Linda Garcia,linda.garcia75@example.com,Toronto,Beauty Item 39,Beauty,250.24,4,1000.96,2023-05-01,2023-05-02 10:49:00,Bank Transfer,Pending,0,15.4
+1512,537,James Miller,james.miller17@example.com,Berlin,Electronics Item 28,Electronics,178.41,2,356.82,2023-01-21,2023-01-22 22:45:00,Crypto,Delivered,1,
+1513,535,Elizabeth Miller,elizabeth.miller88@example.com,Toronto,Clothing Item 33,Clothing,198.04,1,198.04,2024-01-07,2024-01-08 15:17:00,Debit Card,Cancelled,0,22.4
+1514,576,Michael Jones,michael.jones36@example.com,New York,Books Item 19,Books,330.23,2,660.46,2023-06-02,2023-06-02 23:51:00,Crypto,Shipped,0,13.2
+1515,551,Elizabeth Smith,elizabeth.smith93@example.com,London,Home & Kitchen Item 43,Home & Kitchen,332.95,3,998.85,2023-06-18,2023-06-18 08:52:00,Bank Transfer,Shipped,0,23.3
+1516,569,Mary Miller,mary.miller60@example.com,Mumbai,Electronics Item 3,Electronics,192.29,2,384.58,2023-10-08,2023-10-09 06:48:00,Crypto,Cancelled,0,16.4
+1517,586,Robert Jones,robert.jones93@example.com,Paris,Sports Item 47,Sports,362.06,2,724.12,2022-04-13,2022-04-14 11:34:00,Bank Transfer,Shipped,0,
+1518,501,Mary Rodriguez,mary.rodriguez78@example.com,Berlin,Sports Item 22,Sports,122.87,3,368.61,2023-01-16,2023-01-17 07:53:00,PayPal,Cancelled,1,17.3
+1519,549,John Davis,john.davis82@example.com,Mumbai,Beauty Item 4,Beauty,288.4,4,1153.6,2022-07-02,2022-07-02 22:26:00,Debit Card,Delivered,0,12.5
+1520,507,John Williams,john.williams13@example.com,Paris,Clothing Item 6,Clothing,276.1,3,828.3,2023-04-29,2023-04-30 17:44:00,Credit Card,Shipped,0,
+1521,518,Mary Smith,mary.smith22@example.com,London,Books Item 45,Books,211.53,3,634.59,2022-11-07,2022-11-08 12:45:00,Credit Card,Delivered,0,
+1522,540,Linda Davis,linda.davis88@example.com,Mumbai,Electronics Item 9,Electronics,54.24,3,162.72,2023-11-25,2023-11-25 23:37:00,Debit Card,Cancelled,1,11.4
+1523,504,Michael Miller,michael.miller49@example.com,Berlin,Electronics Item 2,Electronics,264.47,5,1322.35,2024-02-14,2024-02-15 04:38:00,Credit Card,Pending,0,
+1524,508,Michael Johnson,michael.johnson93@example.com,Paris,Books Item 7,Books,450.52,2,901.04,2022-04-26,2022-04-26 18:02:00,Bank Transfer,Cancelled,0,
+1525,590,James Brown,james.brown13@example.com,London,Electronics Item 34,Electronics,498.26,4,1993.04,2023-10-18,2023-10-18 12:57:00,Crypto,Cancelled,0,5.5
+1526,522,James Johnson,james.johnson31@example.com,New York,Beauty Item 38,Beauty,284.78,5,1423.9,2022-11-28,2022-11-29 13:18:00,Crypto,Cancelled,0,20.9
+1527,584,John Smith,john.smith33@example.com,Mumbai,Sports Item 15,Sports,449.69,1,449.69,2022-10-11,2022-10-12 06:18:00,Credit Card,Shipped,1,
+1528,520,William Jones,william.jones67@example.com,Berlin,Sports Item 44,Sports,217.55,3,652.65,2022-11-10,2022-11-10 02:42:00,PayPal,Delivered,0,13.2
+1529,557,Jennifer Rodriguez,jennifer.rodriguez77@example.com,Berlin,Home & Kitchen Item 41,Home & Kitchen,233.68,3,701.04,2023-08-10,2023-08-11 16:32:00,Bank Transfer,Shipped,0,12.7
+1530,514,William Martinez,william.martinez31@example.com,Sydney,Books Item 15,Books,24.89,3,74.67,2023-08-25,2023-08-25 23:41:00,Credit Card,Cancelled,0,
+1531,559,Robert Williams,robert.williams25@example.com,Toronto,Electronics Item 14,Electronics,444.91,3,1334.73,2023-10-13,2023-10-13 22:55:00,Crypto,Pending,0,11.3
+1532,512,Robert Miller,robert.miller59@example.com,Mumbai,Electronics Item 20,Electronics,67.99,2,135.98,2023-07-05,2023-07-06 05:44:00,Debit Card,Pending,0,6.6
+1533,550,Patricia Smith,patricia.smith31@example.com,Mumbai,Clothing Item 49,Clothing,162.41,4,649.64,2023-08-28,2023-08-28 18:06:00,Debit Card,Cancelled,0,5.4
+1534,577,John Garcia,john.garcia82@example.com,Toronto,Books Item 46,Books,72.78,2,145.56,2022-10-11,2022-10-11 14:59:00,PayPal,Delivered,0,
+1535,584,Patricia Rodriguez,patricia.rodriguez50@example.com,Paris,Home & Kitchen Item 15,Home & Kitchen,66.71,4,266.84,2022-06-28,2022-06-29 18:03:00,Bank Transfer,Pending,0,11.0
+1536,548,James Rodriguez,james.rodriguez19@example.com,Toronto,Beauty Item 3,Beauty,216.21,4,864.84,2022-04-15,2022-04-15 15:53:00,Credit Card,Delivered,0,21.3
+1537,528,Elizabeth Jones,elizabeth.jones35@example.com,Toronto,Sports Item 22,Sports,403.05,1,403.05,2023-05-30,2023-06-01 00:26:00,Credit Card,Pending,0,7.8
+1538,581,Elizabeth Williams,elizabeth.williams23@example.com,Tokyo,Sports Item 36,Sports,37.08,4,148.32,2023-04-04,2023-04-06 00:31:00,Credit Card,Pending,0,18.5
+1539,594,Jennifer Brown,jennifer.brown14@example.com,Tokyo,Books Item 7,Books,101.23,5,506.15,2023-09-23,2023-09-23 03:08:00,Crypto,Pending,0,5.5
+1540,583,John Brown,john.brown84@example.com,Mumbai,Books Item 12,Books,276.32,4,1105.28,2022-05-23,2022-05-24 10:51:00,Crypto,Shipped,0,8.9
+1541,596,Linda Rodriguez,linda.rodriguez65@example.com,Berlin,Beauty Item 49,Beauty,328.93,1,328.93,2024-01-12,2024-01-12 14:24:00,Crypto,Cancelled,1,
+1542,545,Elizabeth Rodriguez,elizabeth.rodriguez39@example.com,Sydney,Sports Item 31,Sports,296.16,2,592.32,2023-08-30,2023-08-31 23:34:00,Credit Card,Shipped,0,16.2
+1543,573,John Davis,john.davis54@example.com,Mumbai,Sports Item 35,Sports,198.74,1,198.74,2023-12-14,2023-12-14 11:06:00,Crypto,Pending,0,
+1544,530,Robert Johnson,robert.johnson61@example.com,Berlin,Books Item 7,Books,361.9,1,361.9,2023-06-09,2023-06-09 02:00:00,Crypto,Shipped,0,22.4
+1545,560,Jennifer Garcia,jennifer.garcia83@example.com,Berlin,Beauty Item 3,Beauty,394.25,2,788.5,2023-11-23,2023-11-23 20:13:00,Credit Card,Delivered,0,
+1546,543,James Rodriguez,james.rodriguez59@example.com,Sydney,Clothing Item 33,Clothing,240.45,2,480.9,2022-04-22,2022-04-23 02:44:00,Bank Transfer,Cancelled,0,11.4
+1547,527,Elizabeth Johnson,elizabeth.johnson33@example.com,Toronto,Electronics Item 22,Electronics,263.04,1,263.04,2023-01-15,2023-01-15 20:46:00,PayPal,Pending,0,6.0
+1548,529,Jennifer Garcia,jennifer.garcia68@example.com,Paris,Books Item 28,Books,404.2,2,808.4,2023-04-24,2023-04-25 04:06:00,Crypto,Delivered,1,
+1549,527,Robert Williams,robert.williams48@example.com,Toronto,Books Item 47,Books,423.68,1,423.68,2023-05-09,2023-05-10 04:49:00,Debit Card,Cancelled,0,7.4
+1550,566,James Davis,james.davis28@example.com,Tokyo,Books Item 47,Books,467.95,3,1403.85,2023-09-23,2023-09-24 02:55:00,Crypto,Cancelled,0,
+1551,542,John Johnson,john.johnson83@example.com,Mumbai,Sports Item 41,Sports,146.82,1,146.82,2023-05-31,2023-06-01 22:55:00,Crypto,Delivered,1,
+1552,547,Michael Brown,michael.brown39@example.com,Mumbai,Books Item 45,Books,65.45,5,327.25,2024-01-04,2024-01-04 03:29:00,Credit Card,Shipped,0,8.0
+1553,539,Michael Williams,michael.williams12@example.com,Berlin,Electronics Item 45,Electronics,109.33,1,109.33,2022-06-17,2022-06-17 09:14:00,PayPal,Shipped,0,24.4
+1554,543,Michael Williams,michael.williams43@example.com,Tokyo,Clothing Item 38,Clothing,391.21,1,391.21,2023-11-23,2023-11-23 20:59:00,Debit Card,Cancelled,0,
+1555,542,Mary Smith,mary.smith42@example.com,London,Clothing Item 50,Clothing,110.88,3,332.64,2022-08-31,2022-09-01 05:08:00,Credit Card,Delivered,0,17.9
+1556,565,William Johnson,william.johnson87@example.com,Sydney,Home & Kitchen Item 27,Home & Kitchen,31.82,1,31.82,2022-01-06,2022-01-07 20:53:00,Bank Transfer,Delivered,0,23.8
+1557,523,Mary Miller,mary.miller87@example.com,Paris,Sports Item 20,Sports,374.83,2,749.66,2023-05-11,2023-05-12 09:41:00,Crypto,Pending,0,23.3
+1558,520,William Martinez,william.martinez31@example.com,Berlin,Beauty Item 25,Beauty,288.42,3,865.26,2023-05-12,2023-05-12 19:15:00,Credit Card,Delivered,0,13.1
+1559,549,Elizabeth Davis,elizabeth.davis67@example.com,Sydney,Home & Kitchen Item 3,Home & Kitchen,367.05,2,734.1,2024-02-15,2024-02-15 04:36:00,Debit Card,Cancelled,0,5.9
+1560,535,John Williams,john.williams72@example.com,Sydney,Beauty Item 27,Beauty,85.6,3,256.8,2023-08-28,2023-08-29 17:22:00,Bank Transfer,Shipped,0,7.0
+1561,502,James Williams,james.williams67@example.com,London,Beauty Item 29,Beauty,123.69,3,371.07,2023-08-30,2023-08-30 12:44:00,Debit Card,Shipped,0,16.5
+1562,525,Michael Williams,michael.williams75@example.com,Paris,Beauty Item 31,Beauty,411.68,5,2058.4,2022-01-09,2022-01-09 01:19:00,Bank Transfer,Delivered,0,17.9
+1563,514,Linda Brown,linda.brown94@example.com,Berlin,Clothing Item 42,Clothing,282.72,3,848.16,2023-09-29,2023-09-30 07:55:00,Debit Card,Shipped,0,22.0
+1564,578,Jennifer Rodriguez,jennifer.rodriguez45@example.com,Sydney,Books Item 36,Books,217.63,5,1088.15,2023-01-19,2023-01-19 21:10:00,Bank Transfer,Delivered,0,9.2
+1565,508,James Smith,james.smith85@example.com,Paris,Electronics Item 38,Electronics,137.89,3,413.67,2024-01-30,2024-02-01 00:57:00,Crypto,Cancelled,0,
+1566,576,Robert Martinez,robert.martinez85@example.com,Paris,Clothing Item 30,Clothing,252.22,4,1008.88,2022-05-18,2022-05-19 14:12:00,PayPal,Shipped,0,14.8
+1567,505,John Brown,john.brown82@example.com,New York,Home & Kitchen Item 15,Home & Kitchen,482.81,1,482.81,2022-09-14,2022-09-15 23:22:00,PayPal,Pending,0,16.9
+1568,527,Patricia Johnson,patricia.johnson11@example.com,Tokyo,Beauty Item 42,Beauty,369.59,5,1847.95,2022-05-23,2022-05-24 23:38:00,Credit Card,Cancelled,0,11.0
+1569,555,Robert Miller,robert.miller91@example.com,Sydney,Sports Item 11,Sports,499.29,2,998.58,2023-08-23,2023-08-23 07:02:00,Bank Transfer,Delivered,0,
+1570,531,Patricia Brown,patricia.brown20@example.com,Berlin,Electronics Item 35,Electronics,314.21,2,628.42,2023-08-29,2023-08-29 14:13:00,Debit Card,Delivered,0,11.5
+1571,575,John Davis,john.davis31@example.com,London,Electronics Item 45,Electronics,466.16,3,1398.48,2023-02-23,2023-02-24 16:25:00,Crypto,Shipped,0,20.8
+1572,565,James Smith,james.smith74@example.com,London,Clothing Item 16,Clothing,138.51,3,415.53,2023-11-25,2023-11-26 04:59:00,Credit Card,Shipped,0,17.4
+1573,561,Robert Martinez,robert.martinez24@example.com,Berlin,Clothing Item 6,Clothing,295.01,2,590.02,2023-04-14,2023-04-15 10:07:00,Credit Card,Shipped,0,
+1574,521,Mary Smith,mary.smith50@example.com,New York,Books Item 8,Books,378.27,2,756.54,2024-01-16,2024-01-16 02:36:00,PayPal,Delivered,0,8.1
+1575,535,Robert Jones,robert.jones13@example.com,New York,Electronics Item 46,Electronics,218.55,4,874.2,2023-09-07,2023-09-08 05:58:00,Debit Card,Cancelled,0,
+1576,530,Jennifer Rodriguez,jennifer.rodriguez90@example.com,Mumbai,Beauty Item 12,Beauty,347.6,3,1042.8,2024-01-21,2024-01-22 17:32:00,Debit Card,Cancelled,0,
+1577,541,James Miller,james.miller59@example.com,Mumbai,Electronics Item 21,Electronics,40.66,4,162.64,2022-03-15,2022-03-16 20:11:00,Credit Card,Shipped,0,
+1578,592,Michael Jones,michael.jones14@example.com,Toronto,Electronics Item 30,Electronics,399.94,2,799.88,2023-11-01,2023-11-01 17:54:00,Debit Card,Shipped,0,24.8
+1579,586,Mary Williams,mary.williams86@example.com,Sydney,Books Item 21,Books,163.77,4,655.08,2023-02-18,2023-02-19 04:17:00,PayPal,Cancelled,0,23.3
+1580,542,Linda Garcia,linda.garcia42@example.com,Mumbai,Beauty Item 19,Beauty,474.31,5,2371.55,2022-06-03,2022-06-04 10:36:00,Credit Card,Shipped,0,12.1
+1581,598,James Smith,james.smith25@example.com,London,Electronics Item 25,Electronics,414.24,2,828.48,2022-09-03,2022-09-03 05:45:00,Credit Card,Delivered,0,
+1582,581,William Williams,william.williams42@example.com,Toronto,Books Item 29,Books,138.67,4,554.68,2023-03-02,2023-03-02 22:11:00,Bank Transfer,Cancelled,0,14.4
+1583,598,Robert Rodriguez,robert.rodriguez53@example.com,Toronto,Home & Kitchen Item 27,Home & Kitchen,294.76,5,1473.8,2023-02-16,2023-02-16 12:48:00,Debit Card,Cancelled,0,18.6
+1584,550,Jennifer Williams,jennifer.williams28@example.com,Mumbai,Sports Item 19,Sports,82.48,1,82.48,2022-08-07,2022-08-07 02:56:00,Crypto,Delivered,0,
+1585,551,James Miller,james.miller10@example.com,Mumbai,Clothing Item 22,Clothing,53.92,1,53.92,2022-08-18,2022-08-19 20:48:00,PayPal,Delivered,0,20.5
+1586,512,Elizabeth Smith,elizabeth.smith29@example.com,Paris,Books Item 46,Books,145.39,1,145.39,2022-07-22,2022-07-23 14:16:00,Crypto,Cancelled,0,12.3
+1587,547,Robert Smith,robert.smith77@example.com,New York,Clothing Item 10,Clothing,221.41,3,664.23,2022-01-28,2022-01-29 01:17:00,Crypto,Delivered,0,22.9
+1588,519,Jennifer Miller,jennifer.miller98@example.com,Tokyo,Electronics Item 30,Electronics,24.61,2,49.22,2022-02-07,2022-02-08 15:27:00,Credit Card,Cancelled,0,
+1589,577,Linda Garcia,linda.garcia40@example.com,New York,Books Item 43,Books,199.96,5,999.8,2022-11-20,2022-11-20 07:35:00,Crypto,Shipped,1,20.0
+1590,569,James Martinez,james.martinez55@example.com,Toronto,Sports Item 36,Sports,424.11,5,2120.55,2022-05-26,2022-05-27 12:22:00,Bank Transfer,Shipped,0,12.9
+1591,535,John Garcia,john.garcia95@example.com,Toronto,Home & Kitchen Item 12,Home & Kitchen,308.35,3,925.05,2023-05-05,2023-05-05 05:09:00,Debit Card,Cancelled,0,23.2
+1592,561,John Williams,john.williams86@example.com,Toronto,Beauty Item 19,Beauty,309.99,4,1239.96,2023-11-03,2023-11-04 21:43:00,Bank Transfer,Delivered,0,
+1593,534,John Rodriguez,john.rodriguez44@example.com,Mumbai,Clothing Item 45,Clothing,365.02,3,1095.06,2022-07-10,2022-07-11 18:35:00,Bank Transfer,Delivered,0,7.4
+1594,547,Elizabeth Johnson,elizabeth.johnson78@example.com,Mumbai,Clothing Item 7,Clothing,229.08,3,687.24,2022-10-03,2022-10-04 21:32:00,Bank Transfer,Delivered,0,8.0
+1595,544,Robert Smith,robert.smith12@example.com,Mumbai,Electronics Item 5,Electronics,28.38,1,28.38,2023-07-26,2023-07-27 23:48:00,Debit Card,Shipped,0,10.8
+1596,502,Linda Brown,linda.brown84@example.com,New York,Electronics Item 10,Electronics,33.52,3,100.56,2023-04-01,2023-04-02 16:17:00,Crypto,Cancelled,0,22.9
+1597,599,Elizabeth Garcia,elizabeth.garcia21@example.com,Berlin,Books Item 47,Books,245.28,3,735.84,2023-09-30,2023-09-30 12:05:00,Credit Card,Pending,0,
+1598,514,William Jones,william.jones20@example.com,Paris,Sports Item 33,Sports,372.01,1,372.01,2023-03-21,2023-03-21 11:43:00,Bank Transfer,Cancelled,0,7.7
+1599,536,Robert Smith,robert.smith28@example.com,London,Sports Item 27,Sports,312.22,4,1248.88,2024-01-14,2024-01-14 01:13:00,Crypto,Shipped,0,16.8
+1600,541,Jennifer Smith,jennifer.smith70@example.com,Paris,Home & Kitchen Item 1,Home & Kitchen,305.46,3,916.38,2022-01-30,2022-01-31 08:17:00,Credit Card,Pending,0,19.2
+1601,556,Patricia Martinez,patricia.martinez87@example.com,Sydney,Clothing Item 43,Clothing,440.3,5,2201.5,2023-04-09,2023-04-10 11:48:00,Credit Card,Pending,0,14.5
+1602,575,Elizabeth Rodriguez,elizabeth.rodriguez88@example.com,New York,Electronics Item 11,Electronics,208.06,1,208.06,2022-01-09,2022-01-09 09:18:00,Bank Transfer,Pending,0,16.0
+1603,565,James Miller,james.miller43@example.com,Berlin,Electronics Item 49,Electronics,69.99,2,139.98,2023-02-22,2023-02-22 08:50:00,Bank Transfer,Pending,1,5.3
+1604,508,William Miller,william.miller19@example.com,Paris,Books Item 17,Books,291.4,3,874.2,2022-06-21,2022-06-21 03:34:00,Crypto,Cancelled,0,7.8
+1605,553,James Miller,james.miller55@example.com,Paris,Clothing Item 9,Clothing,32.17,3,96.51,2022-12-27,2022-12-27 14:10:00,Credit Card,Cancelled,0,
+1606,566,Michael Smith,michael.smith40@example.com,Paris,Sports Item 20,Sports,417.72,4,1670.88,2022-07-23,2022-07-23 18:12:00,Crypto,Delivered,1,15.9
+1607,584,Mary Garcia,mary.garcia79@example.com,Berlin,Home & Kitchen Item 5,Home & Kitchen,114.4,1,114.4,2022-12-09,2022-12-09 13:44:00,Crypto,Shipped,0,17.3
+1608,560,Mary Brown,mary.brown86@example.com,New York,Electronics Item 50,Electronics,468.02,5,2340.1,2023-10-07,2023-10-08 11:27:00,Debit Card,Pending,0,23.1
+1609,562,Mary Williams,mary.williams64@example.com,Paris,Sports Item 2,Sports,456.78,4,1827.12,2023-09-19,2023-09-20 10:27:00,PayPal,Pending,0,18.9
+1610,532,Mary Rodriguez,mary.rodriguez32@example.com,Berlin,Clothing Item 46,Clothing,98.29,4,393.16,2022-10-13,2022-10-13 22:10:00,Debit Card,Delivered,0,17.8
+1611,563,Robert Smith,robert.smith80@example.com,Berlin,Clothing Item 12,Clothing,178.87,2,357.74,2022-08-23,2022-08-24 10:53:00,Credit Card,Shipped,0,19.1
+1612,595,Jennifer Davis,jennifer.davis19@example.com,Tokyo,Electronics Item 32,Electronics,223.18,5,1115.9,2024-02-08,2024-02-08 23:17:00,Crypto,Shipped,0,24.3
+1613,570,Michael Garcia,michael.garcia75@example.com,Mumbai,Home & Kitchen Item 40,Home & Kitchen,62.61,3,187.83,2023-11-23,2023-11-23 19:56:00,PayPal,Delivered,0,14.1
+1614,548,Michael Rodriguez,michael.rodriguez80@example.com,London,Books Item 45,Books,304.26,1,304.26,2023-02-16,2023-02-16 19:05:00,Crypto,Shipped,0,24.6
+1615,579,Jennifer Brown,jennifer.brown27@example.com,Mumbai,Books Item 33,Books,225.66,1,225.66,2023-08-20,2023-08-21 18:59:00,Debit Card,Delivered,0,9.4
+1616,501,Mary Miller,mary.miller87@example.com,Berlin,Clothing Item 28,Clothing,74.51,2,149.02,2023-05-15,2023-05-16 14:57:00,Debit Card,Delivered,0,21.7
+1617,567,Patricia Davis,patricia.davis33@example.com,New York,Beauty Item 26,Beauty,16.56,5,82.8,2023-12-19,2023-12-19 05:17:00,Credit Card,Shipped,0,
+1618,582,Mary Smith,mary.smith85@example.com,New York,Beauty Item 5,Beauty,156.29,2,312.58,2022-03-28,2022-03-29 21:33:00,PayPal,Pending,0,15.1
+1619,529,Jennifer Smith,jennifer.smith59@example.com,Mumbai,Beauty Item 27,Beauty,66.41,3,199.23,2022-04-22,2022-04-23 14:24:00,Bank Transfer,Shipped,0,20.4
+1620,533,Patricia Johnson,patricia.johnson61@example.com,Tokyo,Clothing Item 19,Clothing,46.42,1,46.42,2023-04-30,2023-04-30 11:53:00,Debit Card,Shipped,0,23.7
+1621,589,John Brown,john.brown48@example.com,Mumbai,Beauty Item 6,Beauty,465.43,1,465.43,2023-02-25,2023-02-25 01:59:00,Credit Card,Delivered,0,
+1622,544,Elizabeth Garcia,elizabeth.garcia49@example.com,London,Clothing Item 22,Clothing,472.84,3,1418.52,2022-08-04,2022-08-04 09:00:00,Crypto,Shipped,0,8.4
+1623,574,Elizabeth Smith,elizabeth.smith35@example.com,Tokyo,Sports Item 28,Sports,258.19,2,516.38,2024-01-25,2024-01-25 19:08:00,Crypto,Shipped,0,12.5
+1624,521,John Miller,john.miller50@example.com,Paris,Books Item 14,Books,331.3,3,993.9,2023-07-30,2023-07-30 21:38:00,Crypto,Shipped,0,9.1
+1625,559,Elizabeth Brown,elizabeth.brown87@example.com,Tokyo,Home & Kitchen Item 25,Home & Kitchen,396.62,4,1586.48,2023-10-12,2023-10-13 09:47:00,Debit Card,Delivered,0,20.5
+1626,569,Mary Rodriguez,mary.rodriguez52@example.com,Berlin,Beauty Item 23,Beauty,374.73,2,749.46,2024-02-20,2024-02-20 05:39:00,PayPal,Shipped,0,
+1627,598,James Miller,james.miller54@example.com,Tokyo,Sports Item 24,Sports,229.65,5,1148.25,2022-01-30,2022-01-31 17:42:00,PayPal,Delivered,0,
+1628,571,Mary Davis,mary.davis57@example.com,Berlin,Books Item 17,Books,71.56,3,214.68,2023-02-06,2023-02-07 14:04:00,PayPal,Cancelled,0,
+1629,579,Patricia Rodriguez,patricia.rodriguez91@example.com,Mumbai,Books Item 11,Books,229.89,3,689.67,2023-09-04,2023-09-05 23:33:00,Crypto,Delivered,0,11.9
+1630,533,Mary Martinez,mary.martinez85@example.com,Toronto,Home & Kitchen Item 44,Home & Kitchen,327.68,4,1310.72,2023-02-21,2023-02-21 20:45:00,Bank Transfer,Delivered,0,19.4
+1631,579,James Garcia,james.garcia48@example.com,Sydney,Beauty Item 3,Beauty,281.22,2,562.44,2022-10-18,2022-10-18 03:09:00,Bank Transfer,Delivered,0,
+1632,502,William Jones,william.jones23@example.com,Mumbai,Beauty Item 41,Beauty,419.63,5,2098.15,2022-06-23,2022-06-23 23:27:00,Credit Card,Shipped,0,21.8
+1633,538,Linda Johnson,linda.johnson66@example.com,London,Electronics Item 25,Electronics,98.7,2,197.4,2023-04-19,2023-04-20 04:44:00,Debit Card,Delivered,0,23.4
+1634,517,Linda Garcia,linda.garcia28@example.com,Paris,Electronics Item 26,Electronics,48.52,1,48.52,2022-06-17,2022-06-17 15:12:00,Debit Card,Delivered,0,24.2
+1635,583,Linda Davis,linda.davis80@example.com,London,Home & Kitchen Item 11,Home & Kitchen,415.57,1,415.57,2022-01-09,2022-01-10 01:48:00,Debit Card,Cancelled,0,
+1636,514,William Brown,william.brown91@example.com,London,Electronics Item 25,Electronics,182.97,1,182.97,2023-08-18,2023-08-19 03:36:00,Debit Card,Delivered,0,22.0
+1637,596,Robert Brown,robert.brown78@example.com,Mumbai,Beauty Item 46,Beauty,292.75,4,1171.0,2022-02-02,2022-02-03 13:31:00,Credit Card,Cancelled,0,23.3
+1638,581,James Smith,james.smith35@example.com,Toronto,Home & Kitchen Item 44,Home & Kitchen,90.3,3,270.9,2022-08-03,2022-08-04 12:26:00,Bank Transfer,Shipped,0,5.6
+1639,515,Michael Johnson,michael.johnson15@example.com,Tokyo,Sports Item 15,Sports,152.14,1,152.14,2024-02-19,2024-02-19 07:10:00,Crypto,Delivered,0,15.8
+1640,583,Jennifer Martinez,jennifer.martinez67@example.com,Mumbai,Electronics Item 36,Electronics,58.14,2,116.28,2022-10-20,2022-10-21 03:47:00,Debit Card,Pending,1,9.5
+1641,531,Jennifer Brown,jennifer.brown61@example.com,London,Sports Item 2,Sports,124.55,3,373.65,2023-01-25,2023-01-26 21:13:00,Debit Card,Delivered,0,
+1642,591,Jennifer Brown,jennifer.brown88@example.com,Tokyo,Books Item 8,Books,141.77,4,567.08,2023-07-20,2023-07-20 09:04:00,Credit Card,Cancelled,0,
+1643,545,William Smith,william.smith11@example.com,Sydney,Home & Kitchen Item 15,Home & Kitchen,284.06,2,568.12,2022-12-25,2022-12-25 05:29:00,PayPal,Cancelled,0,8.6
+1644,585,Linda Rodriguez,linda.rodriguez45@example.com,Sydney,Home & Kitchen Item 31,Home & Kitchen,436.06,2,872.12,2022-07-27,2022-07-27 12:36:00,PayPal,Pending,0,13.1
+1645,539,Robert Smith,robert.smith82@example.com,Mumbai,Sports Item 35,Sports,138.82,1,138.82,2022-04-15,2022-04-16 07:12:00,PayPal,Pending,0,21.8
+1646,540,John Davis,john.davis46@example.com,Sydney,Clothing Item 48,Clothing,312.87,3,938.61,2022-07-20,2022-07-21 06:05:00,Credit Card,Cancelled,0,10.3
+1647,571,John Brown,john.brown15@example.com,Sydney,Books Item 22,Books,165.43,3,496.29,2022-07-24,2022-07-24 23:58:00,Credit Card,Pending,0,15.2
+1648,519,Linda Smith,linda.smith55@example.com,Toronto,Clothing Item 44,Clothing,296.39,3,889.17,2022-05-31,2022-05-31 09:16:00,Bank Transfer,Shipped,0,17.6
+1649,544,Michael Miller,michael.miller55@example.com,Sydney,Books Item 9,Books,137.03,2,274.06,2022-06-24,2022-06-25 04:28:00,Bank Transfer,Cancelled,0,20.7
+1650,545,Mary Smith,mary.smith49@example.com,Tokyo,Electronics Item 8,Electronics,12.73,1,12.73,2023-06-30,2023-07-01 11:48:00,Crypto,Cancelled,0,12.6
+1651,515,John Smith,john.smith57@example.com,Tokyo,Home & Kitchen Item 15,Home & Kitchen,281.66,4,1126.64,2024-02-22,2024-02-23 15:07:00,Crypto,Pending,0,15.0
+1652,569,Elizabeth Jones,elizabeth.jones43@example.com,Tokyo,Sports Item 5,Sports,198.11,5,990.55,2023-12-16,2023-12-17 13:03:00,Bank Transfer,Pending,1,23.9
+1653,545,John Brown,john.brown12@example.com,Sydney,Home & Kitchen Item 16,Home & Kitchen,426.52,3,1279.56,2022-12-08,2022-12-09 08:12:00,Debit Card,Shipped,0,13.5
+1654,566,Michael Garcia,michael.garcia53@example.com,New York,Home & Kitchen Item 9,Home & Kitchen,82.02,3,246.06,2022-11-27,2022-11-28 04:37:00,PayPal,Cancelled,0,8.8
+1655,578,Patricia Williams,patricia.williams28@example.com,Berlin,Sports Item 3,Sports,257.0,3,771.0,2022-12-13,2022-12-13 16:41:00,Credit Card,Cancelled,0,19.1
+1656,531,Patricia Davis,patricia.davis85@example.com,Sydney,Electronics Item 2,Electronics,258.14,4,1032.56,2022-07-03,2022-07-04 05:16:00,PayPal,Pending,0,16.0
+1657,500,William Johnson,william.johnson46@example.com,New York,Clothing Item 44,Clothing,64.97,3,194.91,2022-12-21,2022-12-21 21:19:00,PayPal,Delivered,0,
+1658,595,Mary Brown,mary.brown73@example.com,Paris,Home & Kitchen Item 5,Home & Kitchen,438.94,2,877.88,2022-09-19,2022-09-20 10:41:00,Crypto,Delivered,0,5.3
+1659,592,Robert Williams,robert.williams28@example.com,Toronto,Clothing Item 7,Clothing,57.01,2,114.02,2022-09-16,2022-09-16 10:49:00,Bank Transfer,Shipped,0,19.2
+1660,532,John Brown,john.brown37@example.com,Mumbai,Books Item 22,Books,173.97,2,347.94,2023-07-05,2023-07-05 01:26:00,Credit Card,Cancelled,0,12.9
+1661,599,James Brown,james.brown25@example.com,Paris,Books Item 7,Books,370.19,4,1480.76,2022-09-02,2022-09-02 07:55:00,Bank Transfer,Cancelled,0,
+1662,519,Mary Johnson,mary.johnson18@example.com,Tokyo,Clothing Item 27,Clothing,441.61,1,441.61,2023-09-28,2023-09-29 12:49:00,Credit Card,Delivered,0,
+1663,564,Jennifer Rodriguez,jennifer.rodriguez48@example.com,Mumbai,Home & Kitchen Item 45,Home & Kitchen,288.72,1,288.72,2023-06-05,2023-06-06 07:28:00,PayPal,Pending,0,
+1664,571,Elizabeth Martinez,elizabeth.martinez44@example.com,Tokyo,Books Item 2,Books,342.99,5,1714.95,2023-09-30,2023-09-30 05:02:00,Crypto,Delivered,0,6.8
+1665,510,William Rodriguez,william.rodriguez29@example.com,Berlin,Clothing Item 38,Clothing,49.47,5,247.35,2023-01-28,2023-01-28 08:14:00,Debit Card,Pending,0,20.2
+1666,596,Mary Smith,mary.smith25@example.com,Berlin,Books Item 41,Books,72.3,4,289.2,2022-10-04,2022-10-04 21:14:00,Debit Card,Cancelled,0,21.0
+1667,546,John Martinez,john.martinez82@example.com,Mumbai,Sports Item 31,Sports,180.88,4,723.52,2022-12-06,2022-12-06 01:15:00,Crypto,Cancelled,0,16.6
+1668,549,Linda Davis,linda.davis36@example.com,London,Books Item 2,Books,28.0,5,140.0,2023-07-08,2023-07-09 23:20:00,Bank Transfer,Delivered,0,
+1669,546,John Brown,john.brown46@example.com,Tokyo,Clothing Item 8,Clothing,180.14,1,180.14,2022-04-16,2022-04-16 03:00:00,PayPal,Cancelled,0,6.1
+1670,522,Linda Smith,linda.smith57@example.com,London,Home & Kitchen Item 27,Home & Kitchen,301.52,5,1507.6,2022-07-22,2022-07-22 03:01:00,Credit Card,Delivered,0,6.2
+1671,575,Linda Williams,linda.williams23@example.com,Toronto,Sports Item 33,Sports,167.25,5,836.25,2022-12-20,2022-12-21 06:20:00,Debit Card,Delivered,0,
+1672,516,James Jones,james.jones54@example.com,New York,Home & Kitchen Item 7,Home & Kitchen,382.87,1,382.87,2022-09-07,2022-09-07 10:08:00,Bank Transfer,Delivered,0,9.7
+1673,511,Michael Johnson,michael.johnson38@example.com,New York,Clothing Item 2,Clothing,199.2,4,796.8,2023-06-08,2023-06-08 13:58:00,Debit Card,Delivered,0,21.5
+1674,524,William Miller,william.miller85@example.com,Sydney,Clothing Item 16,Clothing,422.9,3,1268.7,2023-02-21,2023-02-22 11:57:00,Debit Card,Delivered,0,
+1675,521,Elizabeth Davis,elizabeth.davis65@example.com,Tokyo,Electronics Item 34,Electronics,219.14,3,657.42,2022-01-16,2022-01-16 19:40:00,PayPal,Delivered,0,
+1676,588,Patricia Johnson,patricia.johnson91@example.com,Mumbai,Home & Kitchen Item 7,Home & Kitchen,470.69,5,2353.45,2022-05-25,2022-05-26 22:51:00,Crypto,Delivered,0,19.2
+1677,507,Robert Brown,robert.brown50@example.com,Berlin,Beauty Item 7,Beauty,112.91,5,564.55,2023-11-18,2023-11-19 04:04:00,Credit Card,Shipped,0,24.8
+1678,546,Michael Jones,michael.jones20@example.com,London,Sports Item 38,Sports,448.89,4,1795.56,2022-08-16,2022-08-16 07:10:00,Debit Card,Pending,0,
+1679,590,Elizabeth Jones,elizabeth.jones76@example.com,Toronto,Sports Item 24,Sports,351.68,5,1758.4,2022-02-27,2022-03-01 00:43:00,PayPal,Cancelled,0,
+1680,537,James Miller,james.miller48@example.com,Toronto,Electronics Item 6,Electronics,145.9,3,437.7,2023-08-07,2023-08-07 11:58:00,Bank Transfer,Delivered,0,10.1
+1681,538,Mary Martinez,mary.martinez43@example.com,Berlin,Beauty Item 45,Beauty,349.8,5,1749.0,2022-10-21,2022-10-21 18:34:00,Bank Transfer,Shipped,0,
+1682,548,Mary Davis,mary.davis14@example.com,New York,Electronics Item 11,Electronics,133.75,1,133.75,2023-08-18,2023-08-19 11:56:00,Debit Card,Pending,0,9.0
+1683,507,Elizabeth Johnson,elizabeth.johnson83@example.com,Toronto,Books Item 45,Books,184.34,2,368.68,2023-09-05,2023-09-05 17:15:00,Credit Card,Shipped,0,5.7
+1684,552,James Jones,james.jones11@example.com,Toronto,Home & Kitchen Item 6,Home & Kitchen,244.29,1,244.29,2022-03-18,2022-03-19 09:46:00,Bank Transfer,Cancelled,0,9.2
+1685,521,James Rodriguez,james.rodriguez39@example.com,Paris,Home & Kitchen Item 33,Home & Kitchen,359.67,4,1438.68,2023-02-01,2023-02-01 07:29:00,Debit Card,Cancelled,0,
+1686,511,Mary Garcia,mary.garcia87@example.com,Paris,Home & Kitchen Item 46,Home & Kitchen,444.5,5,2222.5,2023-11-30,2023-11-30 04:34:00,Bank Transfer,Pending,1,
+1687,546,Mary Johnson,mary.johnson90@example.com,New York,Sports Item 37,Sports,99.27,1,99.27,2023-10-17,2023-10-17 10:20:00,Bank Transfer,Delivered,0,15.5
+1688,546,Jennifer Garcia,jennifer.garcia64@example.com,Mumbai,Clothing Item 14,Clothing,347.2,2,694.4,2023-03-12,2023-03-13 20:22:00,Crypto,Cancelled,0,15.3
+1689,574,John Davis,john.davis22@example.com,Sydney,Books Item 47,Books,65.19,3,195.57,2022-04-16,2022-04-16 15:58:00,Debit Card,Shipped,0,14.5
+1690,536,John Davis,john.davis67@example.com,London,Clothing Item 30,Clothing,346.83,3,1040.49,2023-01-27,2023-01-28 06:36:00,Crypto,Delivered,0,
+1691,573,William Martinez,william.martinez21@example.com,London,Clothing Item 27,Clothing,288.67,2,577.34,2023-07-26,2023-07-26 08:34:00,Credit Card,Shipped,0,12.9
+1692,520,Michael Williams,michael.williams78@example.com,Toronto,Sports Item 8,Sports,119.17,2,238.34,2023-08-21,2023-08-22 10:38:00,Bank Transfer,Pending,0,11.3
+1693,559,Robert Brown,robert.brown34@example.com,Berlin,Sports Item 20,Sports,375.88,2,751.76,2024-01-08,2024-01-08 05:21:00,PayPal,Pending,0,
+1694,546,Jennifer Martinez,jennifer.martinez45@example.com,New York,Electronics Item 29,Electronics,394.38,2,788.76,2023-04-22,2023-04-22 07:16:00,Debit Card,Pending,0,
+1695,513,Linda Smith,linda.smith47@example.com,Tokyo,Beauty Item 1,Beauty,97.24,4,388.96,2023-07-17,2023-07-18 04:55:00,Bank Transfer,Delivered,0,19.5
+1696,542,Jennifer Jones,jennifer.jones31@example.com,Berlin,Electronics Item 19,Electronics,360.98,5,1804.9,2024-02-24,2024-02-24 12:54:00,PayPal,Pending,0,
+1697,544,Elizabeth Miller,elizabeth.miller39@example.com,Sydney,Clothing Item 1,Clothing,205.12,1,205.12,2022-09-15,2022-09-17 00:11:00,Credit Card,Delivered,0,17.0
+1698,509,John Johnson,john.johnson84@example.com,Paris,Sports Item 13,Sports,97.46,1,97.46,2023-07-27,2023-07-27 03:40:00,Debit Card,Cancelled,0,9.6
+1699,556,James Miller,james.miller97@example.com,Berlin,Clothing Item 10,Clothing,73.31,2,146.62,2023-02-18,2023-02-19 06:21:00,Debit Card,Shipped,0,
+1700,515,James Davis,james.davis66@example.com,Toronto,Clothing Item 21,Clothing,461.66,1,461.66,2023-03-22,2023-03-23 19:22:00,Credit Card,Pending,0,
+1701,509,William Williams,william.williams20@example.com,Toronto,Electronics Item 37,Electronics,40.0,4,160.0,2022-07-15,2022-07-16 14:38:00,Crypto,Pending,0,
+1702,571,Mary Rodriguez,mary.rodriguez86@example.com,Paris,Electronics Item 18,Electronics,480.83,1,480.83,2023-11-16,2023-11-16 17:23:00,Bank Transfer,Cancelled,0,
+1703,543,William Davis,william.davis71@example.com,Tokyo,Beauty Item 42,Beauty,135.46,2,270.92,2022-07-30,2022-07-30 07:48:00,PayPal,Pending,0,13.2
+1704,562,William Jones,william.jones87@example.com,London,Clothing Item 1,Clothing,202.74,3,608.22,2024-01-01,2024-01-01 22:14:00,Credit Card,Cancelled,0,12.6
+1705,537,Patricia Miller,patricia.miller85@example.com,Sydney,Books Item 47,Books,433.49,2,866.98,2022-03-27,2022-03-27 21:55:00,Debit Card,Cancelled,0,11.5
+1706,545,Mary Johnson,mary.johnson32@example.com,Mumbai,Home & Kitchen Item 8,Home & Kitchen,155.39,1,155.39,2022-06-25,2022-06-25 18:23:00,Crypto,Shipped,0,17.7
+1707,595,Elizabeth Martinez,elizabeth.martinez38@example.com,London,Clothing Item 24,Clothing,67.53,3,202.59,2023-01-31,2023-02-01 13:58:00,Debit Card,Pending,0,18.9
+1708,541,Mary Martinez,mary.martinez73@example.com,Mumbai,Sports Item 15,Sports,238.51,1,238.51,2023-08-07,2023-08-08 17:19:00,Bank Transfer,Shipped,0,16.2
+1709,580,Mary Brown,mary.brown86@example.com,Berlin,Books Item 12,Books,211.98,5,1059.9,2022-02-06,2022-02-07 09:02:00,Crypto,Pending,0,
+1710,572,William Miller,william.miller10@example.com,Tokyo,Books Item 8,Books,155.37,3,466.11,2023-03-11,2023-03-12 04:46:00,PayPal,Pending,0,20.4
+1711,500,Patricia Rodriguez,patricia.rodriguez56@example.com,London,Clothing Item 32,Clothing,371.35,1,371.35,2023-06-21,2023-06-21 04:48:00,Bank Transfer,Pending,0,7.2
+1712,521,John Williams,john.williams65@example.com,London,Electronics Item 16,Electronics,387.65,5,1938.25,2022-05-25,2022-05-25 17:51:00,PayPal,Shipped,0,
+1713,525,Michael Brown,michael.brown23@example.com,Paris,Books Item 15,Books,355.18,5,1775.9,2022-10-13,2022-10-13 16:15:00,Crypto,Cancelled,0,10.2
+1714,560,James Smith,james.smith66@example.com,Paris,Sports Item 34,Sports,180.72,2,361.44,2023-03-02,2023-03-02 22:35:00,Debit Card,Pending,0,23.4
+1715,542,Michael Miller,michael.miller57@example.com,Berlin,Sports Item 9,Sports,112.97,4,451.88,2022-03-21,2022-03-21 12:45:00,Bank Transfer,Shipped,0,
+1716,503,Mary Smith,mary.smith34@example.com,New York,Sports Item 41,Sports,96.58,1,96.58,2023-07-13,2023-07-13 19:57:00,Debit Card,Delivered,0,15.7
+1717,575,Mary Garcia,mary.garcia10@example.com,London,Books Item 16,Books,288.22,2,576.44,2022-07-05,2022-07-05 13:27:00,Crypto,Cancelled,0,16.4
+1718,552,William Johnson,william.johnson29@example.com,Toronto,Electronics Item 28,Electronics,410.38,5,2051.9,2023-03-05,2023-03-05 13:27:00,Debit Card,Pending,0,13.5
+1719,563,Linda Brown,linda.brown12@example.com,Sydney,Sports Item 11,Sports,493.76,1,493.76,2022-11-21,2022-11-21 07:53:00,Debit Card,Cancelled,0,
+1720,509,William Miller,william.miller52@example.com,London,Home & Kitchen Item 44,Home & Kitchen,321.69,3,965.07,2022-02-21,2022-02-21 21:49:00,Bank Transfer,Cancelled,0,21.6
+1721,512,James Garcia,james.garcia50@example.com,Berlin,Sports Item 25,Sports,271.97,2,543.94,2022-09-14,2022-09-16 00:24:00,Crypto,Shipped,0,6.3
+1722,553,John Johnson,john.johnson82@example.com,London,Beauty Item 21,Beauty,160.57,3,481.71,2023-03-05,2023-03-05 01:46:00,Bank Transfer,Pending,0,15.1
+1723,547,Linda Jones,linda.jones40@example.com,Mumbai,Beauty Item 28,Beauty,116.4,3,349.2,2022-07-05,2022-07-05 04:42:00,Credit Card,Shipped,0,
+1724,511,William Miller,william.miller94@example.com,Tokyo,Electronics Item 47,Electronics,103.52,1,103.52,2023-05-26,2023-05-26 15:34:00,Crypto,Cancelled,0,15.1
+1725,509,William Davis,william.davis25@example.com,Toronto,Home & Kitchen Item 6,Home & Kitchen,197.68,2,395.36,2022-05-24,2022-05-25 19:14:00,Credit Card,Pending,0,12.2
+1726,527,John Miller,john.miller75@example.com,Paris,Sports Item 13,Sports,276.1,2,552.2,2022-06-23,2022-06-24 03:41:00,Bank Transfer,Delivered,0,14.9
+1727,550,William Jones,william.jones10@example.com,Toronto,Home & Kitchen Item 49,Home & Kitchen,156.83,2,313.66,2022-01-13,2022-01-14 15:34:00,Bank Transfer,Cancelled,0,21.3
+1728,510,Elizabeth Garcia,elizabeth.garcia45@example.com,Toronto,Sports Item 50,Sports,493.86,4,1975.44,2023-04-16,2023-04-17 12:51:00,Debit Card,Delivered,0,
+1729,597,Linda Garcia,linda.garcia69@example.com,Berlin,Sports Item 19,Sports,252.52,4,1010.08,2023-06-05,2023-06-05 18:05:00,Credit Card,Shipped,0,
+1730,500,Jennifer Martinez,jennifer.martinez61@example.com,Paris,Home & Kitchen Item 2,Home & Kitchen,197.25,4,789.0,2023-01-12,2023-01-13 02:16:00,Bank Transfer,Pending,0,
+1731,586,Mary Jones,mary.jones77@example.com,Mumbai,Sports Item 38,Sports,156.89,4,627.56,2022-10-25,2022-10-26 10:52:00,Crypto,Cancelled,0,23.7
+1732,593,Robert Miller,robert.miller11@example.com,Toronto,Books Item 5,Books,93.84,3,281.52,2023-12-19,2023-12-19 19:51:00,PayPal,Cancelled,0,
+1733,578,Elizabeth Miller,elizabeth.miller58@example.com,Paris,Electronics Item 5,Electronics,327.12,4,1308.48,2023-05-06,2023-05-06 15:27:00,Crypto,Pending,1,
+1734,581,John Smith,john.smith72@example.com,Mumbai,Sports Item 13,Sports,485.27,4,1941.08,2023-03-20,2023-03-20 08:50:00,Crypto,Delivered,0,19.7
+1735,556,Elizabeth Rodriguez,elizabeth.rodriguez92@example.com,Mumbai,Sports Item 33,Sports,60.68,1,60.68,2022-05-02,2022-05-03 07:04:00,Bank Transfer,Shipped,0,
+1736,547,Elizabeth Rodriguez,elizabeth.rodriguez53@example.com,Paris,Clothing Item 30,Clothing,337.89,5,1689.45,2024-01-16,2024-01-17 21:43:00,Bank Transfer,Pending,0,16.1
+1737,552,William Rodriguez,william.rodriguez20@example.com,New York,Clothing Item 40,Clothing,145.52,2,291.04,2023-03-15,2023-03-15 03:29:00,PayPal,Cancelled,0,18.9
+1738,514,William Garcia,william.garcia65@example.com,Tokyo,Home & Kitchen Item 35,Home & Kitchen,427.42,2,854.84,2024-02-13,2024-02-13 22:30:00,PayPal,Shipped,0,
+1739,572,Linda Jones,linda.jones92@example.com,London,Electronics Item 28,Electronics,494.79,3,1484.37,2023-02-10,2023-02-10 10:56:00,Bank Transfer,Shipped,0,
+1740,589,William Jones,william.jones15@example.com,Sydney,Home & Kitchen Item 22,Home & Kitchen,423.88,1,423.88,2022-03-26,2022-03-26 06:35:00,Credit Card,Pending,0,7.3
+1741,524,Jennifer Rodriguez,jennifer.rodriguez96@example.com,New York,Clothing Item 13,Clothing,225.88,2,451.76,2024-01-17,2024-01-17 19:08:00,Bank Transfer,Cancelled,0,
+1742,515,Robert Rodriguez,robert.rodriguez16@example.com,Berlin,Home & Kitchen Item 6,Home & Kitchen,337.69,2,675.38,2022-11-13,2022-11-14 09:50:00,Credit Card,Delivered,0,18.3
+1743,540,John Rodriguez,john.rodriguez93@example.com,London,Sports Item 6,Sports,84.02,5,420.1,2023-12-12,2023-12-12 06:37:00,Crypto,Pending,0,
+1744,599,Patricia Miller,patricia.miller24@example.com,Berlin,Books Item 8,Books,28.67,3,86.01,2023-04-02,2023-04-02 04:57:00,PayPal,Shipped,0,21.4
+1745,517,William Garcia,william.garcia27@example.com,New York,Clothing Item 8,Clothing,451.82,2,903.64,2023-10-08,2023-10-09 10:16:00,Bank Transfer,Shipped,0,16.8
+1746,572,William Miller,william.miller54@example.com,Berlin,Clothing Item 39,Clothing,470.28,2,940.56,2023-02-02,2023-02-02 06:23:00,Credit Card,Pending,0,10.6
+1747,504,Linda Jones,linda.jones74@example.com,Sydney,Beauty Item 10,Beauty,242.62,3,727.86,2022-12-10,2022-12-10 12:01:00,PayPal,Delivered,0,6.9
+1748,531,Linda Smith,linda.smith11@example.com,Mumbai,Home & Kitchen Item 50,Home & Kitchen,492.16,2,984.32,2023-04-07,2023-04-07 19:15:00,Crypto,Pending,0,22.1
+1749,530,James Miller,james.miller96@example.com,Toronto,Books Item 7,Books,417.84,5,2089.2,2024-02-08,2024-02-08 06:26:00,PayPal,Delivered,0,
+1750,568,Patricia Miller,patricia.miller97@example.com,Paris,Electronics Item 28,Electronics,145.59,1,145.59,2022-01-18,2022-01-19 15:14:00,Crypto,Delivered,0,9.4
+1751,507,Patricia Johnson,patricia.johnson32@example.com,Paris,Home & Kitchen Item 25,Home & Kitchen,426.02,3,1278.06,2022-03-17,2022-03-17 20:22:00,Debit Card,Delivered,0,12.4
+1752,553,Mary Johnson,mary.johnson66@example.com,Tokyo,Sports Item 18,Sports,426.12,5,2130.6,2022-11-16,2022-11-16 09:46:00,Bank Transfer,Shipped,0,
+1753,588,Elizabeth Martinez,elizabeth.martinez48@example.com,Berlin,Home & Kitchen Item 35,Home & Kitchen,305.93,4,1223.72,2023-11-16,2023-11-17 12:28:00,Credit Card,Pending,1,24.4
+1754,595,Elizabeth Jones,elizabeth.jones42@example.com,Berlin,Electronics Item 8,Electronics,449.05,2,898.1,2023-10-22,2023-10-23 00:00:00,Bank Transfer,Delivered,0,20.7
+1755,581,James Jones,james.jones45@example.com,Toronto,Home & Kitchen Item 39,Home & Kitchen,211.61,4,846.44,2022-03-13,2022-03-13 13:42:00,Credit Card,Shipped,0,13.1
+1756,537,Linda Rodriguez,linda.rodriguez70@example.com,Tokyo,Clothing Item 21,Clothing,264.8,1,264.8,2022-08-23,2022-08-23 07:37:00,Credit Card,Shipped,0,17.0
+1757,535,Jennifer Brown,jennifer.brown53@example.com,Sydney,Beauty Item 39,Beauty,136.59,4,546.36,2022-11-19,2022-11-19 04:33:00,Crypto,Shipped,0,11.9
+1758,512,Patricia Johnson,patricia.johnson96@example.com,Berlin,Electronics Item 20,Electronics,167.2,1,167.2,2022-07-28,2022-07-29 03:14:00,Debit Card,Delivered,0,
+1759,591,William Jones,william.jones58@example.com,New York,Sports Item 11,Sports,347.55,3,1042.65,2023-07-03,2023-07-03 14:12:00,Debit Card,Pending,0,
+1760,535,Robert Garcia,robert.garcia26@example.com,Toronto,Beauty Item 14,Beauty,210.86,3,632.58,2023-12-24,2023-12-25 18:28:00,Debit Card,Cancelled,0,13.7
+1761,505,Jennifer Rodriguez,jennifer.rodriguez41@example.com,Toronto,Electronics Item 25,Electronics,462.76,2,925.52,2023-05-06,2023-05-06 09:57:00,PayPal,Shipped,0,18.4
+1762,573,Mary Garcia,mary.garcia96@example.com,Paris,Books Item 12,Books,209.11,2,418.22,2023-01-31,2023-01-31 05:03:00,Bank Transfer,Shipped,0,16.7
+1763,573,Robert Garcia,robert.garcia58@example.com,London,Books Item 50,Books,475.27,5,2376.35,2022-07-24,2022-07-25 06:33:00,Crypto,Shipped,0,14.7
+1764,581,Mary Garcia,mary.garcia63@example.com,Berlin,Books Item 12,Books,438.25,5,2191.25,2022-06-29,2022-06-29 21:42:00,Bank Transfer,Delivered,0,11.3
+1765,548,Mary Davis,mary.davis10@example.com,Mumbai,Electronics Item 37,Electronics,491.9,1,491.9,2023-05-29,2023-05-29 18:58:00,PayPal,Pending,0,5.4
+1766,592,Michael Johnson,michael.johnson86@example.com,London,Sports Item 16,Sports,422.82,4,1691.28,2022-07-25,2022-07-26 00:49:00,Crypto,Delivered,0,
+1767,554,John Martinez,john.martinez41@example.com,Paris,Books Item 39,Books,440.0,1,440.0,2023-11-29,2023-11-30 13:23:00,Debit Card,Pending,0,
+1768,540,John Davis,john.davis89@example.com,London,Home & Kitchen Item 40,Home & Kitchen,89.28,2,178.56,2024-03-06,2024-03-07 00:48:00,Bank Transfer,Delivered,0,24.8
+1769,544,Mary Johnson,mary.johnson36@example.com,Tokyo,Electronics Item 1,Electronics,418.49,1,418.49,2022-09-29,2022-09-29 03:21:00,Debit Card,Pending,0,
+1770,562,Elizabeth Garcia,elizabeth.garcia86@example.com,Sydney,Clothing Item 50,Clothing,81.68,2,163.36,2024-02-20,2024-02-20 02:22:00,Bank Transfer,Pending,0,10.0
+1771,525,James Miller,james.miller38@example.com,London,Sports Item 14,Sports,496.18,2,992.36,2022-07-26,2022-07-28 00:03:00,Crypto,Pending,0,8.4
+1772,516,Robert Brown,robert.brown31@example.com,London,Beauty Item 2,Beauty,31.18,5,155.9,2024-01-01,2024-01-02 12:08:00,Debit Card,Cancelled,0,9.5
+1773,595,Jennifer Williams,jennifer.williams81@example.com,Mumbai,Sports Item 2,Sports,136.01,2,272.02,2022-01-16,2022-01-16 23:16:00,Credit Card,Shipped,0,19.8
+1774,581,James Miller,james.miller44@example.com,New York,Books Item 35,Books,221.54,1,221.54,2022-09-27,2022-09-28 01:34:00,Debit Card,Pending,0,18.1
+1775,585,Robert Brown,robert.brown61@example.com,Toronto,Clothing Item 11,Clothing,60.58,2,121.16,2022-05-25,2022-05-26 16:07:00,Debit Card,Pending,0,17.9
+1776,525,Patricia Miller,patricia.miller33@example.com,Paris,Home & Kitchen Item 47,Home & Kitchen,415.33,1,415.33,2023-08-15,2023-08-16 06:44:00,Crypto,Pending,0,7.8
+1777,568,John Miller,john.miller51@example.com,Paris,Home & Kitchen Item 19,Home & Kitchen,192.83,5,964.15,2022-11-28,2022-11-28 08:55:00,PayPal,Shipped,0,11.5
+1778,504,Robert Brown,robert.brown79@example.com,Paris,Electronics Item 27,Electronics,92.66,4,370.64,2024-02-05,2024-02-05 19:25:00,Bank Transfer,Shipped,0,10.4
+1779,580,Mary Johnson,mary.johnson34@example.com,Berlin,Books Item 49,Books,280.34,2,560.68,2023-12-22,2023-12-22 14:09:00,Crypto,Shipped,0,
+1780,521,Jennifer Johnson,jennifer.johnson40@example.com,London,Clothing Item 41,Clothing,150.67,1,150.67,2022-10-23,2022-10-24 16:58:00,Crypto,Pending,0,
+1781,536,Robert Miller,robert.miller49@example.com,Tokyo,Home & Kitchen Item 17,Home & Kitchen,322.06,5,1610.3,2023-02-01,2023-02-01 17:41:00,Debit Card,Pending,0,6.0
+1782,571,James Rodriguez,james.rodriguez23@example.com,London,Clothing Item 14,Clothing,293.04,1,293.04,2023-03-29,2023-03-30 17:45:00,Crypto,Delivered,0,19.3
+1783,597,Elizabeth Rodriguez,elizabeth.rodriguez50@example.com,Sydney,Clothing Item 37,Clothing,121.18,2,242.36,2022-07-30,2022-07-31 11:51:00,Debit Card,Delivered,0,14.4
+1784,523,William Smith,william.smith73@example.com,Paris,Electronics Item 24,Electronics,323.63,5,1618.15,2022-06-17,2022-06-17 19:03:00,Crypto,Shipped,0,
+1785,579,William Jones,william.jones84@example.com,Mumbai,Sports Item 50,Sports,325.2,2,650.4,2023-10-28,2023-10-29 15:48:00,Debit Card,Shipped,0,8.3
+1786,572,John Davis,john.davis11@example.com,New York,Home & Kitchen Item 5,Home & Kitchen,121.88,4,487.52,2023-01-06,2023-01-06 15:31:00,PayPal,Shipped,1,19.6
+1787,522,James Brown,james.brown66@example.com,Berlin,Beauty Item 38,Beauty,60.92,3,182.76,2023-10-27,2023-10-28 15:40:00,Credit Card,Delivered,0,
+1788,544,Mary Johnson,mary.johnson87@example.com,Berlin,Home & Kitchen Item 33,Home & Kitchen,272.92,2,545.84,2023-01-21,2023-01-22 08:35:00,Crypto,Cancelled,0,17.7
+1789,553,Michael Rodriguez,michael.rodriguez28@example.com,Toronto,Sports Item 12,Sports,221.25,2,442.5,2023-03-09,2023-03-10 14:12:00,Debit Card,Delivered,1,
+1790,507,Mary Smith,mary.smith41@example.com,Berlin,Home & Kitchen Item 4,Home & Kitchen,189.57,4,758.28,2022-03-14,2022-03-15 22:20:00,Crypto,Cancelled,0,14.9
+1791,528,Mary Davis,mary.davis45@example.com,Mumbai,Books Item 40,Books,476.76,4,1907.04,2023-11-02,2023-11-03 22:06:00,Credit Card,Delivered,0,16.3
+1792,547,Jennifer Williams,jennifer.williams30@example.com,Berlin,Clothing Item 27,Clothing,255.91,4,1023.64,2022-10-20,2022-10-21 15:24:00,Bank Transfer,Delivered,0,21.0
+1793,552,Robert Rodriguez,robert.rodriguez95@example.com,Mumbai,Home & Kitchen Item 42,Home & Kitchen,83.94,2,167.88,2024-01-20,2024-01-21 11:10:00,Bank Transfer,Pending,0,15.3
+1794,553,James Williams,james.williams73@example.com,London,Electronics Item 21,Electronics,443.32,1,443.32,2023-08-23,2023-08-24 09:49:00,Credit Card,Delivered,0,
+1795,514,Mary Garcia,mary.garcia95@example.com,Berlin,Electronics Item 50,Electronics,478.05,5,2390.25,2022-08-02,2022-08-03 01:21:00,Bank Transfer,Shipped,0,13.2
+1796,547,John Brown,john.brown17@example.com,Paris,Clothing Item 30,Clothing,125.83,4,503.32,2022-10-24,2022-10-25 08:12:00,Bank Transfer,Cancelled,0,22.0
+1797,521,William Johnson,william.johnson49@example.com,Tokyo,Clothing Item 38,Clothing,240.33,3,720.99,2022-01-24,2022-01-24 05:18:00,Crypto,Pending,0,23.3
+1798,544,Mary Garcia,mary.garcia63@example.com,Berlin,Beauty Item 45,Beauty,405.78,5,2028.9,2023-04-27,2023-04-27 22:29:00,Credit Card,Pending,0,
+1799,600,William Smith,william.smith96@example.com,Sydney,Books Item 29,Books,270.17,1,270.17,2023-09-18,2023-09-19 11:23:00,Crypto,Pending,0,
+1800,534,Michael Davis,michael.davis78@example.com,Sydney,Clothing Item 9,Clothing,236.98,2,473.96,2023-11-26,2023-11-27 05:44:00,Credit Card,Delivered,0,22.4
+1801,538,Michael Rodriguez,michael.rodriguez60@example.com,London,Sports Item 14,Sports,132.3,5,661.5,2022-11-12,2022-11-13 00:03:00,Bank Transfer,Delivered,0,17.9
+1802,548,Michael Davis,michael.davis57@example.com,Sydney,Clothing Item 47,Clothing,63.99,3,191.97,2022-02-20,2022-02-20 09:24:00,Credit Card,Shipped,0,15.3
+1803,527,Patricia Brown,patricia.brown88@example.com,Paris,Books Item 35,Books,404.33,4,1617.32,2022-01-05,2022-01-06 05:22:00,Debit Card,Delivered,0,24.0
+1804,568,William Johnson,william.johnson22@example.com,London,Electronics Item 22,Electronics,38.36,4,153.44,2023-01-19,2023-01-19 17:44:00,Credit Card,Delivered,0,
+1805,545,Patricia Johnson,patricia.johnson22@example.com,Berlin,Clothing Item 35,Clothing,306.66,3,919.98,2023-12-04,2023-12-05 14:22:00,PayPal,Shipped,0,
+1806,556,Michael Williams,michael.williams43@example.com,Toronto,Beauty Item 37,Beauty,315.4,3,946.2,2024-01-10,2024-01-11 13:41:00,Debit Card,Delivered,0,12.4
+1807,532,Jennifer Smith,jennifer.smith27@example.com,London,Sports Item 6,Sports,431.48,3,1294.44,2022-08-13,2022-08-13 20:08:00,Bank Transfer,Delivered,0,
+1808,517,Michael Johnson,michael.johnson65@example.com,Paris,Electronics Item 42,Electronics,408.13,3,1224.39,2023-07-07,2023-07-08 05:11:00,PayPal,Shipped,0,
+1809,517,Michael Brown,michael.brown67@example.com,Paris,Home & Kitchen Item 44,Home & Kitchen,249.36,5,1246.8,2023-05-06,2023-05-07 11:18:00,Crypto,Cancelled,0,20.9
+1810,578,Mary Smith,mary.smith19@example.com,Berlin,Home & Kitchen Item 9,Home & Kitchen,360.17,3,1080.51,2023-05-26,2023-05-27 08:03:00,PayPal,Delivered,0,6.4
+1811,513,Mary Garcia,mary.garcia48@example.com,Sydney,Electronics Item 26,Electronics,71.81,1,71.81,2023-05-19,2023-05-19 07:55:00,Crypto,Pending,0,22.1
+1812,553,Linda Martinez,linda.martinez22@example.com,London,Sports Item 17,Sports,231.49,4,925.96,2023-05-14,2023-05-15 22:39:00,PayPal,Pending,0,
+1813,556,William Davis,william.davis23@example.com,London,Sports Item 33,Sports,319.11,3,957.33,2022-01-25,2022-01-26 14:41:00,Bank Transfer,Pending,0,23.5
+1814,522,Jennifer Johnson,jennifer.johnson26@example.com,Berlin,Clothing Item 18,Clothing,76.93,1,76.93,2022-11-23,2022-11-23 11:51:00,Crypto,Pending,0,
+1815,564,Patricia Rodriguez,patricia.rodriguez48@example.com,Tokyo,Clothing Item 46,Clothing,91.67,4,366.68,2023-09-18,2023-09-18 17:46:00,Credit Card,Shipped,0,17.3
+1816,589,Jennifer Williams,jennifer.williams89@example.com,New York,Sports Item 11,Sports,347.82,4,1391.28,2023-02-15,2023-02-16 01:29:00,Debit Card,Cancelled,0,
+1817,501,Michael Brown,michael.brown81@example.com,Tokyo,Electronics Item 19,Electronics,433.25,2,866.5,2023-11-12,2023-11-13 06:49:00,Bank Transfer,Pending,0,
+1818,583,Linda Smith,linda.smith89@example.com,Toronto,Electronics Item 24,Electronics,38.02,4,152.08,2022-05-13,2022-05-13 23:52:00,Debit Card,Shipped,0,
+1819,540,Elizabeth Davis,elizabeth.davis57@example.com,Sydney,Electronics Item 50,Electronics,209.06,1,209.06,2024-01-10,2024-01-11 11:31:00,PayPal,Delivered,0,21.5
+1820,522,Patricia Jones,patricia.jones47@example.com,Toronto,Electronics Item 47,Electronics,448.9,4,1795.6,2024-01-03,2024-01-04 20:31:00,Debit Card,Delivered,0,9.6
+1821,597,Patricia Smith,patricia.smith83@example.com,New York,Clothing Item 16,Clothing,337.6,5,1688.0,2023-11-21,2023-11-22 19:42:00,Debit Card,Pending,0,8.6
+1822,556,William Williams,william.williams69@example.com,Sydney,Beauty Item 32,Beauty,95.34,5,476.7,2022-07-28,2022-07-28 14:01:00,Crypto,Shipped,0,
+1823,597,John Davis,john.davis81@example.com,Mumbai,Home & Kitchen Item 29,Home & Kitchen,83.53,5,417.65,2022-07-21,2022-07-22 11:20:00,Credit Card,Shipped,0,12.9
+1824,577,William Garcia,william.garcia21@example.com,Paris,Electronics Item 3,Electronics,274.37,5,1371.85,2022-08-19,2022-08-19 03:24:00,Bank Transfer,Cancelled,0,6.4
+1825,593,Linda Smith,linda.smith88@example.com,New York,Clothing Item 4,Clothing,468.84,2,937.68,2022-04-03,2022-04-04 08:09:00,Crypto,Pending,0,
+1826,506,Patricia Garcia,patricia.garcia84@example.com,New York,Books Item 30,Books,416.33,5,2081.65,2024-01-16,2024-01-17 19:12:00,PayPal,Cancelled,0,9.6
+1827,582,Michael Garcia,michael.garcia49@example.com,New York,Clothing Item 46,Clothing,189.95,1,189.95,2023-03-15,2023-03-15 02:10:00,PayPal,Shipped,0,7.2
+1828,502,Robert Williams,robert.williams32@example.com,Toronto,Beauty Item 6,Beauty,34.9,4,139.6,2023-07-12,2023-07-13 08:59:00,Bank Transfer,Pending,0,22.0
+1829,503,John Jones,john.jones40@example.com,Toronto,Books Item 29,Books,42.02,5,210.1,2022-05-26,2022-05-26 02:57:00,Debit Card,Shipped,1,20.2
+1830,538,Linda Brown,linda.brown11@example.com,Mumbai,Electronics Item 31,Electronics,469.26,3,1407.78,2023-10-03,2023-10-03 23:54:00,Debit Card,Cancelled,0,18.8
+1831,579,Robert Martinez,robert.martinez69@example.com,Tokyo,Electronics Item 38,Electronics,294.65,3,883.95,2022-06-12,2022-06-12 07:31:00,PayPal,Shipped,0,9.9
+1832,521,John Martinez,john.martinez30@example.com,Berlin,Books Item 35,Books,392.29,4,1569.16,2023-03-30,2023-03-30 04:32:00,Bank Transfer,Pending,0,
+1833,536,John Davis,john.davis64@example.com,New York,Electronics Item 25,Electronics,46.46,5,232.3,2022-11-13,2022-11-13 05:27:00,Crypto,Delivered,1,
+1834,593,Robert Martinez,robert.martinez48@example.com,London,Sports Item 10,Sports,119.84,5,599.2,2022-11-30,2022-11-30 11:56:00,Debit Card,Cancelled,0,
+1835,518,Linda Davis,linda.davis77@example.com,Berlin,Beauty Item 19,Beauty,70.53,2,141.06,2022-08-18,2022-08-18 02:13:00,Bank Transfer,Cancelled,0,
+1836,563,James Brown,james.brown52@example.com,Berlin,Clothing Item 45,Clothing,247.24,3,741.72,2022-08-17,2022-08-18 10:27:00,Bank Transfer,Delivered,0,
+1837,592,Mary Brown,mary.brown29@example.com,Tokyo,Beauty Item 38,Beauty,123.49,1,123.49,2023-04-24,2023-04-25 10:27:00,Credit Card,Cancelled,1,12.8
+1838,510,James Johnson,james.johnson59@example.com,New York,Home & Kitchen Item 5,Home & Kitchen,154.69,1,154.69,2022-02-28,2022-02-28 22:00:00,Bank Transfer,Delivered,0,14.6
+1839,539,James Smith,james.smith89@example.com,Sydney,Sports Item 18,Sports,481.4,3,1444.2,2023-04-04,2023-04-05 03:49:00,PayPal,Cancelled,0,
+1840,533,John Brown,john.brown99@example.com,Mumbai,Sports Item 40,Sports,358.63,2,717.26,2023-10-28,2023-10-29 02:42:00,PayPal,Delivered,0,17.5
+1841,562,James Jones,james.jones63@example.com,Tokyo,Books Item 36,Books,239.11,5,1195.55,2022-04-25,2022-04-25 06:46:00,Bank Transfer,Shipped,0,21.0
+1842,557,Linda Davis,linda.davis31@example.com,Berlin,Electronics Item 23,Electronics,446.99,2,893.98,2023-05-16,2023-05-16 08:08:00,Credit Card,Pending,0,19.1
+1843,532,Linda Jones,linda.jones91@example.com,Sydney,Clothing Item 46,Clothing,438.74,1,438.74,2022-07-12,2022-07-12 15:28:00,Crypto,Delivered,0,14.9
+1844,506,Mary Brown,mary.brown50@example.com,Berlin,Clothing Item 31,Clothing,171.99,1,171.99,2022-12-27,2022-12-27 09:49:00,Debit Card,Pending,0,10.4
+1845,575,Linda Garcia,linda.garcia41@example.com,Sydney,Sports Item 22,Sports,83.04,1,83.04,2022-08-29,2022-08-29 03:08:00,Credit Card,Shipped,0,24.1
+1846,533,William Rodriguez,william.rodriguez83@example.com,Paris,Books Item 19,Books,82.95,5,414.75,2022-12-09,2022-12-10 19:35:00,Credit Card,Pending,0,
+1847,553,Patricia Miller,patricia.miller36@example.com,Berlin,Clothing Item 18,Clothing,308.4,2,616.8,2022-05-20,2022-05-21 19:43:00,PayPal,Pending,0,19.7
+1848,556,Jennifer Martinez,jennifer.martinez83@example.com,Toronto,Clothing Item 36,Clothing,472.2,2,944.4,2022-07-02,2022-07-03 17:44:00,Credit Card,Pending,0,11.8
+1849,580,James Smith,james.smith78@example.com,London,Clothing Item 45,Clothing,220.07,2,440.14,2022-01-23,2022-01-24 14:44:00,Bank Transfer,Shipped,0,
+1850,539,William Rodriguez,william.rodriguez73@example.com,London,Home & Kitchen Item 43,Home & Kitchen,408.65,4,1634.6,2022-02-08,2022-02-08 13:42:00,Debit Card,Shipped,0,
+1851,575,James Davis,james.davis30@example.com,Sydney,Sports Item 45,Sports,425.98,3,1277.94,2022-11-13,2022-11-14 16:33:00,PayPal,Shipped,0,5.7
+1852,552,Jennifer Garcia,jennifer.garcia18@example.com,Mumbai,Beauty Item 7,Beauty,328.83,5,1644.15,2023-05-06,2023-05-06 01:10:00,Crypto,Shipped,1,
+1853,503,Elizabeth Smith,elizabeth.smith24@example.com,Tokyo,Clothing Item 2,Clothing,97.21,2,194.42,2023-01-06,2023-01-06 03:30:00,PayPal,Pending,0,9.6
+1854,571,Patricia Jones,patricia.jones52@example.com,Sydney,Clothing Item 29,Clothing,111.53,3,334.59,2022-09-15,2022-09-16 02:43:00,Debit Card,Shipped,0,20.3
+1855,595,Robert Rodriguez,robert.rodriguez61@example.com,New York,Electronics Item 20,Electronics,126.27,2,252.54,2023-09-07,2023-09-07 20:12:00,Bank Transfer,Shipped,0,
+1856,584,James Williams,james.williams61@example.com,New York,Beauty Item 46,Beauty,401.84,1,401.84,2022-03-14,2022-03-14 19:28:00,Credit Card,Shipped,0,12.3
+1857,576,John Johnson,john.johnson29@example.com,Mumbai,Sports Item 26,Sports,324.14,3,972.42,2022-10-06,2022-10-06 04:00:00,Credit Card,Pending,0,7.6
+1858,556,Elizabeth Garcia,elizabeth.garcia73@example.com,Paris,Electronics Item 5,Electronics,98.29,1,98.29,2023-06-12,2023-06-13 21:19:00,Bank Transfer,Pending,0,12.2
+1859,585,Patricia Davis,patricia.davis88@example.com,Mumbai,Electronics Item 45,Electronics,37.11,1,37.11,2022-11-25,2022-11-25 17:05:00,PayPal,Shipped,0,7.0
+1860,593,Linda Williams,linda.williams46@example.com,Sydney,Home & Kitchen Item 44,Home & Kitchen,150.36,5,751.8,2023-11-07,2023-11-07 23:53:00,Bank Transfer,Delivered,0,9.4
+1861,597,John Martinez,john.martinez71@example.com,Toronto,Books Item 12,Books,106.12,3,318.36,2023-09-09,2023-09-09 16:29:00,Bank Transfer,Pending,0,20.8
+1862,512,Robert Brown,robert.brown38@example.com,Paris,Electronics Item 1,Electronics,490.66,1,490.66,2023-07-18,2023-07-19 17:30:00,Debit Card,Delivered,0,
+1863,526,Michael Martinez,michael.martinez63@example.com,Sydney,Home & Kitchen Item 8,Home & Kitchen,44.52,3,133.56,2022-08-11,2022-08-11 06:30:00,Debit Card,Delivered,0,
+1864,580,James Miller,james.miller81@example.com,Tokyo,Books Item 9,Books,70.23,4,280.92,2023-03-13,2023-03-14 12:52:00,Crypto,Pending,0,
+1865,563,Mary Johnson,mary.johnson26@example.com,Sydney,Sports Item 18,Sports,476.85,2,953.7,2022-04-13,2022-04-13 17:10:00,Debit Card,Delivered,0,
+1866,529,Patricia Johnson,patricia.johnson74@example.com,Paris,Clothing Item 19,Clothing,25.76,3,77.28,2023-08-12,2023-08-13 02:13:00,Credit Card,Cancelled,0,
+1867,555,Mary Miller,mary.miller49@example.com,Berlin,Beauty Item 24,Beauty,106.64,1,106.64,2024-03-05,2024-03-06 11:53:00,PayPal,Cancelled,0,20.8
+1868,592,Linda Rodriguez,linda.rodriguez47@example.com,New York,Home & Kitchen Item 30,Home & Kitchen,101.45,3,304.35,2022-06-16,2022-06-16 15:34:00,Credit Card,Delivered,1,
+1869,595,Elizabeth Martinez,elizabeth.martinez16@example.com,Paris,Electronics Item 9,Electronics,14.44,2,28.88,2024-02-21,2024-02-22 14:14:00,PayPal,Shipped,0,10.2
+1870,538,Mary Davis,mary.davis28@example.com,Tokyo,Beauty Item 21,Beauty,461.5,5,2307.5,2023-03-07,2023-03-07 13:01:00,Credit Card,Delivered,0,
+1871,531,Linda Williams,linda.williams72@example.com,New York,Clothing Item 18,Clothing,99.19,4,396.76,2023-06-01,2023-06-02 02:04:00,Bank Transfer,Cancelled,0,12.4
+1872,566,John Miller,john.miller71@example.com,Sydney,Clothing Item 32,Clothing,338.83,4,1355.32,2023-10-21,2023-10-22 09:12:00,Debit Card,Delivered,0,9.6
+1873,541,James Garcia,james.garcia32@example.com,Berlin,Beauty Item 40,Beauty,48.08,1,48.08,2022-04-15,2022-04-16 03:03:00,PayPal,Delivered,0,
+1874,552,Linda Davis,linda.davis87@example.com,Berlin,Clothing Item 50,Clothing,442.31,5,2211.55,2022-10-19,2022-10-20 11:25:00,Credit Card,Pending,0,
+1875,529,Jennifer Johnson,jennifer.johnson70@example.com,New York,Home & Kitchen Item 46,Home & Kitchen,363.67,5,1818.35,2023-10-17,2023-10-18 15:37:00,PayPal,Delivered,0,18.4
+1876,512,Robert Jones,robert.jones77@example.com,Tokyo,Home & Kitchen Item 43,Home & Kitchen,126.12,5,630.6,2023-11-12,2023-11-12 09:22:00,Crypto,Cancelled,0,23.3
+1877,583,Elizabeth Garcia,elizabeth.garcia65@example.com,London,Home & Kitchen Item 47,Home & Kitchen,62.84,1,62.84,2022-09-29,2022-09-29 21:30:00,Crypto,Shipped,0,11.4
+1878,579,Linda Martinez,linda.martinez56@example.com,New York,Home & Kitchen Item 3,Home & Kitchen,159.56,1,159.56,2023-06-27,2023-06-27 23:25:00,Debit Card,Shipped,0,
+1879,575,Mary Williams,mary.williams76@example.com,New York,Electronics Item 31,Electronics,26.52,4,106.08,2022-05-22,2022-05-23 04:06:00,Crypto,Delivered,0,
+1880,598,Linda Brown,linda.brown54@example.com,London,Beauty Item 15,Beauty,157.45,1,157.45,2023-11-03,2023-11-03 05:32:00,Debit Card,Pending,0,16.7
+1881,549,Elizabeth Brown,elizabeth.brown32@example.com,Paris,Clothing Item 21,Clothing,270.05,1,270.05,2023-02-23,2023-02-23 16:45:00,Credit Card,Cancelled,0,22.6
+1882,599,John Rodriguez,john.rodriguez72@example.com,Toronto,Beauty Item 35,Beauty,159.25,1,159.25,2022-10-24,2022-10-25 21:14:00,PayPal,Cancelled,0,
+1883,539,John Jones,john.jones37@example.com,New York,Sports Item 21,Sports,237.38,2,474.76,2022-09-18,2022-09-18 22:28:00,Debit Card,Shipped,0,
+1884,551,William Rodriguez,william.rodriguez45@example.com,Berlin,Books Item 22,Books,364.42,1,364.42,2023-06-15,2023-06-16 01:00:00,Debit Card,Shipped,0,7.1
+1885,574,Linda Garcia,linda.garcia32@example.com,London,Beauty Item 15,Beauty,451.78,1,451.78,2022-09-26,2022-09-26 10:14:00,Bank Transfer,Shipped,0,
+1886,562,James Davis,james.davis83@example.com,Toronto,Clothing Item 13,Clothing,60.48,2,120.96,2022-10-26,2022-10-26 05:54:00,Crypto,Delivered,0,23.5
+1887,522,Mary Miller,mary.miller43@example.com,Sydney,Clothing Item 3,Clothing,62.32,2,124.64,2022-07-27,2022-07-27 21:46:00,Crypto,Delivered,0,
+1888,514,Mary Johnson,mary.johnson70@example.com,Berlin,Electronics Item 48,Electronics,460.66,5,2303.3,2023-06-19,2023-06-21 00:27:00,Debit Card,Shipped,0,19.9
+1889,518,Patricia Rodriguez,patricia.rodriguez26@example.com,Mumbai,Home & Kitchen Item 10,Home & Kitchen,482.5,2,965.0,2022-01-31,2022-01-31 10:12:00,Debit Card,Pending,0,
+1890,544,Robert Davis,robert.davis59@example.com,Paris,Clothing Item 18,Clothing,255.66,4,1022.64,2023-04-26,2023-04-27 20:36:00,PayPal,Cancelled,0,7.8
+1891,543,John Brown,john.brown15@example.com,Tokyo,Sports Item 23,Sports,378.11,3,1134.33,2022-05-26,2022-05-26 15:28:00,PayPal,Shipped,0,23.8
+1892,514,Linda Jones,linda.jones15@example.com,London,Beauty Item 4,Beauty,483.31,1,483.31,2023-09-11,2023-09-12 08:00:00,Bank Transfer,Delivered,1,7.9
+1893,514,Michael Miller,michael.miller20@example.com,London,Electronics Item 48,Electronics,215.94,4,863.76,2022-10-12,2022-10-12 09:15:00,Crypto,Cancelled,0,9.3
+1894,527,Linda Garcia,linda.garcia31@example.com,Paris,Books Item 12,Books,197.07,4,788.28,2022-08-01,2022-08-02 18:43:00,PayPal,Cancelled,1,14.5
+1895,556,Linda Brown,linda.brown25@example.com,Paris,Books Item 20,Books,16.35,5,81.75,2022-02-16,2022-02-16 18:29:00,Debit Card,Pending,0,24.5
+1896,507,William Jones,william.jones19@example.com,Mumbai,Home & Kitchen Item 44,Home & Kitchen,352.85,1,352.85,2023-08-20,2023-08-21 10:55:00,Debit Card,Cancelled,0,
+1897,513,Robert Martinez,robert.martinez98@example.com,Tokyo,Beauty Item 41,Beauty,206.73,5,1033.65,2022-04-03,2022-04-04 01:28:00,Crypto,Pending,0,
+1898,548,Jennifer Williams,jennifer.williams57@example.com,Sydney,Home & Kitchen Item 6,Home & Kitchen,26.24,4,104.96,2023-01-09,2023-01-09 07:51:00,Credit Card,Delivered,0,
+1899,569,Robert Smith,robert.smith91@example.com,Toronto,Books Item 40,Books,327.62,1,327.62,2022-11-11,2022-11-11 10:52:00,Crypto,Cancelled,0,23.1
+1900,568,Mary Brown,mary.brown38@example.com,Sydney,Sports Item 11,Sports,248.97,4,995.88,2023-10-25,2023-10-25 22:34:00,Bank Transfer,Pending,0,10.7
+1901,525,William Miller,william.miller67@example.com,Sydney,Beauty Item 9,Beauty,111.64,4,446.56,2022-03-19,2022-03-20 23:16:00,PayPal,Pending,0,
+1902,569,Elizabeth Rodriguez,elizabeth.rodriguez67@example.com,New York,Beauty Item 13,Beauty,168.45,3,505.35,2022-03-09,2022-03-10 04:21:00,Credit Card,Pending,0,
+1903,505,Michael Davis,michael.davis82@example.com,London,Home & Kitchen Item 7,Home & Kitchen,385.73,3,1157.19,2023-07-06,2023-07-07 03:14:00,Debit Card,Cancelled,0,12.3
+1904,593,Linda Rodriguez,linda.rodriguez71@example.com,Toronto,Beauty Item 3,Beauty,459.86,4,1839.44,2023-01-08,2023-01-09 00:56:00,Debit Card,Pending,0,5.8
+1905,529,Elizabeth Garcia,elizabeth.garcia78@example.com,Paris,Home & Kitchen Item 22,Home & Kitchen,146.25,5,731.25,2023-03-31,2023-04-01 19:32:00,Bank Transfer,Pending,0,21.4
+1906,565,Robert Rodriguez,robert.rodriguez92@example.com,Sydney,Beauty Item 39,Beauty,36.31,3,108.93,2024-02-14,2024-02-14 18:07:00,Crypto,Cancelled,0,
+1907,520,Mary Miller,mary.miller74@example.com,Mumbai,Electronics Item 20,Electronics,42.06,5,210.3,2022-12-29,2022-12-30 17:50:00,PayPal,Cancelled,0,20.2
+1908,530,Mary Rodriguez,mary.rodriguez21@example.com,Berlin,Sports Item 3,Sports,19.08,3,57.24,2024-02-01,2024-02-01 12:35:00,Bank Transfer,Pending,0,20.2
+1909,593,Linda Davis,linda.davis12@example.com,London,Books Item 36,Books,453.18,1,453.18,2022-11-24,2022-11-24 02:54:00,Credit Card,Delivered,0,
+1910,560,Elizabeth Garcia,elizabeth.garcia17@example.com,Mumbai,Home & Kitchen Item 5,Home & Kitchen,69.55,1,69.55,2023-01-19,2023-01-20 02:57:00,PayPal,Pending,0,10.6
+1911,516,Mary Martinez,mary.martinez65@example.com,Tokyo,Sports Item 26,Sports,460.65,4,1842.6,2023-06-25,2023-06-26 06:48:00,Crypto,Cancelled,0,7.2
+1912,584,John Johnson,john.johnson32@example.com,Berlin,Beauty Item 27,Beauty,317.71,4,1270.84,2024-02-11,2024-02-11 12:21:00,Debit Card,Pending,0,
+1913,515,William Miller,william.miller49@example.com,Toronto,Clothing Item 12,Clothing,251.23,3,753.69,2023-03-19,2023-03-19 08:43:00,Bank Transfer,Cancelled,0,
+1914,597,Robert Rodriguez,robert.rodriguez38@example.com,Berlin,Books Item 49,Books,59.66,4,238.64,2022-11-26,2022-11-27 16:26:00,Crypto,Delivered,0,19.1
+1915,517,James Johnson,james.johnson62@example.com,London,Clothing Item 17,Clothing,136.47,5,682.35,2023-09-26,2023-09-27 09:47:00,Debit Card,Pending,0,13.9
+1916,519,Elizabeth Johnson,elizabeth.johnson22@example.com,Sydney,Electronics Item 34,Electronics,474.34,5,2371.7,2023-02-16,2023-02-17 16:08:00,Bank Transfer,Pending,1,13.5
+1917,579,Robert Martinez,robert.martinez40@example.com,Tokyo,Sports Item 26,Sports,472.51,3,1417.53,2023-07-21,2023-07-22 14:28:00,Bank Transfer,Cancelled,0,
+1918,508,Mary Williams,mary.williams23@example.com,Berlin,Clothing Item 11,Clothing,21.46,3,64.38,2024-03-06,2024-03-06 21:14:00,Bank Transfer,Delivered,0,22.2
+1919,508,Mary Martinez,mary.martinez75@example.com,London,Beauty Item 34,Beauty,396.61,1,396.61,2023-05-09,2023-05-09 09:00:00,Debit Card,Cancelled,0,
+1920,598,Jennifer Williams,jennifer.williams74@example.com,Mumbai,Sports Item 21,Sports,87.75,4,351.0,2024-03-04,2024-03-05 11:26:00,Crypto,Delivered,0,
+1921,517,William Brown,william.brown78@example.com,Toronto,Books Item 23,Books,243.49,4,973.96,2023-09-17,2023-09-18 02:57:00,Crypto,Delivered,0,5.4
+1922,539,Elizabeth Williams,elizabeth.williams36@example.com,Tokyo,Clothing Item 2,Clothing,425.18,2,850.36,2022-01-22,2022-01-22 01:47:00,Crypto,Shipped,0,17.7
+1923,522,Patricia Garcia,patricia.garcia76@example.com,Sydney,Electronics Item 8,Electronics,260.93,5,1304.65,2023-07-24,2023-07-24 15:11:00,Bank Transfer,Pending,0,
+1924,512,James Smith,james.smith92@example.com,New York,Clothing Item 13,Clothing,412.19,4,1648.76,2022-02-04,2022-02-04 12:35:00,Crypto,Cancelled,0,9.0
+1925,506,Linda Rodriguez,linda.rodriguez76@example.com,Toronto,Books Item 34,Books,174.48,1,174.48,2022-06-24,2022-06-24 03:58:00,Crypto,Shipped,0,13.2
+1926,523,Mary Johnson,mary.johnson85@example.com,Paris,Books Item 46,Books,194.24,4,776.96,2022-07-11,2022-07-11 06:31:00,Credit Card,Cancelled,0,20.5
+1927,542,William Martinez,william.martinez81@example.com,Mumbai,Beauty Item 14,Beauty,496.88,2,993.76,2023-09-30,2023-09-30 01:22:00,Crypto,Pending,0,8.5
+1928,599,Robert Jones,robert.jones36@example.com,Sydney,Home & Kitchen Item 1,Home & Kitchen,402.6,4,1610.4,2022-03-31,2022-03-31 20:23:00,Crypto,Pending,0,
+1929,521,Patricia Garcia,patricia.garcia70@example.com,New York,Home & Kitchen Item 4,Home & Kitchen,208.58,1,208.58,2023-03-09,2023-03-10 13:08:00,Crypto,Shipped,0,
+1930,550,Linda Williams,linda.williams94@example.com,Paris,Home & Kitchen Item 47,Home & Kitchen,298.75,3,896.25,2023-12-23,2023-12-23 13:01:00,Bank Transfer,Cancelled,0,7.8
+1931,527,Michael Garcia,michael.garcia18@example.com,Berlin,Sports Item 1,Sports,471.41,3,1414.23,2023-12-24,2023-12-25 13:09:00,Credit Card,Cancelled,0,10.0
+1932,572,Patricia Jones,patricia.jones25@example.com,Tokyo,Home & Kitchen Item 30,Home & Kitchen,303.46,1,303.46,2023-07-06,2023-07-06 21:12:00,Credit Card,Shipped,0,8.7
+1933,517,Linda Johnson,linda.johnson64@example.com,Tokyo,Electronics Item 31,Electronics,100.66,1,100.66,2022-09-18,2022-09-19 10:50:00,Debit Card,Cancelled,0,10.7
+1934,503,Elizabeth Williams,elizabeth.williams66@example.com,Sydney,Books Item 35,Books,415.82,4,1663.28,2022-09-13,2022-09-13 14:54:00,Crypto,Cancelled,0,20.1
+1935,594,Robert Smith,robert.smith10@example.com,New York,Electronics Item 34,Electronics,20.15,3,60.45,2022-12-25,2022-12-26 21:41:00,Credit Card,Cancelled,0,16.2
+1936,599,Michael Jones,michael.jones99@example.com,Berlin,Books Item 42,Books,66.85,2,133.7,2022-10-17,2022-10-17 16:25:00,PayPal,Shipped,0,6.8
+1937,563,Robert Johnson,robert.johnson19@example.com,London,Electronics Item 46,Electronics,358.67,2,717.34,2023-03-19,2023-03-20 19:24:00,Debit Card,Pending,1,20.6
+1938,534,Robert Davis,robert.davis22@example.com,Mumbai,Books Item 48,Books,73.66,4,294.64,2023-06-23,2023-06-23 03:51:00,PayPal,Cancelled,0,6.0
+1939,578,Patricia Rodriguez,patricia.rodriguez52@example.com,Mumbai,Home & Kitchen Item 7,Home & Kitchen,48.06,1,48.06,2023-08-17,2023-08-17 01:07:00,Bank Transfer,Shipped,0,22.2
+1940,543,John Rodriguez,john.rodriguez65@example.com,Toronto,Home & Kitchen Item 18,Home & Kitchen,172.23,3,516.69,2023-01-03,2023-01-04 23:37:00,Debit Card,Shipped,0,6.0
+1941,537,John Smith,john.smith58@example.com,New York,Sports Item 1,Sports,102.74,5,513.7,2022-11-14,2022-11-15 10:17:00,Crypto,Pending,0,19.9
+1942,576,James Brown,james.brown76@example.com,Mumbai,Home & Kitchen Item 34,Home & Kitchen,130.57,1,130.57,2024-02-26,2024-02-27 07:43:00,Credit Card,Pending,0,
+1943,579,Jennifer Martinez,jennifer.martinez25@example.com,Paris,Sports Item 28,Sports,427.78,3,1283.34,2022-08-09,2022-08-10 08:38:00,Bank Transfer,Pending,1,10.7
+1944,586,James Garcia,james.garcia42@example.com,Tokyo,Books Item 22,Books,168.85,1,168.85,2023-01-07,2023-01-07 02:11:00,Credit Card,Shipped,0,10.9
+1945,576,William Johnson,william.johnson56@example.com,London,Beauty Item 17,Beauty,394.73,1,394.73,2022-10-22,2022-10-22 10:40:00,Credit Card,Pending,0,19.5
+1946,527,William Williams,william.williams37@example.com,London,Sports Item 17,Sports,213.92,3,641.76,2023-02-26,2023-02-26 12:42:00,Crypto,Shipped,0,10.2
+1947,548,William Brown,william.brown99@example.com,London,Sports Item 2,Sports,287.74,4,1150.96,2022-12-25,2022-12-25 17:42:00,Bank Transfer,Cancelled,0,23.1
+1948,571,William Williams,william.williams10@example.com,Paris,Clothing Item 34,Clothing,420.58,4,1682.32,2023-02-07,2023-02-07 07:58:00,PayPal,Delivered,0,15.7
+1949,575,Mary Rodriguez,mary.rodriguez37@example.com,London,Electronics Item 38,Electronics,227.48,5,1137.4,2023-03-03,2023-03-04 16:12:00,PayPal,Delivered,0,23.4
+1950,563,Jennifer Martinez,jennifer.martinez81@example.com,Paris,Books Item 1,Books,481.73,1,481.73,2022-10-16,2022-10-16 03:21:00,Debit Card,Cancelled,0,
+1951,555,William Williams,william.williams27@example.com,New York,Beauty Item 43,Beauty,241.25,3,723.75,2024-03-05,2024-03-05 02:25:00,PayPal,Pending,0,6.3
+1952,557,Elizabeth Jones,elizabeth.jones72@example.com,Sydney,Books Item 1,Books,485.54,2,971.08,2023-09-13,2023-09-14 07:39:00,Credit Card,Shipped,0,9.0
+1953,567,John Williams,john.williams94@example.com,Mumbai,Clothing Item 49,Clothing,267.35,3,802.05,2022-11-27,2022-11-27 02:37:00,PayPal,Pending,0,
+1954,532,William Smith,william.smith84@example.com,Paris,Home & Kitchen Item 15,Home & Kitchen,268.82,2,537.64,2022-02-09,2022-02-10 19:30:00,Crypto,Shipped,0,14.9
+1955,560,Michael Williams,michael.williams26@example.com,Tokyo,Electronics Item 32,Electronics,333.46,2,666.92,2023-10-14,2023-10-15 02:11:00,Bank Transfer,Pending,0,6.3
+1956,600,Elizabeth Davis,elizabeth.davis54@example.com,Sydney,Home & Kitchen Item 39,Home & Kitchen,160.55,2,321.1,2023-09-04,2023-09-05 01:09:00,Debit Card,Pending,0,17.4
+1957,533,Linda Martinez,linda.martinez82@example.com,Berlin,Clothing Item 33,Clothing,198.64,5,993.2,2023-02-26,2023-02-27 23:34:00,Debit Card,Pending,0,9.9
+1958,595,Patricia Jones,patricia.jones54@example.com,Mumbai,Books Item 35,Books,324.23,1,324.23,2022-09-06,2022-09-06 21:37:00,Credit Card,Cancelled,0,7.7
+1959,599,Patricia Brown,patricia.brown26@example.com,Berlin,Sports Item 8,Sports,373.11,2,746.22,2023-03-24,2023-03-25 18:05:00,Bank Transfer,Pending,0,10.1
+1960,567,Michael Jones,michael.jones66@example.com,Tokyo,Home & Kitchen Item 20,Home & Kitchen,78.36,5,391.8,2023-06-16,2023-06-17 06:33:00,Debit Card,Pending,0,9.8
+1961,529,Michael Miller,michael.miller11@example.com,New York,Beauty Item 4,Beauty,258.88,1,258.88,2023-10-11,2023-10-12 07:33:00,Crypto,Delivered,0,
+1962,552,Elizabeth Jones,elizabeth.jones30@example.com,Paris,Clothing Item 5,Clothing,317.67,4,1270.68,2023-07-03,2023-07-04 03:25:00,Debit Card,Pending,0,6.9
+1963,585,Linda Davis,linda.davis25@example.com,New York,Clothing Item 35,Clothing,17.35,2,34.7,2022-09-02,2022-09-03 06:58:00,Credit Card,Delivered,0,
+1964,511,Mary Davis,mary.davis99@example.com,Tokyo,Clothing Item 47,Clothing,490.6,3,1471.8,2024-01-05,2024-01-05 09:19:00,Crypto,Cancelled,0,23.6
+1965,510,Mary Martinez,mary.martinez84@example.com,Sydney,Clothing Item 11,Clothing,427.23,4,1708.92,2023-06-21,2023-06-21 14:57:00,Debit Card,Cancelled,0,23.5
+1966,539,John Miller,john.miller60@example.com,Tokyo,Home & Kitchen Item 13,Home & Kitchen,137.49,5,687.45,2022-02-26,2022-02-26 10:55:00,Credit Card,Cancelled,0,
+1967,524,Linda Johnson,linda.johnson98@example.com,London,Clothing Item 27,Clothing,146.36,4,585.44,2024-02-28,2024-02-29 16:18:00,PayPal,Shipped,0,5.7
+1968,600,Mary Martinez,mary.martinez78@example.com,New York,Beauty Item 9,Beauty,31.66,3,94.98,2023-07-25,2023-07-26 01:01:00,PayPal,Cancelled,0,
+1969,575,Elizabeth Johnson,elizabeth.johnson28@example.com,Mumbai,Beauty Item 11,Beauty,270.74,3,812.22,2022-01-01,2022-01-01 19:14:00,Debit Card,Cancelled,0,19.8
+1970,524,William Miller,william.miller36@example.com,Paris,Books Item 20,Books,164.75,1,164.75,2022-06-19,2022-06-19 17:15:00,Credit Card,Pending,0,21.4
+1971,550,Linda Martinez,linda.martinez44@example.com,Sydney,Home & Kitchen Item 18,Home & Kitchen,161.35,3,484.05,2023-10-18,2023-10-18 15:29:00,Debit Card,Shipped,0,14.4
+1972,572,William Smith,william.smith27@example.com,Tokyo,Clothing Item 8,Clothing,22.39,1,22.39,2023-05-25,2023-05-25 04:15:00,Crypto,Cancelled,0,11.6
+1973,567,Mary Miller,mary.miller94@example.com,London,Beauty Item 43,Beauty,91.15,4,364.6,2023-07-17,2023-07-18 12:39:00,PayPal,Pending,0,17.9
+1974,586,Elizabeth Jones,elizabeth.jones24@example.com,Berlin,Electronics Item 30,Electronics,111.74,4,446.96,2024-01-24,2024-01-25 16:59:00,PayPal,Delivered,0,
+1975,592,John Rodriguez,john.rodriguez26@example.com,Berlin,Books Item 35,Books,37.2,3,111.6,2023-10-26,2023-10-26 02:59:00,PayPal,Shipped,0,
+1976,502,Patricia Williams,patricia.williams79@example.com,New York,Home & Kitchen Item 39,Home & Kitchen,99.85,5,499.25,2022-12-30,2022-12-30 15:30:00,Crypto,Pending,0,20.4
+1977,559,Elizabeth Rodriguez,elizabeth.rodriguez46@example.com,London,Beauty Item 20,Beauty,116.92,4,467.68,2022-03-02,2022-03-03 23:10:00,Bank Transfer,Cancelled,0,20.8
+1978,562,Linda Johnson,linda.johnson62@example.com,New York,Beauty Item 47,Beauty,419.43,5,2097.15,2022-09-02,2022-09-02 04:54:00,PayPal,Pending,0,17.3
+1979,509,James Williams,james.williams31@example.com,London,Home & Kitchen Item 37,Home & Kitchen,448.7,2,897.4,2023-07-01,2023-07-01 04:21:00,Crypto,Cancelled,0,23.4
+1980,540,Elizabeth Jones,elizabeth.jones35@example.com,London,Electronics Item 12,Electronics,165.27,3,495.81,2023-04-01,2023-04-02 08:48:00,Debit Card,Cancelled,0,11.2
+1981,526,John Johnson,john.johnson32@example.com,New York,Home & Kitchen Item 33,Home & Kitchen,475.99,5,2379.95,2023-02-09,2023-02-10 22:31:00,Bank Transfer,Delivered,0,
+1982,510,Michael Davis,michael.davis85@example.com,Mumbai,Home & Kitchen Item 34,Home & Kitchen,202.14,5,1010.7,2023-02-09,2023-02-09 23:31:00,Crypto,Delivered,0,7.6
+1983,591,William Davis,william.davis32@example.com,Tokyo,Beauty Item 9,Beauty,432.81,4,1731.24,2024-03-04,2024-03-04 15:41:00,PayPal,Cancelled,0,18.4
+1984,590,Jennifer Rodriguez,jennifer.rodriguez47@example.com,Mumbai,Sports Item 1,Sports,44.55,5,222.75,2024-02-21,2024-02-22 14:41:00,Debit Card,Shipped,0,22.1
+1985,505,William Jones,william.jones72@example.com,London,Home & Kitchen Item 17,Home & Kitchen,196.26,3,588.78,2022-04-21,2022-04-22 09:24:00,Bank Transfer,Cancelled,0,
+1986,520,William Davis,william.davis54@example.com,Berlin,Beauty Item 3,Beauty,286.44,1,286.44,2022-08-17,2022-08-17 22:46:00,PayPal,Delivered,1,
+1987,572,Patricia Johnson,patricia.johnson50@example.com,Paris,Clothing Item 39,Clothing,351.57,3,1054.71,2024-03-03,2024-03-04 09:18:00,PayPal,Cancelled,0,
+1988,578,James Davis,james.davis42@example.com,Tokyo,Sports Item 16,Sports,25.53,4,102.12,2023-09-09,2023-09-09 09:04:00,Crypto,Pending,0,19.1
+1989,559,Jennifer Jones,jennifer.jones97@example.com,New York,Books Item 32,Books,491.85,3,1475.55,2022-06-02,2022-06-02 06:54:00,Bank Transfer,Cancelled,0,9.5
+1990,501,William Jones,william.jones15@example.com,Paris,Sports Item 49,Sports,299.18,3,897.54,2023-08-27,2023-08-27 05:54:00,Credit Card,Cancelled,0,17.9
+1991,551,Elizabeth Williams,elizabeth.williams24@example.com,Paris,Books Item 45,Books,354.43,4,1417.72,2023-03-27,2023-03-27 22:32:00,Credit Card,Pending,0,16.1
+1992,557,James Brown,james.brown70@example.com,Tokyo,Books Item 48,Books,405.82,2,811.64,2022-06-24,2022-06-25 17:26:00,Bank Transfer,Shipped,0,
+1993,598,William Martinez,william.martinez94@example.com,Toronto,Home & Kitchen Item 42,Home & Kitchen,473.52,3,1420.56,2022-02-15,2022-02-15 07:33:00,Credit Card,Shipped,0,23.1
+1994,523,Mary Miller,mary.miller34@example.com,New York,Beauty Item 48,Beauty,71.99,5,359.95,2023-04-21,2023-04-21 21:05:00,Bank Transfer,Delivered,0,23.8
+1995,565,Linda Miller,linda.miller24@example.com,Sydney,Clothing Item 43,Clothing,305.95,1,305.95,2023-08-25,2023-08-25 03:13:00,Bank Transfer,Pending,0,17.4
+1996,575,Linda Williams,linda.williams89@example.com,Mumbai,Clothing Item 26,Clothing,347.87,3,1043.61,2022-10-30,2022-10-30 15:36:00,Credit Card,Delivered,0,20.3
+1997,520,Linda Johnson,linda.johnson53@example.com,New York,Books Item 27,Books,67.51,4,270.04,2022-10-24,2022-10-24 11:01:00,Crypto,Pending,0,15.2
+1998,543,Elizabeth Davis,elizabeth.davis64@example.com,Paris,Clothing Item 3,Clothing,224.96,4,899.84,2022-07-08,2022-07-08 23:15:00,PayPal,Shipped,0,19.5
+1999,580,Elizabeth Rodriguez,elizabeth.rodriguez20@example.com,London,Clothing Item 36,Clothing,430.31,2,860.62,2023-06-28,2023-06-28 18:50:00,Crypto,Delivered,0,
+2000,514,Mary Johnson,mary.johnson37@example.com,Berlin,Books Item 36,Books,283.77,1,283.77,2023-06-25,2023-06-26 13:33:00,Crypto,Cancelled,0,20.9

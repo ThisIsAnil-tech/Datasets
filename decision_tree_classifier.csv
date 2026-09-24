@@ -1,0 +1,16 @@
+outlook,windy,traffic,road_condition,late_for_work
+s,1,1,p,1
+r,1,1,p,0
+c,0,0,s,0
+s,1,0,s,0
+c,1,1,b,1
+r,1,0,p,1
+s,0,1,s,0
+r,1,1,s,1
+c,0,1,b,1
+s,0,0,s,0
+r,1,1,b,1
+c,0,0,s,0
+c,1,1,b,0
+r,0,1,p,0
+s,1,1,s,0
